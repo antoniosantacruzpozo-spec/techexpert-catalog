@@ -3,13 +3,14 @@ import "dotenv/config"
 import fs from "fs"
 import path from "path"
 import { parse } from "csv-parse/sync"
-
-import { PrismaClient } from "../src/generated/prisma/client"
+import { PrismaClient } from "@prisma/client"
 import { Pool } from "pg"
 import { PrismaPg } from "@prisma/adapter-pg"
 
+const connectionString = process.env.DATABASE_URL!
+
 const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
+  connectionString,
 })
 
 const adapter = new PrismaPg(pool)
@@ -18,38 +19,57 @@ const prisma = new PrismaClient({
   adapter,
 })
 
+type CsvProduct = {
+  Codigo?: string
+  codigo?: string
+  Nombre?: string
+  nombre?: string
+  Categoria?: string
+  categoria?: string
+  Descripcion?: string
+  descripcion?: string
+  Stock?: string
+  stock?: string
+}
+
+function slugify(value: string) {
+  return value
+    .toLowerCase()
+    .trim()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+}
+
 async function main() {
-  const filePath = path.join(process.cwd(), "productos.csv")
-  const fileContent = fs.readFileSync(filePath, "utf-8")
+  const csvPath = path.join(process.cwd(), "productos.csv")
+
+  const fileContent = fs.readFileSync(csvPath, "utf8")
 
   const records = parse(fileContent, {
     columns: true,
     skip_empty_lines: true,
-    delimiter: ";",
-    bom: true,
     trim: true,
-  })
+  }) as CsvProduct[]
 
-  for (const row of records) {
-    const code = String(row.code || "").trim()
-    const name = String(row.name || "").trim()
-    const categoryName = String(row.category || "").trim()
-    const stockQuantity = Number(row.stock_quantity || 0)
-    const simpleDescription = String(row.simple_description || "").trim()
+  for (const record of records) {
+    const code = record.Codigo ?? record.codigo
+    const name = record.Nombre ?? record.nombre
+    const categoryName = record.Categoria ?? record.categoria ?? "General"
+    const simpleDescription =
+      record.Descripcion ?? record.descripcion ?? null
 
-    if (!code) {
-      console.log("⚠️ Producto omitido porque no tiene código:", row)
-      continue
-    }
+    const stockText = record.Stock ?? record.stock ?? "0"
+    const stockQuantity = Number(stockText) || 0
 
-    if (!name) {
-      console.log("⚠️ Producto omitido porque no tiene nombre:", row)
+    if (!code || !name) {
       continue
     }
 
     const category = await prisma.category.upsert({
       where: {
-        slug: categoryName.toLowerCase().replace(/\s+/g, "-"),
+        slug: slugify(categoryName),
       },
       update: {
         erpName: categoryName,
@@ -58,7 +78,7 @@ async function main() {
       create: {
         erpName: categoryName,
         publicName: categoryName,
-        slug: categoryName.toLowerCase().replace(/\s+/g, "-"),
+        slug: slugify(categoryName),
       },
     })
 
@@ -71,6 +91,7 @@ async function main() {
         simpleDescription,
         stockQuantity,
         inStock: stockQuantity > 0,
+        visible: true,
         categoryId: category.id,
       },
       create: {
@@ -79,21 +100,20 @@ async function main() {
         simpleDescription,
         stockQuantity,
         inStock: stockQuantity > 0,
+        visible: true,
         categoryId: category.id,
       },
     })
-
-    console.log(`✅ Producto importado: ${code} - ${name}`)
   }
 
-  console.log("🎉 Importación finalizada")
+  console.log(`Importados ${records.length} productos`)
 }
 
 main()
   .catch((error) => {
     console.error(error)
+    process.exit(1)
   })
   .finally(async () => {
     await prisma.$disconnect()
-    await pool.end()
   })
