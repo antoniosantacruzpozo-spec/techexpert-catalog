@@ -7,7 +7,11 @@ import { PrismaClient } from "@prisma/client"
 import { Pool } from "pg"
 import { PrismaPg } from "@prisma/adapter-pg"
 
-const connectionString = process.env.DATABASE_URL!
+const connectionString = process.env.DATABASE_URL
+
+if (!connectionString) {
+  throw new Error("DATABASE_URL no está configurado")
+}
 
 const pool = new Pool({
   connectionString,
@@ -18,19 +22,6 @@ const adapter = new PrismaPg(pool)
 const prisma = new PrismaClient({
   adapter,
 })
-
-type CsvProduct = {
-  Codigo?: string
-  codigo?: string
-  Nombre?: string
-  nombre?: string
-  Categoria?: string
-  categoria?: string
-  Descripcion?: string
-  descripcion?: string
-  Stock?: string
-  stock?: string
-}
 
 function slugify(value: string) {
   return value
@@ -44,24 +35,28 @@ function slugify(value: string) {
 
 async function main() {
   const csvPath = path.join(process.cwd(), "productos.csv")
-
   const fileContent = fs.readFileSync(csvPath, "utf8")
 
   const records = parse(fileContent, {
     columns: true,
     skip_empty_lines: true,
     trim: true,
-  }) as CsvProduct[]
+    delimiter: ";",
+    relax_quotes: true,
+    bom: true,
+  }) as Record<string, string>[]
+
+  let imported = 0
 
   for (const record of records) {
-    const code = record.Codigo ?? record.codigo
-    const name = record.Nombre ?? record.nombre
-    const categoryName = record.Categoria ?? record.categoria ?? "General"
+    const code = record.code?.trim()
+    const name = record.name?.trim()
+    const categoryName = record.category?.trim() || "General"
     const simpleDescription =
-      record.Descripcion ?? record.descripcion ?? null
+      record.simple_description?.trim() || null
 
-    const stockText = record.Stock ?? record.stock ?? "0"
-    const stockQuantity = Number(stockText) || 0
+    const stockQuantity =
+      Number(record.stock_quantity?.trim()) || 0
 
     if (!code || !name) {
       continue
@@ -104,9 +99,13 @@ async function main() {
         categoryId: category.id,
       },
     })
+
+    imported++
   }
 
-  console.log(`Importados ${records.length} productos`)
+  console.log(
+    `Importados correctamente ${imported} productos`
+  )
 }
 
 main()
