@@ -33,8 +33,28 @@ function slugify(value: string) {
     .replace(/^-+|-+$/g, "")
 }
 
+function parseDisplayOrder(value: string | undefined) {
+  const parsed = Number(value?.trim())
+
+  if (!Number.isFinite(parsed) || parsed <= 0) {
+    return 999999
+  }
+
+  return Math.floor(parsed)
+}
+
+function parseVisible(value: string | undefined) {
+  const normalized = value?.trim()
+
+  if (normalized === "0") {
+    return false
+  }
+
+  return true
+}
+
 async function main() {
-  const csvPath = path.join(process.cwd(), "productos.csv")
+  const csvPath = path.join(process.cwd(), "productos_final.csv")
   const fileContent = fs.readFileSync(csvPath, "utf8")
 
   const records = parse(fileContent, {
@@ -48,6 +68,12 @@ async function main() {
 
   let imported = 0
 
+  await prisma.product.updateMany({
+  data: {
+    visible: false,
+  },
+})
+
   for (const record of records) {
     const code = record.code?.trim()
     const name = record.name?.trim()
@@ -57,6 +83,9 @@ async function main() {
 
     const stockQuantity =
       Number(record.stock_quantity?.trim()) || 0
+
+    const displayOrder = parseDisplayOrder(record.display_order)
+    const visible = parseVisible(record.visible)
 
     if (!code || !name) {
       continue
@@ -86,7 +115,8 @@ async function main() {
         simpleDescription,
         stockQuantity,
         inStock: stockQuantity > 0,
-        visible: true,
+        visible,
+        displayOrder,
         categoryId: category.id,
       },
       create: {
@@ -95,7 +125,8 @@ async function main() {
         simpleDescription,
         stockQuantity,
         inStock: stockQuantity > 0,
-        visible: true,
+        visible,
+        displayOrder,
         categoryId: category.id,
       },
     })

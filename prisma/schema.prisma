@@ -14,6 +14,7 @@ model Product {
   stockQuantity     Int            @default(0)
   inStock           Boolean        @default(false)
   visible           Boolean        @default(true)
+  displayOrder      Int            @default(999999)
 
   categoryId        Int?
   category          Category?      @relation(fields: [categoryId], references: [id])

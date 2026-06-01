@@ -1,772 +1,772 @@
-﻿code;name;category;stock_quantity;simple_description
-01003           ;MICRO SD KINGSTON 100 MB/S 64GB   ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 64GB ⚡ almacenamiento portátil y confiable
-01004           ;MICRO SD KINGSTON 100 MB/S 128GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 128GB ⚡ almacenamiento portátil y confiable
-01005           ;MICRO SD KINGSTON 100 MB/S 256GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 256GB ⚡ almacenamiento portátil y confiable
-01006           ;MICRO SD KINGSTON 100 MB/S 512GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 512GB ⚡ almacenamiento portátil y confiable
-01016           ;FLASH EXODIA K 3,2 64GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;1;💾 64GB ⚡ velocidad USB 3.2 y práctico
-01017           ;FLASH EXODIA K 3,2 128GB          ;MICRO SD / PEN DRIVES / DISCOS DUROS;22;💾 128GB ⚡ velocidad USB 3.2 y práctico
-010251          ;FLASH MEMORY SANDISK UL FIT 32GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 32GB ⚡ diseño compacto y rápido
-010271          ;FLASH MEMORY SANDISK 128GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 128GB ⚡ almacenamiento portátil y práctico
-01030           ;DDS KINGSTON A400 240GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 240GB ⚡ rendimiento rápido y estable
-01031           ;DDS KINGSTON A400 480GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 480GB ⚡ rendimiento rápido y estable
-01034           ;FLASH MEMORY ECCO 16GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;68;💾 16GB ⚡ almacenamiento portátil y práctico
-01035           ;FLASH MEMORY ECCO 4GB             ;MICRO SD / PEN DRIVES / DISCOS DUROS;232;💾 4GB ⚡ almacenamiento portátil y práctico
-01036           ;FLASH MEMORY ECCO 8GB             ;MICRO SD / PEN DRIVES / DISCOS DUROS;162;💾 8GB ⚡ almacenamiento portátil y práctico
-01037           ;MEMORIA MICRO SD ECCO 16GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 16GB ⚡ almacenamiento portátil y confiable
-01038           ;MEMORIA MICRO SD ECCO 4GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 4GB ⚡ almacenamiento portátil y confiable
-01039           ;MEMORIA MICRO SD ECCO 8GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 8GB ⚡ almacenamiento portátil y confiable
-010391          ;MEMORIA MICRO SD ECCO 32GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 32GB ⚡ almacenamiento portátil y confiable
-01043           ;DDS KINGSTON A400 960GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 960GB ⚡ rendimiento rápido y estable
-01046           ;DDS WESTERN DIGITAL 240GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 240GB ⚡ rendimiento rápido y estable
-01049           ;DDS KINGSTON M2 500GB             ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 500GB ⚡ formato M.2 rápido y eficiente
-01050           ;DDS KINGSTON M2  1TB              ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 1TB ⚡ formato M.2 rápido y eficiente
-01053           ;DDS ADATA 240GB                   ;MICRO SD / PEN DRIVES / DISCOS DUROS;5;💽 240GB ⚡ rendimiento rápido y estable
-01054           ;DDS ADATA 480GB                   ;MICRO SD / PEN DRIVES / DISCOS DUROS;2;💽 480GB ⚡ rendimiento rápido y estable
-01056           ;DDS WESTERN DIGITAL 480GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;4;💽 480GB ⚡ rendimiento rápido y estable
-010561          ;DDS WESTERN DIGITAL 1TB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 1TB ⚡ rendimiento rápido y estable
-01057           ;FLASH MEMORY ECCO 32GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;3;💾 32GB ⚡ almacenamiento portátil y práctico
-010632          ;FLASH MEMORY SANDISK UL FIT 16GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 16GB ⚡ diseño compacto y rápido
-01065           ;ENCLOSURE ARGOM 2.51nc SATA       ;MICRO SD / PEN DRIVES / DISCOS DUROS;4;💽 Enclosure SATA ⚡ convierte discos en almacenamiento externo
-01075           ;FLASH MEMORY ADATA 32GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 32GB ⚡ almacenamiento portátil y práctico
-01076           ;FLASH MEMORY ADATA 64GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;10;💾 64GB ⚡ almacenamiento portátil y práctico
-01085           ;FLASH MEMORY SPEED 4GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;2;💾 4GB ⚡ almacenamiento portátil y práctico
-01086           ;FLASH MEMORY SPEED 8GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 8GB ⚡ almacenamiento portátil y práctico
-01087           ;FLASH MEMORY SPEED 16GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;2;💾 16GB ⚡ almacenamiento portátil y práctico
-01088           ;FLASH MEMORY SPEED 32GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;214;💾 32GB ⚡ almacenamiento portátil y práctico
-01090           ;MEMORIA MICRO SD SPEED 4GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 4GB ⚡ almacenamiento portátil y confiable
-01091           ;MEMORIA MICRO SD SPEED 8GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;18;📱 8GB ⚡ almacenamiento portátil y confiable
-01092           ;MEMORIA MICRO SD SPEED 16GB       ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 16GB ⚡ almacenamiento portátil y confiable
-01093           ;MEMORIA MICRO SD SPEED 32GB       ;MICRO SD / PEN DRIVES / DISCOS DUROS;35;📱 32GB ⚡ almacenamiento portátil y confiable
-01100           ;FLASH EXODIA K 3,2 256GB          ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 256GB ⚡ velocidad USB 3.2 y práctico
-02001           ;CABLE LDNIO SY-03 BLANCO 1M V8    ;CABLES / ADAPTADORES;382;🔌 1m ⚡ carga práctica y resistente
-02002           ;CABLE LDNIO SY-03 BLANCO 1M IOS   ;CABLES / ADAPTADORES;173;🔌 1m ⚡ carga estable para iPhone
-02003           ;CABLE LDNIO XS-07 PLANO 1M TIPO C ;CABLES / ADAPTADORES;623;🔌 07 P ⚡ carga rápida Type-C
-020100          ;CABLE LDNIO LC811C TIPO C A C     ;CABLES / ADAPTADORES;49;🔌 USB-C ⚡ carga rápida y estable
-020101          ;CABLE LDNIO LC631 65W 1M TC A C   ;CABLES / ADAPTADORES;15;🔌 65W USB-C ⚡ carga rápida y estable
-0201011         ;CABLE LDNIO LC631 30W 1M TC A IP  ;CABLES / ADAPTADORES;0;🔌 30W USB-C a iPhone ⚡ carga rápida
-020102          ;CABLE LDNIO LC901 65W TC A C      ;CABLES / ADAPTADORES;40;🔌 65W USB-C ⚡ carga rápida y estable
-0201021         ;CABLE LDNIO LC901 30W TC A IP     ;CABLES / ADAPTADORES;0;🔌 30W USB-C a iPhone ⚡ carga rápida
-020103          ;CABLE LDNIO LC921 240W 1M TC A C  ;CABLES / ADAPTADORES;33;🔌 240W USB-C ⚡ carga rápida y estable
-02012           ;CABLE LDNIO LS531 TELA 1M TIPO C  ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C
-02024           ;CABLE LDNIO LS442 NYLON 2M IOS    ;CABLES / ADAPTADORES;64;🔌 2m ⚡ carga estable para iPhone
-02025           ;CABLE LDNIO LS442 NYLON 2M TIPO C ;CABLES / ADAPTADORES;0;🔌 2m ⚡ carga rápida Type-C
-02034           ;CABLE HDMI 3 MTS                  ;CABLES / ADAPTADORES;72;📺 3 m ⚡ imagen y sonido en alta calidad
-02035           ;CABLE HDMI 5 MTS                  ;CABLES / ADAPTADORES;57;📺 5 m ⚡ imagen y sonido en alta calidad
-02041           ;CABLE LDNIO LS441 NYLON 1M TIPO C ;CABLES / ADAPTADORES;124;🔌 1m ⚡ carga rápida Type-C
-020411          ;CABLE LDNIO LC441 65W 1M TC A TC  ;CABLES / ADAPTADORES;0;🔌 65W 1m ⚡ carga rápida Type-C
-020412          ;CABLE LDNIO LC441 30W 1M TC A IOS ;CABLES / ADAPTADORES;0;🔌 30W USB-C a iPhone ⚡ carga rápida
-02042           ;CABLE LDNIO LS441 NYLON 1M IOS    ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone
-02053           ;CABLE LDNIO XS-07 PLANO 1M V8     ;CABLES / ADAPTADORES;6;🔌 07 P ⚡ carga práctica y resistente
-02057           ;CABLE LDNIO LC121 1M TC A TC      ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C
-02058           ;CABLE LDNIO LC121 1M TC A IOS     ;CABLES / ADAPTADORES;0;🔌 USB-C a iPhone ⚡ carga rápida
-02059           ;CABLE IP LIGHT 1M USB A IOS       ;CABLES / ADAPTADORES;16;🔌 1m ⚡ carga estable para iPhone
-020591          ;CABLE IP LIGHT 1M TC A TC         ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C
-020592          ;CABLE IP LIGHT 1M USB A IOS X     ;CABLES / ADAPTADORES;56;🔌 1m ⚡ carga estable para iPhone
-020593          ;CABLE IP LIGHT 60W 1M TC A TC     ;CABLES / ADAPTADORES;178;🔌 60W 1m ⚡ carga rápida Type-C
-02067           ;CABLE REALME USB TIPO C           ;CABLES / ADAPTADORES;22;🔌 1m ⚡ carga rápida Type-C
-020671          ;CABLE ANSTY SUELTO V8             ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga práctica y resistente
-020672          ;CABLE ANSTY SUELTO IP             ;CABLES / ADAPTADORES;20;🔌 1m ⚡ carga estable para iPhone
-020701          ;CABLE LDNIO AUX LS-Y81A 1M        ;CABLES / ADAPTADORES;64;🎧 AUX 1m 🔊 sonido claro y estable
-020702          ;CABLE LDNIO AUX LS-Y82A 2M        ;CABLES / ADAPTADORES;29;🎧 AUX 2m 🔊 sonido claro y estable
-020703          ;CABLE LDNIO AUX LS-Y91A 1M        ;CABLES / ADAPTADORES;0;🎧 AUX 1m 🔊 sonido claro y estable
-02072           ;CABLE IP 4                        ;CABLES / ADAPTADORES;105;🔌 30 pines 📱 carga y datos para iPhone antiguo
-02073           ;CABLE HDMI 1.5 MTS                ;CABLES / ADAPTADORES;201;📺 1.5 m ⚡ imagen y sonido en alta calidad
-02084           ;CABLE LDNIO LS561 EN L 1M TIPO C  ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C
-02085           ;CABLE LDNIO LS561 EN L 1M IOS     ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone
-02094           ;CABLE LDNIO LS631 1M V8           ;CABLES / ADAPTADORES;58;🔌 1m ⚡ carga práctica y resistente
-02095           ;CABLE LDNIO LS631 1M IOS          ;CABLES / ADAPTADORES;77;🔌 1m ⚡ carga estable para iPhone
-02096           ;CABLE LDNIO LS631 1M TIPO C       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C
-02097           ;CABLE LDNIO LS632 2M V8           ;CABLES / ADAPTADORES;0;🔌 2m ⚡ carga práctica y resistente
-02098           ;CABLE LDNIO LS632 2M IOS          ;CABLES / ADAPTADORES;120;🔌 2m ⚡ carga estable para iPhone
-02099           ;CABLE LDNIO LS632 2M TIPO C       ;CABLES / ADAPTADORES;300;🔌 2m ⚡ carga rápida Type-C
-02106           ;CABLE LDNIO LS801 1M V8           ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga práctica y resistente
-02107           ;CABLE LDNIO LS801 1M IOS          ;CABLES / ADAPTADORES;131;🔌 1m ⚡ carga estable para iPhone
-021071          ;CABLE LDNIO LS802 1M TIPO C       ;CABLES / ADAPTADORES;85;🔌 1m ⚡ carga rápida Type-C
-02108           ;CABLE LDNIO LS801 1M TIPO C       ;CABLES / ADAPTADORES;194;🔌 1m ⚡ carga rápida Type-C
-02109           ;CABLE LDNIO LS821 1M V8           ;CABLES / ADAPTADORES;18;🔌 1m ⚡ carga práctica y resistente
-02114           ;CABLE LDNIO LS661 1M TIPO C       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C
-02116           ;CABLE IP LIGHT TIPO C A IOS       ;CABLES / ADAPTADORES;245;🔌 USB-C a iPhone ⚡ carga rápida
-021161          ;CABLE IP LIGHT 2M TIPO C A IOS    ;CABLES / ADAPTADORES;41;🔌 USB-C a iPhone ⚡ carga rápida
-02117           ;CABLE HDMI 10 Mts                 ;CABLES / ADAPTADORES;14;📺 10 m ⚡ imagen y sonido en alta calidad
-02121           ;CABLE LDNIO LS841 25W V8          ;CABLES / ADAPTADORES;162;🔌 25W 1m ⚡ carga práctica y resistente
-02122           ;CABLE LDNIO LS841 25W TIPO C      ;CABLES / ADAPTADORES;751;🔌 25W 1m ⚡ carga rápida Type-C
-02123           ;CABLE LDNIO LS841 25W IOS         ;CABLES / ADAPTADORES;128;🔌 25W 1m ⚡ carga estable para iPhone
-02124           ;CABLE LDNIO LS641 COR 1M V8       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga práctica y resistente
-02125           ;CABLE LDNIO LS641 COR 1M IP       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone
-02126           ;CABLE LDNIO LS641 COR 1M TIPO C   ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C
-02135           ;CABLE LDNIO LC651C 30W 1M TC A C  ;CABLES / ADAPTADORES;14;🔌 30W USB-C ⚡ carga rápida y estable
-02137           ;CABLE LDNIO LC211 65W TC A C      ;CABLES / ADAPTADORES;39;🔌 65W USB-C ⚡ carga rápida y estable
-02158           ;CABLE EARLDOM AUX 80 1M TC Y IP   ;CABLES / ADAPTADORES;87;🎧 AUX dual 🔌 compatible Type-C y iPhone
-02159           ;CABLE EARLDOM AUX 81 1M RCA       ;CABLES / ADAPTADORES;23;🎧 AUX a RCA 🔊 audio estéreo claro y estable
-02160           ;CABLE EARLDOM AUX 12 1M           ;CABLES / ADAPTADORES;124;🎧 AUX 1m 🔊 sonido claro y estable
-02161           ;CABLE EARLDOM AUX 15 1M           ;CABLES / ADAPTADORES;44;🎧 AUX 1m 🔊 sonido claro y estable
-02190           ;CABLE LDNIO LC-96U 100W 3 EN 1    ;CABLES / ADAPTADORES;15;🔌 100W multi cable ⚡ carga varios dispositivos
-02191           ;CABLE LDNIO LC-97U 100W 3 EN 1    ;CABLES / ADAPTADORES;21;🔌 100W multi cable ⚡ carga varios dispositivos
-02200           ;CABLE LDNIO LS851 25W V8          ;CABLES / ADAPTADORES;136;🔌 25W 1m ⚡ carga práctica y resistente
-02201           ;CABLE LDNIO LS851 25W TIPO C      ;CABLES / ADAPTADORES;401;🔌 25W 1m ⚡ carga rápida Type-C
-02202           ;CABLE LDNIO LS851 25W IOS         ;CABLES / ADAPTADORES;0;🔌 25W 1m ⚡ carga estable para iPhone
-02206           ;CABLE LDNIO LS852 25W 2M V8       ;CABLES / ADAPTADORES;44;🔌 25W 2m ⚡ carga práctica y resistente
-02208           ;CABLE LDNIO LS852 25W 2M TIPO C   ;CABLES / ADAPTADORES;365;🔌 25W 2m ⚡ carga rápida Type-C
-02210           ;CABLE LDNIO LS902 25W 2M V8       ;CABLES / ADAPTADORES;37;🔌 25W 2m ⚡ carga práctica y resistente
-02211           ;CABLE LDNIO LS902 25W 2M TC       ;CABLES / ADAPTADORES;0;🔌 25W 2m ⚡ carga rápida Type-C
-02212           ;CABLE LDNIO LS902 25W 2M IP       ;CABLES / ADAPTADORES;66;🔌 25W 2m ⚡ carga estable para iPhone
-02213           ;CABLE LDNIO LC902 30W TC A IP     ;CABLES / ADAPTADORES;44;🔌 30W USB-C a iPhone ⚡ carga rápida
-022131          ;CABLE LDNIO LC902 65W TC A C      ;CABLES / ADAPTADORES;39;🔌 65W USB-C ⚡ carga rápida y estable
-02220           ;CABLE LDNIO LS901 1M V8           ;CABLES / ADAPTADORES;237;🔌 1m ⚡ carga práctica y resistente
-02221           ;CABLE LDNIO LS901 1M TIPO C       ;CABLES / ADAPTADORES;445;🔌 1m ⚡ carga rápida Type-C
-02222           ;CABLE LDNIO LS901 1M IOS          ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone
-02230           ;CABLE LDNIO LC-16 65W 4 EN 1      ;CABLES / ADAPTADORES;19;🔌 65W multi cable ⚡ carga varios dispositivos
-02231           ;CABLE LDNIO LS691 30W TIPO C      ;CABLES / ADAPTADORES;0;🔌 30W 1m ⚡ carga rápida Type-C
-022311          ;CABLE LDNIO LS692 30W TIPO C      ;CABLES / ADAPTADORES;29;🔌 30W 1m ⚡ carga rápida Type-C
-024101          ;JACK LDNIO LS-Y80C TC             ;CABLES / ADAPTADORES;111;🎧 Jack USB-C 🔊 audio claro y estable
-024102          ;JACK LDNIO LS-Y80I IP             ;CABLES / ADAPTADORES;33;🎧 Jack Lightning 🔊 audio práctico para iPhone
-024103          ;CABLE LDNIO AUX AD LS-Y81C 1M TC  ;CABLES / ADAPTADORES;16;🎧 AUX 1m 🔌 audio directo Type-C
-024104          ;ADAPT LDNIO HUB DS-34U TC         ;CABLES / ADAPTADORES;23;🔌 HUB USB-C ⚡ múltiples conexiones rápidas
-024105          ;ADAPT LDNIO HUB DS-44C USB        ;CABLES / ADAPTADORES;18;🔌 HUB USB ⚡ expande puertos fácilmente
-024106          ;ADAPT LDNIO HUB DS-34C TC         ;CABLES / ADAPTADORES;26;🔌 HUB USB-C ⚡ múltiples conexiones rápidas
-024107          ;ADAPT LDNIO HUB DS-44U USB        ;CABLES / ADAPTADORES;25;🔌 HUB USB ⚡ expande puertos fácilmente
-024108          ;ADAPT LDNIO VARIAS PUNTAS Z7      ;CABLES / ADAPTADORES;12;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples
-024109          ;CABLE LDNIO AUX AD LS-Y81I 1M TIP ;CABLES / ADAPTADORES;33;🎧 AUX dual 🔌 compatible Type-C y iPhone
-024113          ;ADAP LDNIO HUB DS-64C 4 EN 1 TC   ;CABLES / ADAPTADORES;38;🔌 HUB 4 en 1 ⚡ conexiones rápidas y prácticas
-024115          ;ADAP LDNIO HUB DS 25U 5 EN 1      ;CABLES / ADAPTADORES;25;🔌 HUB 5 en 1 ⚡ múltiples puertos en un dispositivo
-02415           ;CABLE ANSTY Z09-T TIPO C          ;CABLES / ADAPTADORES;878;🔌 1m ⚡ carga rápida Type-C
-02416           ;CABLE ANSTY Z09-A  V8             ;CABLES / ADAPTADORES;199;🔌 1m ⚡ carga práctica y resistente
-02417           ;CABLE ANSTY Z09-I IP              ;CABLES / ADAPTADORES;166;🔌 1m ⚡ carga estable para iPhone
-02418           ;CABLE ANSTY Z040 TIPO C           ;CABLES / ADAPTADORES;1804;🔌 1m ⚡ carga rápida Type-C
-02550           ;CABLE DE ROUTER DE 5 A 12VL       ;CABLES / ADAPTADORES;417;🔌 Boost 5V→12V 🌐 ideal para router sin corriente
-03002           ;AUDIF ECON ML FUNDA NEGRO         ;AUDIFONOS / MICROFONOS;0;🎧 Manos libres 🎵 audio claro para uso diario
-03015           ;AUDIF SAMSUNG ML AKG CORDON       ;AUDIFONOS / MICROFONOS;88;🎧 Manos libres 🎵 audio claro para uso diario
-03019           ;AUDIF SAMSUNG ML HS330 BLANCO     ;AUDIFONOS / MICROFONOS;62;🎧 Manos libres 🎵 audio claro para uso diario
-03063           ;AUDIF POP UP WIN ML IP PROMAX     ;AUDIFONOS / MICROFONOS;57;🎧 Manos libres 🎵 audio claro para uso diario
-03108           ;AUDIF AIRPODS 3RA GEN             ;AUDIFONOS / MICROFONOS;34;🎧 Bluetooth 🔋 sonido claro y batería práctica
-031081          ;AUDIF AIRPODS PRO 3RA GEN PANT    ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-031082          ;AUDIF AIRPODS 4TA GEN             ;AUDIFONOS / MICROFONOS;43;🎧 Bluetooth 🔋 sonido claro y batería práctica
-031083          ;AUDIF AIRPODS PRO 5TA GEN PANT    ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03130           ;AUDIF LDNIO ML HP03               ;AUDIFONOS / MICROFONOS;1;🎧 Manos libres 🎵 audio claro para uso diario
-03131           ;AUDIF LDNIO ML HP04               ;AUDIFONOS / MICROFONOS;0;🎧 Manos libres 🎵 audio claro para uso diario
-03132           ;AUDIF LDNIO ML HP05               ;AUDIFONOS / MICROFONOS;0;🎧 Manos libres 🎵 audio claro para uso diario
-03133           ;AUDIF LDNIO ML HP06               ;AUDIFONOS / MICROFONOS;3;🎧 Manos libres 🎵 audio claro para uso diario
-03148           ;AUDIF SAMSUNG ML HS330 NEGRO      ;AUDIFONOS / MICROFONOS;33;🎧 Manos libres 🎵 audio claro para uso diario
-03149           ;AUDIF LDNIO ML HP02               ;AUDIFONOS / MICROFONOS;10;🎧 Manos libres 🎵 audio claro para uso diario
-03183           ;AUDIF BT WIRELESS M90             ;AUDIFONOS / MICROFONOS;65;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03185           ;AUDIF P47 DI NEGRO                ;AUDIFONOS / MICROFONOS;88;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-031851          ;AUDIF P47 DI BLANCO               ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-031852          ;AUDIF P47 DI AZUL                 ;AUDIFONOS / MICROFONOS;9;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-031853          ;AUDIF P47 DI ROJO                 ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-031854          ;AUDIF P47 DI VERDE                ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03190           ;AUDIFONO AKG TIPO C               ;AUDIFONOS / MICROFONOS;51;🎧 USB-C 🎵 sonido claro y moderno
-03200           ;AUDIF LDNIO BT T01 NEGRO          ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔋 sonido claro y batería práctica
-032001          ;AUDIF LDNIO BT T01 DORADO / ROSADO;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03203           ;AUDIF BT WIRELESS M10             ;AUDIFONOS / MICROFONOS;82;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03206           ;AUDIF LDNIO BT T02 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica
-032061          ;AUDIF LDNIO BT T02 BLANCO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03207           ;AUDIF LDNIO BT T03 NEGRO          ;AUDIFONOS / MICROFONOS;10;🎧 Bluetooth 🔋 sonido claro y batería práctica
-032071          ;AUDIF LDNIO BT T03 BLANCO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03234           ;AUDIF AIRPODS PRO 2DA GEN         ;AUDIFONOS / MICROFONOS;35;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-032381          ;AUDIF BT DAMIX M25                ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03249           ;AUDIF LABUBU BT TWS003            ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03250           ;AUDIF ECCO ML EC-S8               ;AUDIFONOS / MICROFONOS;17;🎧 Manos libres 🎵 audio claro para uso diario
-032721          ;AUDIF ECCO DI EC-237 BEIGE        ;AUDIFONOS / MICROFONOS;19;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-032723          ;AUDIF ECCO DI EC-237 VERDE        ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03273           ;AUDIF ECCO DI E35 NEGRO           ;AUDIFONOS / MICROFONOS;9;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03274           ;AUDIF ECCO DI E35 CAFE            ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03290           ;AUDIF BT WIRELESS M20             ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03291           ;AUDIF BT WIRELESS M30             ;AUDIFONOS / MICROFONOS;87;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03292           ;AUDIF BT WIRELESS PRO 5S BLANCO   ;AUDIFONOS / MICROFONOS;15;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-032921          ;AUDIF BT WIRELESS PRO 5S NEGRO    ;AUDIFONOS / MICROFONOS;62;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03360           ;AUDIF GAMER AKZ DI 020 GRIS       ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03363           ;AUDIF GAMER AKZ DI 020 ROJO       ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03364           ;AUDIF GAMER AKZ DI 020 AZUL       ;AUDIFONOS / MICROFONOS;3;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03365           ;AUDIF GAMER AKZ  DI 022 GRIS      ;AUDIFONOS / MICROFONOS;8;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03366           ;AUDIF GAMER AKZ DI 022 ROSADO     ;AUDIFONOS / MICROFONOS;4;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03367           ;AUDIF GAMER AKZ DI 022 VERDE      ;AUDIFONOS / MICROFONOS;4;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03400           ;AUDIF LDNIO ML HP08C              ;AUDIFONOS / MICROFONOS;7;🎧 Manos libres 🎵 audio claro para uso diario
-034001          ;AUDIF LDNIO ML HP09C              ;AUDIFONOS / MICROFONOS;11;🎧 Manos libres 🎵 audio claro para uso diario
-034002          ;AUDIF LDNIO ML HP09               ;AUDIFONOS / MICROFONOS;38;🎧 Manos libres 🎵 audio claro para uso diario
-034003          ;AUDIF LDNIO ML HP08               ;AUDIFONOS / MICROFONOS;6;🎧 Manos libres 🎵 audio claro para uso diario
-03404           ;AUDIF EARLDOM ML E43 BLANCO       ;AUDIFONOS / MICROFONOS;81;🎧 Manos libres 🎵 audio claro para uso diario
-034040          ;AUDIF EARLDOM ML E42 BLANCO       ;AUDIFONOS / MICROFONOS;39;🎧 Manos libres 🎵 audio claro para uso diario
-034042          ;AUDIF EARLDOM ML E74C TIPO C      ;AUDIFONOS / MICROFONOS;40;🎧 USB-C 🎵 sonido claro y moderno
-03506           ;MICROF EARLDOM ET-MC8 IP          ;AUDIFONOS / MICROFONOS;9;🎙️ Micrófono compacto 🎧 audio claro para grabar
-035061          ;MICROF EARLDOM ET-MC81 C          ;AUDIFONOS / MICROFONOS;10;🎙️ Micrófono compacto 🎧 audio claro para grabar
-03507           ;MICROF F11-2 C IP AUX             ;AUDIFONOS / MICROFONOS;15;🎧 AUX 1m 🔊 sonido claro y estable
-03607           ;AUDIF ORAIMO ML E10 F             ;AUDIFONOS / MICROFONOS;29;🎧 Manos libres 🎵 audio claro para uso diario
-03631           ;AUDIF REALME ML X38 NEGRO         ;AUDIFONOS / MICROFONOS;30;🎧 Manos libres 🎵 audio claro para uso diario
-03632           ;AUDIF REALME ML X38 BLANCO        ;AUDIFONOS / MICROFONOS;29;🎧 Manos libres 🎵 audio claro para uso diario
-03638           ;AUDIF TECNO ML E18 F              ;AUDIFONOS / MICROFONOS;28;🎧 Manos libres 🎵 audio claro para uso diario
-03640           ;AUDIF STRONG BASS ML F            ;AUDIFONOS / MICROFONOS;76;🎧 Manos libres 🔊 bajos potentes y sonido fuerte
-03642           ;AUDIF ECCO ML EC 62 TC NEGRO      ;AUDIFONOS / MICROFONOS;15;🎧 USB-C 🎵 sonido claro y moderno
-03644           ;AUDIF ECCO ML ECON FUN BLANCO     ;AUDIFONOS / MICROFONOS;197;🎧 Manos libres 🎵 audio claro para uso diario
-036441          ;AUDIF ECCO ML ECON FUN NEGRO      ;AUDIFONOS / MICROFONOS;173;🎧 Manos libres 🎵 audio claro para uso diario
-03645           ;AUDIF ANSTY ML E061 BLANCO        ;AUDIFONOS / MICROFONOS;100;🎧 Manos libres 🎵 audio claro para uso diario
-03646           ;AUDIF ANSTY ML E062 NEGRO         ;AUDIFONOS / MICROFONOS;58;🎧 Manos libres 🎵 audio claro para uso diario
-036461          ;AUDIF ANSTY ML E062 BLANCO        ;AUDIFONOS / MICROFONOS;42;🎧 Manos libres 🎵 audio claro para uso diario
-03647           ;AUDIF ANSTY ML E002 BLANCO        ;AUDIFONOS / MICROFONOS;97;🎧 Manos libres 🎵 audio claro para uso diario
-036471          ;AUDIF ANSTY ML E002 NEGRO         ;AUDIFONOS / MICROFONOS;97;🎧 Manos libres 🎵 audio claro para uso diario
-03648           ;AUDIF ANSTY ML E065 TIPO C        ;AUDIFONOS / MICROFONOS;200;🎧 USB-C 🎵 sonido claro y moderno
-03801           ;AUDIF BT WIRELESS M100            ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03802           ;AUDIF BT WIRELESS M39             ;AUDIFONOS / MICROFONOS;72;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03809           ;AUDIF LDNIO BT T07 NEGRO          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03810           ;AUDIF LDNIO BT T07 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03811           ;AUDIF LDNIO BT T08 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03812           ;AUDIF LDNIO BT T08 BLANCO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03813           ;AUDIF LDNIO BT T05 NEGRO          ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03814           ;AUDIF LDNIO BT T05 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03815           ;AUDIF LDNIO BT T06 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03816           ;AUDIF LDNIO BT T06 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03817           ;AUDIF LDNIO BT T09 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03818           ;AUDIF LDNIO BT T09 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03822           ;AUDIF LDNIO NECK N01              ;AUDIFONOS / MICROFONOS;38;🎧 Neckband 🔋 cómodo y batería duradera
-03823           ;AUDIF LDNIO NECK N02 BLANCO       ;AUDIFONOS / MICROFONOS;8;🎧 Neckband 🔋 cómodo y batería duradera
-038231          ;AUDIF LDNIO NECK N02 NEGRO        ;AUDIFONOS / MICROFONOS;10;🎧 Neckband 🔋 cómodo y batería duradera
-03828           ;AUDIF LELISU DI LS-239 BEIGE      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03829           ;AUDIF LELISU DI AUX LS-252 BEIGE  ;AUDIFONOS / MICROFONOS;2;🎧 AUX 1m 🔊 sonido claro y estable
-03832           ;AUDIF LDNIO BT13 NEGRO            ;AUDIFONOS / MICROFONOS;22;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038321          ;AUDIF LDNIO BT13 BEIGE            ;AUDIFONOS / MICROFONOS;17;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03833           ;AUDIF LELISU DI LS-257 VERDE      ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-038332          ;AUDIF LELISU DI LS-257 ROSADO     ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-038333          ;AUDIF LELISU DI LS-257 CELESTE    ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03834           ;AUDIF LELISU DI LS-231 NEGRO      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03836           ;AUDIF MARIO BT + RELOJ ROJO       ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth ⌚ combo audífonos + reloj
-03837           ;AUDIF CAPIBARA BT + RELOJ  CAFE   ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth ⌚ combo audífonos + reloj
-038371          ;AUDIF CAPIBARA BT + RELOJ AZUL    ;AUDIFONOS / MICROFONOS;12;🎧 Bluetooth ⌚ combo audífonos + reloj
-038372          ;AUDIF CAPIBARA BT + RELOJ ROSADO  ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth ⌚ combo audífonos + reloj
-03838           ;AUDIF LABUBU BT TWS 505 + RELOJ CA;AUDIFONOS / MICROFONOS;5;🎧 Bluetooth ⌚ combo audífonos + reloj
-038381          ;AUDIF LABUBU BT TWS 505 + RELOJ RO;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth ⌚ combo audífonos + reloj
-038391          ;AUDIF SAMSUNG BT K93 ROSADO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038393          ;AUDIF SAMSUNG BT K93 NEGRO        ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03840           ;AUDIF SAMSUNG BT BUDS2 PRO BLANCO ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-038401          ;AUDIF SAMSUNG BT BUDS2 PRO NEGRO  ;AUDIFONOS / MICROFONOS;16;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-038402          ;AUDIF SAMSUNG BT BUDS2 PRO LILA   ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-038421          ;AUDIF  JBL BT K83 BLANCO          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-038422          ;AUDIF  JBL BT K83 NEGRO           ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038441          ;AUDIF JBL BT BUDS AIR2 NEGRO      ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038523          ;AUDIF ECCO DI EC-T21 ROSADO       ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03860           ;AUDIF ECCO BT K4 NEGRO/NARANJA    ;AUDIFONOS / MICROFONOS;93;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038601          ;AUDIF ECCO BT K4 AZUL/AMARILLO    ;AUDIFONOS / MICROFONOS;92;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038602          ;AUDIF ECCO BT K4 GRIS/TURQUEZA    ;AUDIFONOS / MICROFONOS;92;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038605          ;AUDIF ECCO K7 BLANCO              ;AUDIFONOS / MICROFONOS;187;🎧 Manos libres 🎵 audio claro para uso diario
-038606          ;AUDIF ECCO K7 NEGRO               ;AUDIFONOS / MICROFONOS;4;🎧 Manos libres 🎵 audio claro para uso diario
-038607          ;AUDIF ECCO K7 AZUL                ;AUDIFONOS / MICROFONOS;112;🎧 Manos libres 🎵 audio claro para uso diario
-038608          ;AUDIF ECCO EC-T37 BLANCO          ;AUDIFONOS / MICROFONOS;81;🎧 Manos libres 🎵 audio claro para uso diario
-038609          ;AUDIF ECCO EC-T37 NEGRO           ;AUDIFONOS / MICROFONOS;81;🎧 Manos libres 🎵 audio claro para uso diario
-038610          ;AUDIF ECCO EC-T36 BLANCO          ;AUDIFONOS / MICROFONOS;178;🎧 Manos libres 🎵 audio claro para uso diario
-038611          ;AUDIF ECCO EC-T36 NEGRO           ;AUDIFONOS / MICROFONOS;76;🎧 Manos libres 🎵 audio claro para uso diario
-038612          ;AUDIF ECCO EC-T24 BLANCO          ;AUDIFONOS / MICROFONOS;40;🎧 Manos libres 🎵 audio claro para uso diario
-038613          ;AUDIF ECCO EC-T24 NEGRO           ;AUDIFONOS / MICROFONOS;36;🎧 Manos libres 🎵 audio claro para uso diario
-03871           ;AUDIF JBL DI TUNE 360 NEGRO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-038711          ;AUDIF JBL DI TUNE 360 BEIGE       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-038721          ;AUDIF AIR A11 PRO BT CELESTE      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03874           ;AUDIF JBL BT TWS U331 BLANCO      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-038741          ;AUDIF JBL BT TWS U331 NEGRO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03875           ;AUDIF SONY BT WF 805ANC BLANCO    ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-038751          ;AUDIF SONY BT WF 805ANC NEGRO     ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03876           ;AUDIF DI BST BT500 BT             ;AUDIFONOS / MICROFONOS;5;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03878           ;AUDIF LDNIO DI H01 BLANCO         ;AUDIFONOS / MICROFONOS;6;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03879           ;AUDIF LDNIO DI H01 NEGRO          ;AUDIFONOS / MICROFONOS;19;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03880           ;AUDIF JBL DI TOUR ONE M4 AZUL     ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-038801          ;AUDIF JBL DI TOUR ONE M4 BEIGE    ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-038802          ;AUDIF JBL DI TOUR ONE M4 BLANCO   ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-038803          ;AUDIF JBL DI TOUR ONE M4 NEGRO    ;AUDIFONOS / MICROFONOS;28;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03881           ;AUDIF JBL BT  TWS BT36 BLANCO     ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-038811          ;AUDIF JBL BT  TWS BT36 NEGRO      ;AUDIFONOS / MICROFONOS;8;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03890           ;AUDIF LDNIO BT T10 BEIGE          ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038901          ;AUDIF LDNIO BT T10 NEGRO          ;AUDIFONOS / MICROFONOS;25;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03891           ;AUDIF LDNIO BT T11 BEIGE          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-038911          ;AUDIF LDNIO BT T11 NEGRO          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03900           ;AUDIF SONY DI WH-XM65 NEGRO       ;AUDIFONOS / MICROFONOS;21;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03901           ;AUDIF JBL BT MINI 5S BLANCO       ;AUDIFONOS / MICROFONOS;8;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-039011          ;AUDIF JBL BT MINI 5S NEGRO        ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03902           ;AUDIF SAMSUNG BT GALAXI BUDS3 BLAN;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔋 sonido claro y batería práctica
-039021          ;AUDIF SAMSUNG BT GALAXI BUDS3 NEGR;AUDIFONOS / MICROFONOS;16;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03903           ;AUDIF JBL BT K80 NEGRO            ;AUDIFONOS / MICROFONOS;19;🎧 Bluetooth 🔋 sonido claro y batería práctica
-039031          ;AUDIF JBL BT K80 NARANJA          ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03904           ;AUDIF SONY BT WF 806ANC BLANCO    ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-039041          ;AUDIF SONY BT WF 806ANC LILA      ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-039042          ;AUDIF SONY BT WF 806ANC NEGRO     ;AUDIFONOS / MICROFONOS;23;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-039051          ;AUDIF SAMSUNG DI LEVEL S32 NEGRO  ;AUDIFONOS / MICROFONOS;9;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03906           ;AUDIF JBL BT MG 831 AZUL          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-039061          ;AUDIF JBL BT MG 831 BLANCO        ;AUDIFONOS / MICROFONOS;10;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-039062          ;AUDIF JBL BT MG 831 NEGRO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03907           ;AUDIF JBL BT TWS U39 NEGRO        ;AUDIFONOS / MICROFONOS;16;🎧 Bluetooth 🔋 sonido claro y batería práctica
-039071          ;AUDIF JBL BT TWS U39 BLANCO       ;AUDIFONOS / MICROFONOS;24;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-03908           ;AUDIF JBL BT TWS U53 BLANCO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-039081          ;AUDIF JBL BT TWS U53 NEGRO        ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03909           ;AUDIF SAMSUNG BT TWS A1 BLANCO    ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔇 audio premium y cancelación de ruido
-039091          ;AUDIF SAMSUNG BT TWS A1 NARANJA   ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica
-039092          ;AUDIF SAMSUNG BT TWS A1 NEGRO     ;AUDIFONOS / MICROFONOS;13;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03910           ;AUDIF MOVISUN BT TW-2 NEGRO       ;AUDIFONOS / MICROFONOS;30;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03911           ;AUDIF BT WIRELESS MI M10          ;AUDIFONOS / MICROFONOS;29;🎧 Bluetooth 🔋 sonido claro y batería práctica
-03912           ;AUDIF SONY DI -1000XM20 AZUL      ;AUDIFONOS / MICROFONOS;11;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-039121          ;AUDIF SONY DI -1000XM20 BEIGE     ;AUDIFONOS / MICROFONOS;12;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-039122          ;AUDIF SONY DI -1000XM20 NEGRO     ;AUDIFONOS / MICROFONOS;41;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03914           ;AUDIF JBL DI TUNE A666 AZUL       ;AUDIFONOS / MICROFONOS;17;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-039141          ;AUDIF JBL DI TUNE A666 BLANCO     ;AUDIFONOS / MICROFONOS;26;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-039142          ;AUDIF JBL DI TUNE A666 NEGRO      ;AUDIFONOS / MICROFONOS;44;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-039143          ;AUDIF JBL DI TUNE A666 ROJO       ;AUDIFONOS / MICROFONOS;17;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03915           ;AUDIF JBL DI TUNE A16 NEGRO       ;AUDIFONOS / MICROFONOS;51;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03931           ;AUDIF SONY DI M30BT CAFE          ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-039311          ;AUDIF SONY DI M30BT NEGRO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido
-03932           ;AUDIF GAMER KRMG 2000             ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03933           ;AUDIF GAMER KRMG 6000             ;AUDIFONOS / MICROFONOS;5;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-03934           ;AUDIF GAMER KRMG 9000             ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo
-040121          ;PARL LDNIO WIRELESS BTS12 NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-040122          ;PARL LDNIO WIRELESS BTS12 GRIS    ;PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-040923          ;PARL LDNIO SPEAKER BTS13          ;PARLANTES / SMARTWATCH / TV BOX;17;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-040981          ;PARL BT MS-1753                   ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-041202          ;TV STICK ANDROID TV 4K            ;PARLANTES / SMARTWATCH / TV BOX;46;📺 TV Stick ⚡ convierte tu televisor en Smart TV
-041203          ;TV BOX MXQPRO 5G                  ;PARLANTES / SMARTWATCH / TV BOX;6;📺 Android TV 📡 WiFi 5G streaming rápido y fluido
-041204          ;TV STICK FIRE                     ;PARLANTES / SMARTWATCH / TV BOX;21;📺 TV Stick ⚡ convierte tu televisor en Smart TV
-042501          ;PARL ES-300 NEGRO                 ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-0425012         ;PARL ES-300 ROJO                  ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-0425013         ;PARL ES-300 VERDE                 ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-042702          ;PARL BT MS-2031                   ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04306           ;PARL HONGFU HF-3303               ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04308           ;PARL ASTRON START LIGH MXS-003    ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04320           ;PARL HONGFU HF-626 5P X2          ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04334           ;PARL BT E8805                     ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04335           ;PARL MS 2032 BT                   ;PARLANTES / SMARTWATCH / TV BOX;6;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04336           ;PARL PORTABLE HF-885              ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04340           ;PARL ZQS-8308 SING-E              ;PARLANTES / SMARTWATCH / TV BOX;16;🔊 Parlante karaoke 🎤 potencia y diversión
-043491          ;PARL KIMISO 1182 PORT AZUL        ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043492          ;PARL KIMISO 1182 PORT ROJO        ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04351           ;PARL KIMISO QS-1803 MED           ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04355           ;PARL ECCO T7 NEGRO                ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043551          ;PARL ECCO T7 VERDE                ;PARLANTES / SMARTWATCH / TV BOX;10;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043552          ;PARL ECCO T7 ROSA                 ;PARLANTES / SMARTWATCH / TV BOX;18;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043553          ;PARL ECCO T7 CAFE                 ;PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043554          ;PARL ECCO T7 AZUL                 ;PARLANTES / SMARTWATCH / TV BOX;6;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04360           ;PARL SOONBOX + MICROF S65 AZUL    ;PARLANTES / SMARTWATCH / TV BOX;8;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-043601          ;PARL SOONBOX + MICROF S65 NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-043602          ;PARL SOONBOX + MICROF S65 ROJO    ;PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-04361           ;PARL SOONBOX + MICROF S66 AZUL    ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-043611          ;PARL SOONBOX + MICROF S66 NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;8;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-043612          ;PARL SOONBOX + MICROF S66 ROJO    ;PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-04362           ;PARL COLORFUL + MICROF K12 BEIGE  ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-043621          ;PARL COLORFUL + MICROF K12 ROSA   ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-043622          ;PARL COLORFUL + MICROF K12 VERDE  ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke
-04365           ;PARL LIDIMI MINI LD S703 NEGRO    ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043711          ;PARL P PRO 16 BEIGE               ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043712          ;PARL P PRO 16 CAMUFLAJE           ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04372           ;PARL BOMBOX P172 NEGRO            ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043721          ;PARL BOMBOX P172 AZUL             ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043722          ;PARL BOMBOX P172 CAMUFLAGE        ;PARLANTES / SMARTWATCH / TV BOX;17;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043723          ;PARL BOMBOX P172 ROJO             ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043725          ;PARL BOMBOX P172 GRIS             ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04373           ;PARL LIDIMI LD S820 NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043731          ;PARL LIDIMI LD S820 AZUL          ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04374           ;PARL LIDIMI LD S647 NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043741          ;PARL LIDIMI LD S647 AZUL          ;PARLANTES / SMARTWATCH / TV BOX;10;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04375           ;PARL LIDIMI LD 875 NEGRO          ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043751          ;PARL LIDIMI LD 875 AZUL           ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04376           ;PARL LIDIMI LD S648 NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;16;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043761          ;PARL LIDIMI LD S648 AZUL          ;PARLANTES / SMARTWATCH / TV BOX;18;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04377           ;PARL P PRO 9 NEGRO                ;PARLANTES / SMARTWATCH / TV BOX;10;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043771          ;PARL P PRO 9 AZUL                 ;PARLANTES / SMARTWATCH / TV BOX;16;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043772          ;PARL P PRO 9 BEIGE                ;PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043773          ;PARL P PRO 9 ROJO                 ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043774          ;PARL P PRO 9 CAMUFLAJE            ;PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04379           ;PARL BOSE SI PRO PLUS             ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04385           ;PARL CAFINI CN S6626 AC           ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04386           ;"PARL CAFINI CN S6731AC 8""         ";PARLANTES / SMARTWATCH / TV BOX;13;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04387           ;"PARL CAFINI CN S11003AC W 8""      ";PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04388           ;"PARL CAFINI CN S6852AC/Z 8""       ";PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04389           ;"PARL CAFINI CN S6003AC W 8""       ";PARLANTES / SMARTWATCH / TV BOX;9;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04390           ;PARL CAFINI CN S6760AC            ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04391           ;PARL CAFINI CN S6761AC            ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04392           ;PARL CAFINI CN S6784              ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04393           ;"PARL CAFINI CN S6785 4""           ";PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04394           ;"PARL CAFINI CN S6706 4""           ";PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04395           ;PARL CAFINI CN 6714               ;PARLANTES / SMARTWATCH / TV BOX;14;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04396           ;PARL LIDIMI LD 878 AZUL           ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043961          ;PARL LIDIMI LD 878 NEGRO          ;PARLANTES / SMARTWATCH / TV BOX;14;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04397           ;PARL CAFINI  6783                 ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04398           ;PARL LIDIMI LD 706 AZUL           ;PARLANTES / SMARTWATCH / TV BOX;6;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043981          ;PARL LIDIMI LD 706 NEGRO          ;PARLANTES / SMARTWATCH / TV BOX;15;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04399           ;PARL BOOM MS290 AZUL              ;PARLANTES / SMARTWATCH / TV BOX;13;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043991          ;PARL BOOM MS290 NEGRO             ;PARLANTES / SMARTWATCH / TV BOX;24;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-043992          ;PARL BOOM MS290 ROJO              ;PARLANTES / SMARTWATCH / TV BOX;8;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04400           ;PARL LIDIMI LD S12019 AZUL        ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-044001          ;PARL LIDIMI LD S12019 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04401           ;"PARL LINY XY S6726 4""             ";PARLANTES / SMARTWATCH / TV BOX;22;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04402           ;"PARL LINY XY S6736 4""             ";PARLANTES / SMARTWATCH / TV BOX;29;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04403           ;PARL GREATNICE  GTS-1797          ;PARLANTES / SMARTWATCH / TV BOX;37;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04404           ;PARL LINY XY-6361 NEGRO           ;PARLANTES / SMARTWATCH / TV BOX;99;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04405           ;PARL LINY XY-6362 NEGRO           ;PARLANTES / SMARTWATCH / TV BOX;41;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04406           ;PARL CAFINI CN-Z5963 NEGRO        ;PARLANTES / SMARTWATCH / TV BOX;47;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04408           ;"PARL ZQS-2801 SING-E 8""x2         ";PARLANTES / SMARTWATCH / TV BOX;14;🔊 Parlante karaoke 🎤 potencia y diversión
-04409           ;"PARL  QL 1529 15""x1               ";PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-04945           ;SMARTWATCH LDNIO SW01 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049451          ;SMARTWATCH LDNIO SW01 GRIS        ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04946           ;SMARTWATCH LDNIO DAMA SW02 GRIS   ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049461          ;SMARTWATCH LDNIO DAMA SW02 DORADO ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04947           ;SMARTWATCH LDNIO DAMA SW03 GRIS   ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049471          ;SMARTWATCH LDNIO DAMA SW03 ROJO   ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04948           ;SMARTWATCH LDNIO SW05 BLANCO      ;PARLANTES / SMARTWATCH / TV BOX;1;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049481          ;SMARTWATCH LDNIO SW05 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04949           ;SMARTWATCH LDNIO SW04 GRIS        ;PARLANTES / SMARTWATCH / TV BOX;4;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049491          ;SMARTWATCH LDNIO SW04 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;1;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04971           ;SMARTWATCH D99 PLUS DORADO        ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049711          ;SMARTWATCH D99 PLUS PLATA         ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049712          ;SMARTWATCH D99 PLUS NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049713          ;SMARTWATCH D99 PLUS ROSADO        ;PARLANTES / SMARTWATCH / TV BOX;5;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04972           ;SMARTWATCH ROCK 005 +BAT  NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;11;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049721          ;SMARTWATCH ROCK 005 +BAT VERDE    ;PARLANTES / SMARTWATCH / TV BOX;11;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04973           ;SMARTWATCH ROCK 001 13 EN 1 NEGRO ;PARLANTES / SMARTWATCH / TV BOX;12;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049731          ;SMARTWATCH ROCK 001 13 EN 1 GRIS  ;PARLANTES / SMARTWATCH / TV BOX;10;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049732          ;SMARTWATCH ROCK 001 13 EN 1 NARANJ;PARLANTES / SMARTWATCH / TV BOX;10;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04975           ;SMARTWATCH GF68 NEGRO             ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049752          ;SMARTWATCH GF68 GRIS              ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-04976           ;SMARTWATCH DP9 NEGRO              ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049761          ;SMARTWATCH DP9 ROJO               ;PARLANTES / SMARTWATCH / TV BOX;1;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049763          ;SMARTWATCH DP9 GRIS               ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-049764          ;SMARTWATCH DP9 VERDE              ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno
-050003          ;CARG LDNIO 18W A1306Q 3.0 TIPO C  ;CARGADORES / POWERBANKS;8;🔌 18W ⚡ carga rápida y segura
-05010           ;CARG LDNIO 12W A2201 2.4 V8       ;CARGADORES / POWERBANKS;0;🔌 12W ⚡ carga rápida y segura
-05011           ;CARG LDNIO 12W A2201 2.4 IOS      ;CARGADORES / POWERBANKS;50;🔌 12W ⚡ carga rápida y segura
-050116          ;POWER BANK LDNIO PQ18 20000 mAh   ;CARGADORES / POWERBANKS;0;🔋 20000 mAh ⚡ carga rápida y confiable
-050117          ;POWER BANK LDNIO PQ16 10000 mAh   ;CARGADORES / POWERBANKS;9;🔋 10000 mAh ⚡ carga rápida y confiable
-050118          ;POWER BANK LDNIO PQ17 10000 mAh   ;CARGADORES / POWERBANKS;7;🔋 10000 mAh ⚡ carga rápida y confiable
-05012           ;CARG LDNIO 12W A2201 2.4 TIPO C   ;CARGADORES / POWERBANKS;42;🔌 12W ⚡ carga rápida y segura
-05013           ;CARG LDNIO 18W A1204Q 3.0 V8      ;CARGADORES / POWERBANKS;106;🔌 18W ⚡ carga rápida y segura
-05014           ;CARG LDNIO 18W A1204Q 3.0 TIPO C  ;CARGADORES / POWERBANKS;106;🔌 18W ⚡ carga rápida y segura
-05026           ;AUTO CAR LDNIO DL-C29 3.4 TIPO C  ;CARGADORES / POWERBANKS;61;🚗 Cargador auto ⚡ carga rápida en el vehículo
-05027           ;AUTO CAR LDNIO DL-C17 2.0 V8      ;CARGADORES / POWERBANKS;5;🚗 Cargador auto ⚡ carga rápida en el vehículo
-05029           ;AUTO CAR LDNIO DL-C17 2.0 TIPO C  ;CARGADORES / POWERBANKS;2;🚗 Cargador auto ⚡ carga rápida en el vehículo
-050462          ;CARG IP 20W TC A IP               ;CARGADORES / POWERBANKS;181;🔌 20W ⚡ carga rápida y segura
-050741          ;AUTO HOLDER LDNIO 15W MA02        ;CARGADORES / POWERBANKS;4;🚗 Soporte auto ⚡ carga inalámbrica 15W segura
-050801          ;AUTO HOLDER LDNIO MW21 USB A C    ;CARGADORES / POWERBANKS;19;🚗 Soporte auto 📱 firme, práctico y resistente
-0508011         ;AUTO HOLDER LDNIO MW21-1 USB A C  ;CARGADORES / POWERBANKS;40;🚗 Soporte auto 📱 firme, práctico y resistente
-050805          ;AUTO HOLDER LDNIO MG03 METAL BLACK;CARGADORES / POWERBANKS;9;🚗 Soporte auto 📱 firme, práctico y resistente
-050806          ;AUTO HOLDER LDNIO MG13 NEGRO      ;CARGADORES / POWERBANKS;31;🚗 Soporte auto 📱 firme, práctico y resistente
-05084           ;CARG LDNIO 18W A1204Q 3.0 IOS     ;CARGADORES / POWERBANKS;75;🔌 18W ⚡ carga rápida y segura
-050881          ;POWER BANK LDNIO PQ12 10000 MAGNET;CARGADORES / POWERBANKS;6;🔋 Magnético ⚡ carga portátil práctica para iPhone
-050883          ;POWER BANK LDNIO PQ30 30000 mAh   ;CARGADORES / POWERBANKS;0;🔋 30000 mAh ⚡ carga rápida y confiable
-050885          ;POWER BANK LDNIO PQ19 10000 mAh   ;CARGADORES / POWERBANKS;4;🔋 10000 mAh ⚡ carga rápida y confiable
-050889          ;POWER BANK LDNIO PQ27 20000 mAh   ;CARGADORES / POWERBANKS;6;🔋 20000 mAh ⚡ carga rápida y confiable
-050902          ;CORTAPICO LDNIO SC3604 2500W*3 + 6;CARGADORES / POWERBANKS;11;🔌 Regleta eléctrica ⚡ múltiples tomas y protección
-050903          ;CORTAPICO LDNIO SU8440 3USB 1PD 8 ;CARGADORES / POWERBANKS;0;🔌 Regleta eléctrica ⚡ múltiples tomas y protección
-050904          ;CORTAPICO LDNIO SC3412 2500W* 3USB;CARGADORES / POWERBANKS;7;🔌 Regleta eléctrica ⚡ múltiples tomas y protección
-050906          ;REGLETA  LDNIO SC1418             ;CARGADORES / POWERBANKS;10;🔌 Regleta eléctrica ⚡ múltiples tomas y protección
-05102           ;CARG LDNIO 12W A2218 2.4 V8       ;CARGADORES / POWERBANKS;4;🔌 12W ⚡ carga rápida y segura
-05103           ;CARG LDNIO 12W A2218 2.4 TIPO C   ;CARGADORES / POWERBANKS;8;🔌 12W ⚡ carga rápida y segura
-05104           ;OTG LDNIO LC150 USB A C           ;CARGADORES / POWERBANKS;19;🔌 USB-C a USB 📱 conecta pendrive y accesorios
-051103          ;CUBO SAMSUNG 25W BLANCO           ;CARGADORES / POWERBANKS;0;🔌 25W ⚡ carga rápida y segura
-051105          ;CUBO SAMSUNG 45W BLANCO           ;CARGADORES / POWERBANKS;12;🔌 45W ⚡ carga rápida y segura
-051106          ;CUBO SAMSUNG 20W USB Y C BLANCO   ;CARGADORES / POWERBANKS;0;🔌 20W ⚡ carga rápida y segura
-051107          ;CUBO SAMSUNG 25W NEGRO            ;CARGADORES / POWERBANKS;0;🔌 25W ⚡ carga rápida y segura
-05112           ;AUTO CAR LDNIO BT 25W C706Q  TIPO ;CARGADORES / POWERBANKS;23;🚗 25W ⚡ carga rápida en el vehículo
-051222          ;AUTO HOLDER LDNIO 15W MA30-1 NEGRO;CARGADORES / POWERBANKS;0;🚗 Soporte auto ⚡ carga inalámbrica 15W segura
-05123           ;AUTO HOLDER LDNIO MG10 NEGRO      ;CARGADORES / POWERBANKS;26;🚗 Soporte auto 📱 firme, práctico y resistente
-05132           ;CARG LDNIO ESCRITORIO 65W A4808Q  ;CARGADORES / POWERBANKS;3;🔌 65W ⚡ carga rápida y segura
-051321          ;CARG LDNIO 100W ESCRIT  A4809C    ;CARGADORES / POWERBANKS;2;🔌 100W ⚡ carga rápida y segura
-05133           ;BASE LDNIO CARGA INALAMBRICA 32W A;CARGADORES / POWERBANKS;1;⚡ Base inalámbrica 🔋 carga práctica para escritorio
-05136           ;OTG LDNIO LC140 C A USB           ;CARGADORES / POWERBANKS;1;🔌 USB-C a USB 📱 conecta pendrive y accesorios
-05139           ;CUBO IP 20W                       ;CARGADORES / POWERBANKS;97;🔌 20W ⚡ carga rápida y segura
-05151           ;CARG LDNIO 30W A2527 3.0 TIPO C   ;CARGADORES / POWERBANKS;0;🔌 30W ⚡ carga rápida y segura
-051651          ;CARG IP 25W TC A IP               ;CARGADORES / POWERBANKS;272;🔌 25W ⚡ carga rápida y segura
-05171           ;CARG IP 35W T C A C               ;CARGADORES / POWERBANKS;109;🔌 35W ⚡ carga rápida y segura
-05174           ;AUTO CAR LDNIO 36W C1 TIPO C A C  ;CARGADORES / POWERBANKS;31;🚗 36W ⚡ carga rápida en el vehículo
-05177           ;AUTO CAR LDNIO 36W C2 TIPO C      ;CARGADORES / POWERBANKS;37;🚗 36W ⚡ carga rápida en el vehículo
-05187           ;CARG LDNIO 30W A2527 3.0 IOS      ;CARGADORES / POWERBANKS;0;🔌 30W ⚡ carga rápida y segura
-051971          ;CARG SAMSUNG 68W TIPO C           ;CARGADORES / POWERBANKS;14;🔌 68W ⚡ carga rápida y segura
-052011          ;CARG SPARK 20PRO 67W TC A C       ;CARGADORES / POWERBANKS;0;🔌 67W ⚡ carga rápida y segura
-052014          ;CARG SPARK 30C 33W USB A C        ;CARGADORES / POWERBANKS;47;🔌 33W ⚡ carga rápida y segura
-052061          ;CARG MI GAN CARG NJ34 67W TC A C  ;CARGADORES / POWERBANKS;43;🔌 67W ⚡ carga rápida y segura
-052081          ;CARG MI TRAV CH NJ35 33W TIPO C   ;CARGADORES / POWERBANKS;6;🔌 33W ⚡ carga rápida y segura
-052102          ;CARG MI CH TU 120W TIPO C         ;CARGADORES / POWERBANKS;15;🔌 120W ⚡ carga rápida y segura
-052111          ;CARG MI GAN POWER 67W PD TIPO C   ;CARGADORES / POWERBANKS;16;🔌 67W ⚡ carga rápida y segura
-05216           ;POWER BANK MAGNETIC IP 5000       ;CARGADORES / POWERBANKS;139;🔋 Magnético ⚡ carga portátil práctica para iPhone
-052161          ;POWER BANK MAGNETIC IP 10000      ;CARGADORES / POWERBANKS;81;🔋 Magnético ⚡ carga portátil práctica para iPhone
-05220           ;CARG LDNIO 12W A2218 2.4 IOS      ;CARGADORES / POWERBANKS;50;🔌 12W ⚡ carga rápida y segura
-05225           ;CARG SAMSUNG 65W TRIO USB A C Y C ;CARGADORES / POWERBANKS;0;🔌 65W ⚡ múltiples puertos de carga
-05226           ;CUBO SAMSUNG TRIO USB A C Y C     ;CARGADORES / POWERBANKS;7;🔌 Trío ⚡ múltiples puertos de carga
-05227           ;CARG SAMSUNG 120W TRIO USB A C Y C;CARGADORES / POWERBANKS;0;🔌 120W ⚡ múltiples puertos de carga
-05240           ;OTG LDNIO LC 270 C A IP           ;CARGADORES / POWERBANKS;0;🔌 iPhone a USB-C 📱 conexión práctica y rápida
-05241           ;OTG LDNIO LC 280 USB A C          ;CARGADORES / POWERBANKS;50;🔌 USB-C a USB 📱 conecta pendrive y accesorios
-05242           ;OTG LDNIO LC 290 USB A IP         ;CARGADORES / POWERBANKS;6;🔌 iPhone a USB 📱 conecta memorias y accesorios
-05251           ;CARG LDNIO 30W A2317C 3.0 TC A IOS;CARGADORES / POWERBANKS;28;🔌 30W ⚡ carga rápida y segura
-05252           ;CARG LDNIO 30W A2317C 3.0 TIPO C  ;CARGADORES / POWERBANKS;64;🔌 30W ⚡ carga rápida y segura
-05275           ;CARG LDNIO 30W A2527C TC A TC     ;CARGADORES / POWERBANKS;0;🔌 30W ⚡ carga rápida y segura
-05276           ;CARG LDNIO 30W A2527C TC A IOS    ;CARGADORES / POWERBANKS;3;🔌 30W ⚡ carga rápida y segura
-05277           ;CARG LDNIO 35W A2528C TC A IP     ;CARGADORES / POWERBANKS;0;🔌 35W ⚡ carga rápida y segura
-052771          ;CARG LDNIO 35W A2528C TC A C      ;CARGADORES / POWERBANKS;0;🔌 35W ⚡ carga rápida y segura
-05278           ;CARG LDNIO 140W A6140C USB/TC     ;CARGADORES / POWERBANKS;0;🔌 140W ⚡ carga rápida y segura
-05280           ;CARG LDNIO 45W A2526 3.0 TC A C   ;CARGADORES / POWERBANKS;8;🔌 45W ⚡ carga rápida y segura
-05281           ;CARG LDNIO 45W A2526 3.0 TC A IP  ;CARGADORES / POWERBANKS;9;🔌 45W ⚡ carga rápida y segura
-05285           ;CARG LDNIO 20W Q1 USB A C NEGRO   ;CARGADORES / POWERBANKS;0;🔌 20W ⚡ carga rápida y segura
-052851          ;CARG LDNIO 20W Q1 USB A C BLANCO  ;CARGADORES / POWERBANKS;41;🔌 20W ⚡ carga rápida y segura
-052861          ;CARG LDNIO 65W Q4 C A C BLANCO    ;CARGADORES / POWERBANKS;12;🔌 65W ⚡ carga rápida y segura
-05287           ;CARG LDNIO 27W Q122 TC A C        ;CARGADORES / POWERBANKS;1;🔌 27W ⚡ carga rápida y segura
-05288           ;CARG LDNIO 33W Q2 TC A C          ;CARGADORES / POWERBANKS;55;🔌 33W ⚡ carga rápida y segura
-05290           ;CARG LDNIO 120W Q605 ESCRI USB Y C;CARGADORES / POWERBANKS;4;🔌 120W ⚡ carga rápida y segura
-05291           ;CARG LDNIO 25W AW005 RELOJ 5V     ;CARGADORES / POWERBANKS;0;⚡ Carga inalámbrica 🔋 práctica y segura
-053002          ;JACK GN IPHONE                    ;CARGADORES / POWERBANKS;11;🎧 Jack Lightning 🔊 audio práctico para iPhone
-05301           ;BLUETOOTH AUTO LV-B01             ;CARGADORES / POWERBANKS;65;🚗 Bluetooth auto 🎵 música y llamadas fácilmente
-05310           ;CARG SAMSUNG FAST 45W TC A C      ;CARGADORES / POWERBANKS;0;🔌 45W ⚡ carga rápida y segura
-05325           ;CARG LDNIO 20W Q111 TC A TC       ;CARGADORES / POWERBANKS;138;🔌 20W ⚡ carga rápida y segura
-053251          ;CARG LDNIO 20W Q111 TC A IP       ;CARGADORES / POWERBANKS;63;🔌 20W ⚡ carga rápida y segura
-05360           ;CARG LDNIO 30W  Q2319 TC A C      ;CARGADORES / POWERBANKS;14;🔌 30W ⚡ carga rápida y segura
-05361           ;CARG LDNIO 30W  Q2319 TC A IP     ;CARGADORES / POWERBANKS;5;🔌 30W ⚡ carga rápida y segura
-05362           ;CARG LDNIO 45W Q2420 TC A C       ;CARGADORES / POWERBANKS;0;🔌 45W ⚡ carga rápida y segura
-05363           ;CARG LDNIO 45W Q2420 TC A IP      ;CARGADORES / POWERBANKS;5;🔌 45W ⚡ carga rápida y segura
-05504           ;AUTO CAR ENJOY TOGETHER  V8       ;CARGADORES / POWERBANKS;24;🚗 Cargador auto ⚡ carga rápida en el vehículo
-05550           ;AUTO CAR LDNIO 30W C105 USB A C   ;CARGADORES / POWERBANKS;46;🚗 30W ⚡ carga rápida en el vehículo
-055501          ;AUTO CAR LDNIO 30W C105 V8        ;CARGADORES / POWERBANKS;0;🚗 30W ⚡ carga rápida en el vehículo
-05551           ;AUTO CAR LDNIO 30W C106 TC A C    ;CARGADORES / POWERBANKS;55;🚗 30W ⚡ carga rápida en el vehículo
-05552           ;AUTO CAR LDNIO 30W C509Q TC A C   ;CARGADORES / POWERBANKS;65;🚗 30W ⚡ carga rápida en el vehículo
-05553           ;MOTO CAR LDNIO 60W C108 TC A C    ;CARGADORES / POWERBANKS;0;🚗 60W ⚡ carga rápida en el vehículo
-05554           ;AUTO CAR LDNIO 60W C103 TC A C    ;CARGADORES / POWERBANKS;28;🚗 60W ⚡ carga rápida en el vehículo
-05555           ;CARG LDNIO 27W A1206C TC A C      ;CARGADORES / POWERBANKS;0;🔌 27W ⚡ carga rápida y segura
-05557           ;AUTO CAR LDNIO 30W C107 RETRACTIL ;CARGADORES / POWERBANKS;11;🚗 30W ⚡ carga rápida en el vehículo
-05558           ;CARG LDNIO 18W A1209 TIPO C       ;CARGADORES / POWERBANKS;0;🔌 18W ⚡ carga rápida y segura
-05559           ;CARG LDNIO 12W A2221 V8           ;CARGADORES / POWERBANKS;1;🔌 12W ⚡ carga rápida y segura
-05560           ;CARG LDNIO 12W A2221 TIPO C       ;CARGADORES / POWERBANKS;0;🔌 12W ⚡ carga rápida y segura
-05561           ;AUTO CAR LDNIO 60W C3 TC A C      ;CARGADORES / POWERBANKS;49;🚗 60W ⚡ carga rápida en el vehículo
-05566           ;AUTO CAR ECCO 38W EC-135 V8       ;CARGADORES / POWERBANKS;8;🚗 38W ⚡ carga rápida en el vehículo
-05604           ;CARG ECCO EC-67W TC A TC          ;CARGADORES / POWERBANKS;85;🔌 67W ⚡ carga rápida y segura
-056211          ;CUBO ECCO 18W EC-18 USB           ;CARGADORES / POWERBANKS;30;🔌 18W ⚡ carga rápida y segura
-05623           ;CARG ECCO 12W 2A V8               ;CARGADORES / POWERBANKS;4;🔌 12W ⚡ carga rápida y segura
-05625           ;CARG ECCO 18W FAST CHARGER TIPO C ;CARGADORES / POWERBANKS;253;🔌 18W ⚡ carga rápida y segura
-05626           ;CARG ECCO 18W FAST CHARGER V8     ;CARGADORES / POWERBANKS;80;🔌 18W ⚡ carga rápida y segura
-05627           ;CARG ECCO 20W FAST CHARGER TC A C ;CARGADORES / POWERBANKS;181;🔌 20W ⚡ carga rápida y segura
-05628           ;CARG ECCO 45W FAST CHARGER TC A C ;CARGADORES / POWERBANKS;281;🔌 45W ⚡ carga rápida y segura
-05651           ;CARG ANSTY 33W Q-045T TIPO C      ;CARGADORES / POWERBANKS;1;🔌 33W ⚡ carga rápida y segura
-05665           ;AUTO CAR ANSTY CAR-012 ALIENS     ;CARGADORES / POWERBANKS;176;🚗 Cargador auto ⚡ carga rápida en el vehículo
-056651          ;AUTO CAR ANSTY CAR-026 P USB-C    ;CARGADORES / POWERBANKS;594;🚗 Cargador auto ⚡ carga rápida en el vehículo
-056652          ;AUTO CAR ANSTY CAR-021T TC        ;CARGADORES / POWERBANKS;79;🚗 Cargador auto ⚡ carga rápida en el vehículo
-05670           ;CARG ANSTY 66W AM01 SCH TIPO C    ;CARGADORES / POWERBANKS;0;🔌 66W ⚡ carga rápida y segura
-05675           ;CARG ANSTY C-054T SCH TIPO C      ;CARGADORES / POWERBANKS;2757;🔌 Cargador ⚡ carga rápida y segura
-05676           ;CARG ANSTY C-054A SCH V8          ;CARGADORES / POWERBANKS;645;🔌 Cargador ⚡ carga rápida y segura
-056801          ;CARG ANSTY 45W Q047PT TIPO C      ;CARGADORES / POWERBANKS;6;🔌 45W ⚡ carga rápida y segura
-056851          ;CARG ANSTY 45W Q-037A TIPO C      ;CARGADORES / POWERBANKS;18;🔌 45W ⚡ carga rápida y segura
-05686           ;CARG ANSTY 22.5W Q049 TIPO C      ;CARGADORES / POWERBANKS;190;🔌 22.5W ⚡ carga rápida y segura
-05687           ;CARG ANSTY 120W Q062 TIPO C       ;CARGADORES / POWERBANKS;106;🔌 120W ⚡ carga rápida y segura
-05690           ;CARG ANSTY 45W Q039T USB-C TIPO C ;CARGADORES / POWERBANKS;4;🔌 45W ⚡ carga rápida y segura
-05695           ;CARG ANSTY 18W Q-067 TIPO C       ;CARGADORES / POWERBANKS;108;🔌 18W ⚡ carga rápida y segura
-05699           ;CARG ANSTY 50W Q-057 TC A C       ;CARGADORES / POWERBANKS;0;🔌 50W ⚡ carga rápida y segura
-057001          ;POWER BANK ANSTY AP-039 10000     ;CARGADORES / POWERBANKS;49;🔋 alta capacidad ⚡ carga rápida y confiable
-057002          ;POWER BANK ANSTY AP-038 10000     ;CARGADORES / POWERBANKS;47;🔋 alta capacidad ⚡ carga rápida y confiable
-057003          ;POWER BANK ANSTY AP-075 20000     ;CARGADORES / POWERBANKS;35;🔋 alta capacidad ⚡ carga rápida y confiable
-05701           ;CUBO LDNIO TRAVEL 12W H2221 2PD US;CARGADORES / POWERBANKS;16;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples
-05705           ;CARG ANSTY 50W Q-059 TC           ;CARGADORES / POWERBANKS;72;🔌 50W ⚡ carga rápida y segura
-05710           ;CUBO LDNIO TRAVEL 18W H1209Q 1PD U;CARGADORES / POWERBANKS;0;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples
-05711           ;CUBO LDNIO TRAVEL 20W H1209C 1PD T;CARGADORES / POWERBANKS;2;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples
-05712           ;CUBO ANSTY 12W                    ;CARGADORES / POWERBANKS;297;🔌 12W ⚡ carga rápida y segura
-05720           ;AUTO CAR EARLDOM BT ET-M97 TIPO C ;CARGADORES / POWERBANKS;0;🚗 Cargador auto ⚡ carga rápida en el vehículo
-05802           ;CARG INFINIX HOT 50 33W USB A C   ;CARGADORES / POWERBANKS;48;🔌 33W ⚡ carga rápida y segura
-05803           ;CARG INFINIX NOTE 50 67W TC A C   ;CARGADORES / POWERBANKS;27;🔌 67W ⚡ carga rápida y segura
-05885           ;POWER BANK LDNIO PQ25 10000 22.5W ;CARGADORES / POWERBANKS;9;🔋 22.5W ⚡ carga rápida y confiable
-05889           ;POWER BANK LDNIO PQ20 20000 mAh   ;CARGADORES / POWERBANKS;4;🔋 20000 mAh ⚡ carga rápida y confiable
-05890           ;POWER BANK LDNIO PQ24 20000 mAh   ;CARGADORES / POWERBANKS;0;🔋 20000 mAh ⚡ carga rápida y confiable
-05900           ;AUTO HOLDER EARLDOM  ET-EH190     ;CARGADORES / POWERBANKS;22;🚗 Soporte auto 📱 firme, práctico y resistente
-05901           ;AUTO HOLDER EARLDOM  ET-EH221     ;CARGADORES / POWERBANKS;30;🚗 Soporte auto 📱 firme, práctico y resistente
-06001           ;BATERIA S3 MINI PREMIUM NORMAL    ;BATERIAS;5;🔋 Batería de repuesto 📱 energía confiable para celular
-06003           ;BATERIA J5 PREMIUM                ;BATERIAS;1;🔋 Batería de repuesto 📱 energía confiable para celular
-06011           ;BATERIA NOKIA BL5C                ;BATERIAS;4;🔋 Batería de repuesto 📱 energía confiable para celular
-06017           ;BATERIA NOKIA BL4C                ;BATERIAS;1;🔋 Batería de repuesto 📱 energía confiable para celular
-06018           ;BATERIA J1 ACE                    ;BATERIAS;11;🔋 Batería de repuesto 📱 energía confiable para celular
-06019           ;BATERIA SAM J7                    ;BATERIAS;2;🔋 Batería de repuesto 📱 energía confiable para celular
-06020           ;PILA RECARGABLE AA 1.5V No.5      ;BATERIAS;156;🔋 Pila recargable ⚡ reutilizable y práctica
-06021           ;PILA RECARGABLE AAA 1.5V No.7     ;BATERIAS;155;🔋 Pila recargable ⚡ reutilizable y práctica
-070011          ;MOUSE GENIUS DX-110 USB ROJO      ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-070012          ;MOUSE GENIUS DX-110 USB AZUL      ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-070013          ;MOUSE GENIUS DX-110 USB NEGRO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-07003           ;MOUSE MICRO GENIUS TRAV NEGRO     ;PRODUCTOS DE COMPUTACIÓN;3;🖱️ Mouse USB 💻 cómodo y preciso
-070030          ;MOUSE GENIUS DX-MINI NEGRO        ;PRODUCTOS DE COMPUTACIÓN;35;🖱️ Mouse USB 💻 cómodo y preciso
-070031          ;MOUSE GENIUS DX-MINI CELESTE      ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-070041          ;MOUSE GENIUS NX-7005 USB NEGRO    ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-070042          ;MOUSE GENIUS NX-7005 USB AZUL     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-070043          ;MOUSE GENIUS NX-7005 USB ROJO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-07009           ;TECL QUASAD QK480U PLANO          ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo
-070122          ;TECL NUMERICO 125 TIPO C          ;PRODUCTOS DE COMPUTACIÓN;0;🔢 Teclado numérico 💻 compacto y práctico
-07021           ;TECL GENIUS SMART KB-100          ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo
-070391          ;MOUSE ECCO CON CABLE CP72         ;PRODUCTOS DE COMPUTACIÓN;475;🖱️ Mouse USB 💻 cómodo y preciso
-070402          ;TECL JEDEL RETROILU K510          ;PRODUCTOS DE COMPUTACIÓN;16;⌨️ Teclado iluminado 💡 cómodo y gamer
-07047           ;CAM GENIUS Q6000 HD               ;PRODUCTOS DE COMPUTACIÓN;3;📷 Cámara WiFi 📡 vigilancia clara y segura
-07049           ;TECLADO JEDEL GAMING K505+        ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado iluminado 💡 cómodo y gamer
-070492          ;TECL JEDEL GAMING K505            ;PRODUCTOS DE COMPUTACIÓN;25;⌨️ Teclado iluminado 💡 cómodo y gamer
-070621          ;CAM TP-LINK TAPO C202             ;PRODUCTOS DE COMPUTACIÓN;0;📷 Cámara WiFi 📡 vigilancia clara y segura
-070622          ;CAM TP-LINK TAPO C212             ;PRODUCTOS DE COMPUTACIÓN;5;📷 Cámara WiFi 📡 vigilancia clara y segura
-070623          ;CAM TP-LINK TAPO C120             ;PRODUCTOS DE COMPUTACIÓN;6;📷 Cámara WiFi 📡 vigilancia clara y segura
-070626          ;CAM TP-LINK TAPO C320WS           ;PRODUCTOS DE COMPUTACIÓN;3;📷 Cámara WiFi 📡 vigilancia clara y segura
-070628          ;CAM TP-LINK TAPO C530WS           ;PRODUCTOS DE COMPUTACIÓN;3;📷 Cámara WiFi 📡 vigilancia clara y segura
-070629          ;CAM TP-LINK TAPO C246 DUAL LENTS  ;PRODUCTOS DE COMPUTACIÓN;2;📷 Cámara WiFi 📡 vigilancia clara y segura
-070630          ;CAM MERCUSYS C510 WIFI 2K 360GR   ;PRODUCTOS DE COMPUTACIÓN;5;📷 Cámara 360° 📡 vigilancia amplia y WiFi
-07064           ;MOUSE JEDEL GAMER CP77            ;PRODUCTOS DE COMPUTACIÓN;2;🖱️ Mouse gamer ⚡ precisión y respuesta rápida
-07074           ;MOUSE GENIUS NX-7007 USB NEGRO    ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-07077           ;MOUSE GENIUS NX-7007 USB AZUL     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-07078           ;MOUSE GENIUS NX-7007 USB ROJO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-07080           ;TECL GENIUS KB117 NEGRO           ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo
-07094           ;CAM TP-LINK TAPO EXT C310         ;PRODUCTOS DE COMPUTACIÓN;8;📷 Cámara WiFi 📡 vigilancia clara y segura
-07098           ;CAM LIVIN WI FI 1080P JW3120S     ;PRODUCTOS DE COMPUTACIÓN;0;📷 Cámara WiFi 📡 vigilancia clara y segura
-07110           ;TECL GENIUS SLIM STAR 820 ILUMIN  ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo
-07115           ;TECL QUASAD QC4400U COMBO BLACK   ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Combo teclado y mouse 💻 práctico para oficina
-07116           ;TECL QUASAD QC2500i COMBO BLACK   ;PRODUCTOS DE COMPUTACIÓN;3;⌨️ Combo teclado y mouse 💻 práctico para oficina
-07117           ;TECL LOGITECH K120 NEGRO          ;PRODUCTOS DE COMPUTACIÓN;16;⌨️ Teclado USB 💻 práctico y cómodo
-07121           ;TECL JEDEL + MOUSE WIR WS681      ;PRODUCTOS DE COMPUTACIÓN;22;⌨️ Combo teclado y mouse 💻 práctico para oficina
-07122           ;TECL JEDEL+ MOUSE GK106 NEGRO     ;PRODUCTOS DE COMPUTACIÓN;39;⌨️ Combo teclado y mouse 💻 práctico para oficina
-071221          ;TECL JEDEL + MOUSE GK106 BLANCO   ;PRODUCTOS DE COMPUTACIÓN;19;⌨️ Combo teclado y mouse 💻 práctico para oficina
-07123           ;MOUSE JEDEL ERGONOMICO W925       ;PRODUCTOS DE COMPUTACIÓN;58;🖱️ Mouse USB 💻 cómodo y preciso
-07125           ;TECL JEDEL + MOUSE G18            ;PRODUCTOS DE COMPUTACIÓN;60;⌨️ Combo teclado y mouse 💻 práctico para oficina
-07130           ;CAM 360 2 CAMARAS C VERDE         ;PRODUCTOS DE COMPUTACIÓN;2;📷 Cámara 360° 📡 vigilancia amplia y WiFi
-07131           ;CAM 360 3 CAMARAS C LILA          ;PRODUCTOS DE COMPUTACIÓN;6;📷 Cámara 360° 📡 vigilancia amplia y WiFi
-07132           ;CAM SANCI MINI  ESPIA             ;PRODUCTOS DE COMPUTACIÓN;15;📷 Cámara mini 🔍 compacta y discreta
-07151           ;TECL ECCO CON CABLE K15           ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo
-07152           ;TECL ECCO CON CABLE K29           ;PRODUCTOS DE COMPUTACIÓN;183;⌨️ Teclado USB 💻 práctico y cómodo
-07153           ;TECL ECCO CON CABLE EC K31        ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo
-07171           ;MOUSE ECCO WIRELESS EC-W690       ;PRODUCTOS DE COMPUTACIÓN;199;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07172           ;MOUSE ECCO WIRELESS EC-W930       ;PRODUCTOS DE COMPUTACIÓN;200;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07180           ;MOUSE QUASAD QM-703U CON CABLE NEG;PRODUCTOS DE COMPUTACIÓN;85;🖱️ Mouse USB 💻 cómodo y preciso
-07181           ;MOUSE QUASAD QM-703U CON CABLE GRI;PRODUCTOS DE COMPUTACIÓN;91;🖱️ Mouse USB 💻 cómodo y preciso
-07186           ;MOUSE QUASAD QM-610 WIRL NEGRO    ;PRODUCTOS DE COMPUTACIÓN;143;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07187           ;MOUSE QUASAD QM-610 WIRL GRIS     ;PRODUCTOS DE COMPUTACIÓN;121;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07188           ;MOUSE QUASAD WIRL QME-V10 GRIS    ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07211           ;MOUSE JEDEL WIRELESS WD100        ;PRODUCTOS DE COMPUTACIÓN;2;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07250           ;MOUSE EARLDOM KM2 CON CABLE NEGRO ;PRODUCTOS DE COMPUTACIÓN;43;🖱️ Mouse USB 💻 cómodo y preciso
-07251           ;MOUSE EARLDOM ERGO KM4            ;PRODUCTOS DE COMPUTACIÓN;16;🖱️ Mouse USB 💻 cómodo y preciso
-07252           ;MOUSE EARLDOM INALAM KM7          ;PRODUCTOS DE COMPUTACIÓN;29;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07253           ;MOUSE YELANDAR INALAM ERGON BW100 ;PRODUCTOS DE COMPUTACIÓN;16;🖱️ Mouse inalámbrico 🔋 cómodo y práctico
-07301           ;ROUTER MERCUSYS INALAM MW302R 2 AN;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar
-073011          ;ROUTER MERCUSYS MW306R 3 ANT      ;PRODUCTOS DE COMPUTACIÓN;8;📡 Router WiFi 🌐 conexión estable para el hogar
-073012          ;ROUTER MERCUSYS 300MBPS MW301R 2 A;PRODUCTOS DE COMPUTACIÓN;4;📡 Router WiFi 🌐 conexión estable para el hogar
-07302           ;EXTEN TP-LINK DE COBER 300MBP WA85;PRODUCTOS DE COMPUTACIÓN;17;📶 Extensor WiFi 🌐 mejora cobertura y señal
-073021          ;EXTEN TP-LINK WI-FI EN MALLA  AC12;PRODUCTOS DE COMPUTACIÓN;7;📶 Extensor WiFi 🌐 mejora cobertura y señal
-073022          ;EXTEN TP-LINK WI-FI MESH  AC750 30;PRODUCTOS DE COMPUTACIÓN;0;📶 Extensor WiFi 🌐 mejora cobertura y señal
-07304           ;ROUTER TP-LINK INAL 300MPBS WR840N;PRODUCTOS DE COMPUTACIÓN;8;📡 Router WiFi 🌐 conexión estable para el hogar
-07305           ;ROUTER TP-LINK DOBLE BANDA AC750 4;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar
-07306           ;ROUTER TP-LINK AC1200 WI-FI 4 ANT ;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar
-07307           ;EXTEN TP-LINK RANGO N300MBP TL-WA8;PRODUCTOS DE COMPUTACIÓN;26;📶 Extensor WiFi 🌐 mejora cobertura y señal
-07308           ;ADAPT TP-LINK BLUETOOTH 5.0 UB500 ;PRODUCTOS DE COMPUTACIÓN;8;📡 Adaptador USB 🌐 conexión práctica y estable
-07309           ;ADAPT TP-LINK MINI WLS TL-WN823N  ;PRODUCTOS DE COMPUTACIÓN;11;📡 Adaptador USB 🌐 conexión práctica y estable
-07310           ;ADAPT TP-LINK 150MBPS TL-WN725N   ;PRODUCTOS DE COMPUTACIÓN;13;📡 Adaptador USB 🌐 conexión práctica y estable
-07311           ;ROUTER TP-LINK AC1200 DOBLE BANDA ;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar
-07312           ;EXTEN MERCUSYS DE RANGO MW300RE   ;PRODUCTOS DE COMPUTACIÓN;8;📶 Extensor WiFi 🌐 mejora cobertura y señal
-07313           ;ADAPT TP-LINK MINI USB  ARCHER T2U;PRODUCTOS DE COMPUTACIÓN;4;📡 Adaptador USB 🌐 conexión práctica y estable
-07314           ;ADAPT TP-LINK USB ARCHER T2U NANO ;PRODUCTOS DE COMPUTACIÓN;13;📡 Adaptador USB 🌐 conexión práctica y estable
-07315           ;ROUTER MERCUSYS AX1500 MR62X 4 ANT;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar
-07316           ;ROUTER MERCUSYS AC1200 MR30G 4 ANT;PRODUCTOS DE COMPUTACIÓN;3;📡 Router WiFi 🌐 conexión estable para el hogar
-07320           ;ROUTER TP-LINK AX1500 ARCHER AX12 ;PRODUCTOS DE COMPUTACIÓN;9;📡 Router WiFi 🌐 conexión estable para el hogar
-07350           ;SWITCH MERCUSYS ESCRITORIO 5 POR  ;PRODUCTOS DE COMPUTACIÓN;0;🌐 Switch de red 🔌 expande conexiones Ethernet
-07351           ;SWITCH MERCUSYS ESCRITORIO 8 POR  ;PRODUCTOS DE COMPUTACIÓN;3;🌐 Switch de red 🔌 expande conexiones Ethernet
-07352           ;SWITCH TP LINK LS1008 8 POR       ;PRODUCTOS DE COMPUTACIÓN;0;🌐 Switch de red 🔌 expande conexiones Ethernet
-07353           ;SWITCH TP LINK LS1005 5 POR       ;PRODUCTOS DE COMPUTACIÓN;0;🌐 Switch de red 🔌 expande conexiones Ethernet
-07354           ;"ESTUCHE LDNIO PARA LAPTOP 13"" A 16";PRODUCTOS DE COMPUTACIÓN;1;💼 Estuche protector 💻 práctico y resistente
-07500           ;MOUSEPAD COLORES                  ;PRODUCTOS DE COMPUTACIÓN;83;🖱️ Mouse USB 💻 cómodo y preciso
-075001          ;TRIPODE JJ60                      ;PRODUCTOS DE COMPUTACIÓN;3;📸 Trípode ajustable 📱 ideal para fotos y videos
-07502           ;CARG LAPTOP VARIAS ENTRADAS       ;PRODUCTOS DE COMPUTACIÓN;10;🔌 Cargador ⚡ carga rápida y segura
-07560           ;TECL MINI KEYBOARD BACKLIT        ;PRODUCTOS DE COMPUTACIÓN;16;⌨️ Teclado iluminado 💡 cómodo y gamer
-07604           ;PARL ECCO CPU EC-CK4              ;PRODUCTOS DE COMPUTACIÓN;200;🔊 Parlante para PC 💻 sonido claro y práctico
-07605           ;PARL JEDEL CPU S-562 TIPO BARRA   ;PRODUCTOS DE COMPUTACIÓN;28;🔊 Parlante para PC 💻 sonido claro y práctico
-07606           ;PARL JEDEL CPU S-576 x2           ;PRODUCTOS DE COMPUTACIÓN;98;🔊 Parlante para PC 💻 sonido claro y práctico
-07607           ;PARL JEDEL CPU S-578x2            ;PRODUCTOS DE COMPUTACIÓN;50;🔊 Parlante para PC 💻 sonido claro y práctico
-07610           ;PARL GENIUS CPU SP-HF 180 CAFE    ;PRODUCTOS DE COMPUTACIÓN;1;🔊 Parlante para PC 💻 sonido claro y práctico
-07612           ;PARL JEDEL CPU S-550              ;PRODUCTOS DE COMPUTACIÓN;37;🔊 Parlante para PC 💻 sonido claro y práctico
-07651           ;TECLADO + MOUSE JEDEL G10         ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Combo teclado y mouse 💻 práctico para oficina
-077001          ;CONTROL DSH WLS PS3 NEGRA         ;PRODUCTOS DE COMPUTACIÓN;26;📦 Producto práctico ✨ útil para uso diario
-077002          ;CONTROL DSH WLS PS3 ROJA          ;PRODUCTOS DE COMPUTACIÓN;10;📦 Producto práctico ✨ útil para uso diario
-077003          ;CONTROL DSH WLS PS3 BLANCA        ;PRODUCTOS DE COMPUTACIÓN;4;📦 Producto práctico ✨ útil para uso diario
-077011          ;CONTROL DSH WLS PS4 ROJO          ;PRODUCTOS DE COMPUTACIÓN;6;📦 Producto práctico ✨ útil para uso diario
-077012          ;CONTROL DSH WLS PS4 NEGRO         ;PRODUCTOS DE COMPUTACIÓN;5;📦 Producto práctico ✨ útil para uso diario
-077014          ;CONTROL DSH WLS PS4 DISEÑO GRIS   ;PRODUCTOS DE COMPUTACIÓN;3;📦 Producto práctico ✨ útil para uso diario
-077015          ;CONTROL DSH WLS PS4 DISEÑO ROJO   ;PRODUCTOS DE COMPUTACIÓN;0;📦 Producto práctico ✨ útil para uso diario
-07750           ;TECL GENIUS + MOUSE OP KM8206S    ;PRODUCTOS DE COMPUTACIÓN;2;⌨️ Combo teclado y mouse 💻 práctico para oficina
-077501          ;TECL GENIUS SLIMSTART 7250BT      ;PRODUCTOS DE COMPUTACIÓN;4;⌨️ Teclado USB 💻 práctico y cómodo
-07751           ;MOUSE GENIUS ECO8100 RECAR NEGRO  ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-07752           ;MOUSE GENIUS ECO8100 RECAR AZUL   ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-07760           ;MOUSE GENIUS DX-123 USB NEGRO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso
-08005           ;INSUMO 6640 BK                    ;TINTAS;197;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-080051          ;TINTA EPSON 544 JUEGO X 4 ORIG    ;TINTAS;2;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-080052          ;TINTA EPSON 504 JUEGO X 4 ORIG    ;TINTAS;0;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08006           ;INSUMO 6640 C                     ;TINTAS;150;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08007           ;INSUMO 6640 Y                     ;TINTAS;139;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08008           ;INSUMO 6640 M                     ;TINTAS;156;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08009           ;INSUMO 5440 BK                    ;TINTAS;262;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08010           ;INSUMO 5440 C                     ;TINTAS;218;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08011           ;INSUMO 5440 Y                     ;TINTAS;203;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08012           ;INSUMO 5440 M                     ;TINTAS;204;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08013           ;INSUMO 5040 BK                    ;TINTAS;80;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08014           ;INSUMO 5040 C                     ;TINTAS;111;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08015           ;INSUMO 5040 Y                     ;TINTAS;101;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08016           ;INSUMO 5040 M                     ;TINTAS;103;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08017           ;INSUMO HG530 BK                   ;TINTAS;57;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08018           ;INSUMO HG520 C                    ;TINTAS;43;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08019           ;INSUMO HG520 Y                    ;TINTAS;43;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08020           ;INSUMO HG520 M                    ;TINTAS;43;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08021           ;INSUMO 1900 BK                    ;TINTAS;72;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08022           ;INSUMO 1900 C                     ;TINTAS;63;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08023           ;INSUMO 1900 Y                     ;TINTAS;65;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08024           ;INSUMO 1900 M                     ;TINTAS;60;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08025           ;INSUMO IPR 0600 BK                ;TINTAS;39;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08026           ;INSUMO IPR 05000C                 ;TINTAS;32;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08027           ;INSUMO IPR 05000 Y                ;TINTAS;19;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08028           ;INSUMO IPR 05000 M                ;TINTAS;18;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08029           ;INSUMO 1 LT BK                    ;TINTAS;7;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-080291          ;INSUMO 1 LT CY                    ;TINTAS;9;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-080292          ;INSUMO 1 LT Y                     ;TINTAS;8;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-080293          ;INSUMO 1 LT MG                    ;TINTAS;9;🖨️ Tinta para impresora 🎨 color intenso y rendimiento
-08038           ;LIQUIDO LIMPIEZA CABEZAL IMPRESORA;TINTAS;0;🧴 Limpieza cabezal 🖨️ mantenimiento seguro de impresora
-09001           ;REGULADOR CDP RU-AVR604  4 NEMA   ;RICH;6;🔌 Regulador eléctrico ⚡ protege equipos de voltaje
-09002           ;REGULADOR CDP R2C-AVR 1008 8 NEMA ;RICH;0;🔌 Regulador eléctrico ⚡ protege equipos de voltaje
-09007           ;FUENTE DE PODER QUASAD 850W 4 PIN ;RICH;0;⚡ Fuente de poder 💻 energía estable para PC
-09009           ;REGULADOR QUASAD QAVR-1050 1000VA ;RICH;0;🔌 Regulador eléctrico ⚡ protege equipos de voltaje
-090121          ;MAQUINA RICH UV                   ;RICH;9;✂️ Máquina Rich ⚡ precisión profesional para láminas
-090122          ;IMPRESORA RICH                    ;RICH;4;🖨️ Impresora Rich ⚡ trabajo práctico y profesional
-090123          ;KIT ROLLO IMPRE RICH              ;RICH;2;📦 Kit de rollo 🖨️ repuesto práctico para impresión
-090124          ;"MAQUINA RICH 13"" CUP 3 RODILLOS   ";RICH;0;✂️ Máquina Rich ⚡ precisión profesional para láminas
-090125          ;"MAQUINA RICH 16"" CUP 4 RODILLOS   ";RICH;0;✂️ Máquina Rich ⚡ precisión profesional para láminas
-090128          ;MAQUINA RICH MINI BLACK           ;RICH;9;✂️ Máquina Rich ⚡ precisión profesional para láminas
-09015           ;FUENTE DE PODER ALTEK MINI ITX900W;RICH;0;⚡ Fuente de poder 💻 energía estable para PC
-09016           ;FUENTE DE PODER ALTEK ATX 900W 24P;RICH;53;⚡ Fuente de poder 💻 energía estable para PC
-09020           ;LAMINA RICH TRANSP HD             ;RICH;1374;📱 Lámina protectora 🛡️ alta claridad y resistencia
-090201          ;LAMINA RICH UV HD                 ;RICH;697;📱 Lámina protectora 🛡️ alta claridad y resistencia
-0902011         ;LAMINA RICH LAPTOP HD             ;RICH;100;📱 Lámina protectora 🛡️ alta claridad y resistencia
-09021           ;LAMINA RICH MATE                  ;RICH;0;📱 Lámina mate 🛡️ acabado suave y resistente
-090211          ;LAMINA RICH SUPER PREMIUN HD      ;RICH;136;📱 Lámina protectora 🛡️ alta claridad y resistencia
-09022           ;LAMINA RICH ANTIESPIA MATE        ;RICH;595;📱 Lámina antiespía 🛡️ privacidad y protección
-09023           ;LAMINA RICH TRANSP HD TABLET      ;RICH;0;📱 Lámina protectora 🛡️ alta claridad y resistencia
-090231          ;LAMINA RICH MATE TABLET           ;RICH;0;📱 Lámina mate 🛡️ acabado suave y resistente
-09025           ;SKIN DE DISEÑO ALTO RELIEVE SURTID;RICH;47;🎨 Skin diseño 🔥 estilo y protección con relieve
-09030           ;REGULADOR CDP R2CU-AVR1008 4USB FR;RICH;0;🔌 Regulador eléctrico ⚡ protege equipos de voltaje
-09035           ;LAMINA RICH ANTI-BLUE             ;RICH;1;📱 Lámina anti-blue 🛡️ protección visual diaria
-09038           ;LAMINA RICH ANTIESPIA HD          ;RICH;301;📱 Lámina antiespía 🛡️ privacidad y protección
-09039           ;LAMINA DISEÑO MATE                ;RICH;552;📱 Lámina mate 🛡️ acabado suave y resistente
-09040           ;LAMINA RICH EPU PRO TRANS HD      ;RICH;500;📱 Lámina protectora 🛡️ alta claridad y resistencia
-09041           ;LAMINA RICH EPU PRO ANTIESPIA MATE;RICH;700;📱 Lámina antiespía 🛡️ privacidad y protección
-09043           ;LAMINA RICH EPU PRO ANTIESPIA HD  ;RICH;246;📱 Lámina antiespía 🛡️ privacidad y protección
-09045           ;LAMINA RICH LITE ANTIESPIA MATE   ;RICH;648;📱 Lámina antiespía 🛡️ privacidad y protección
-09046           ;LAMINA RICH LITE MATE             ;RICH;699;📱 Lámina mate 🛡️ acabado suave y resistente
-09047           ;LAMINA RICH LITE TRANS HD         ;RICH;0;📱 Lámina protectora 🛡️ alta claridad y resistencia
-09101           ;LAPIZ PARA LAMINAS RICH           ;RICH;1;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09102           ;PAÑO LIMPIEZA                     ;RICH;303;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09103           ;AGUJA DE REEMPLAZO                ;RICH;36;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09106           ;ALFOMBRA RICH ANTI SLIP           ;RICH;39;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09107           ;CALIBRADOR RICH                   ;RICH;3;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09109           ;CARGADOR MAQUINA RICH             ;RICH;2;🔌 Cargador ⚡ carga rápida y segura
-09300           ;PALETA RICH PEQUEÑA               ;RICH;112.99;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09301           ;PALETA RICH GRANDE                ;RICH;19;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09302           ;PALETA AZUL GRANDE                ;RICH;2;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-09304           ;PALETA RICH EPU DOBLE             ;RICH;14;🛠️ Accesorio técnico ✨ práctico para trabajo profesional
-098029          ;PARLANTE DPUS SZ-6565             ;RICH;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil
-99001;FUNDA PEQ LDNIO REG               ;VARIOS PRODUCTOS;650;🎁 Material promocional ✨ ideal para marca y exhibición
-990012;KIT NAVIDEÑO                      ;VARIOS PRODUCTOS;300;🎄 Kit navideño 🎁 detalle práctico y festivo
-99002;CAMISETA PROMO                    ;VARIOS PRODUCTOS;4;📷 Cámara WiFi 📡 vigilancia clara y segura
-99003;ESFERO PROMO                      ;VARIOS PRODUCTOS;573;🎁 Material promocional ✨ ideal para marca y exhibición
-990033;COLAGENO                          ;VARIOS PRODUCTOS;1;✨ Colágeno 💪 complemento práctico de bienestar
-99004;ENVIO                             ;VARIOS PRODUCTOS;99999929;🚚 Servicio de envío 📦 entrega práctica y segura
-99005;GORRAS PROMO                      ;VARIOS PRODUCTOS;24;🎁 Material promocional ✨ ideal para marca y exhibición
-99006;CORDONES DE ID PROMO              ;VARIOS PRODUCTOS;221;🎁 Material promocional ✨ ideal para marca y exhibición
-99007;AFICHES PROMO                     ;VARIOS PRODUCTOS;96;🎁 Material promocional ✨ ideal para marca y exhibición
-99008;EXHIBIDOR LDNIO GRANDE            ;VARIOS PRODUCTOS;7;🎁 Material promocional ✨ ideal para marca y exhibición
-990081;EXHIBIDOR LDNIO PEQUEÑO           ;VARIOS PRODUCTOS;24;🎁 Material promocional ✨ ideal para marca y exhibición
-99010;FUNDA DE PAPEL LDNIO REGALO       ;VARIOS PRODUCTOS;28;🎁 Material promocional ✨ ideal para marca y exhibición
-99011;AGENDA PROMO                      ;VARIOS PRODUCTOS;5;🎁 Material promocional ✨ ideal para marca y exhibición
-99012;TOMATODO PROMO                    ;VARIOS PRODUCTOS;18;🎁 Material promocional ✨ ideal para marca y exhibición
-99013;TAZA PROMO                        ;VARIOS PRODUCTOS;10;🎁 Material promocional ✨ ideal para marca y exhibición
-99014;TERMO PARLANTE RICH               ;VARIOS PRODUCTOS;11;🔊 Producto con parlante 🎵 práctico y llamativo
-99015;VARIOS PRODUCTOS                  ;VARIOS PRODUCTOS;33;📦 Producto práctico ✨ útil para uso diario
-99016;VARIOS MASAJEADORA                ;VARIOS PRODUCTOS;30;💆 Masajeadora portátil ⚡ relajación práctica y cómoda
-99017;EXHIBIDOR ANSTY GRANDE            ;VARIOS PRODUCTOS;2;🎁 Material promocional ✨ ideal para marca y exhibición
-99018;BANNER PEQ RICH                   ;VARIOS PRODUCTOS;32;🎁 Material promocional ✨ ideal para marca y exhibición
-99019;EXHIBIDOR ANSTY PEQUEÑO           ;VARIOS PRODUCTOS;5;🎁 Material promocional ✨ ideal para marca y exhibición
-99100;ESTUCHE                           ;VARIOS PRODUCTOS;0;💼 Estuche protector 💻 práctico y resistente
+﻿code;name;category;stock_quantity;simple_description;display_order;visible
+01003           ;MICRO SD KINGSTON 100 MB/S 64GB   ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 64GB ⚡ almacenamiento portátil y confiable;1;1
+01004           ;MICRO SD KINGSTON 100 MB/S 128GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 128GB ⚡ almacenamiento portátil y confiable;2;1
+01005           ;MICRO SD KINGSTON 100 MB/S 256GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 256GB ⚡ almacenamiento portátil y confiable;;0
+01006           ;MICRO SD KINGSTON 100 MB/S 512GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 512GB ⚡ almacenamiento portátil y confiable;;1
+01016           ;FLASH EXODIA K 3,2 64GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;1;💾 64GB ⚡ velocidad USB 3.2 y práctico;;1
+01017           ;FLASH EXODIA K 3,2 128GB          ;MICRO SD / PEN DRIVES / DISCOS DUROS;22;💾 128GB ⚡ velocidad USB 3.2 y práctico;;1
+010251          ;FLASH MEMORY SANDISK UL FIT 32GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 32GB ⚡ diseño compacto y rápido;;1
+010271          ;FLASH MEMORY SANDISK 128GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 128GB ⚡ almacenamiento portátil y práctico;;1
+01030           ;DDS KINGSTON A400 240GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 240GB ⚡ rendimiento rápido y estable;;1
+01031           ;DDS KINGSTON A400 480GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 480GB ⚡ rendimiento rápido y estable;;1
+01034           ;FLASH MEMORY ECCO 16GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;68;💾 16GB ⚡ almacenamiento portátil y práctico;;1
+01035           ;FLASH MEMORY ECCO 4GB             ;MICRO SD / PEN DRIVES / DISCOS DUROS;232;💾 4GB ⚡ almacenamiento portátil y práctico;;1
+01036           ;FLASH MEMORY ECCO 8GB             ;MICRO SD / PEN DRIVES / DISCOS DUROS;162;💾 8GB ⚡ almacenamiento portátil y práctico;;1
+01037           ;MEMORIA MICRO SD ECCO 16GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 16GB ⚡ almacenamiento portátil y confiable;;1
+01038           ;MEMORIA MICRO SD ECCO 4GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 4GB ⚡ almacenamiento portátil y confiable;;1
+01039           ;MEMORIA MICRO SD ECCO 8GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 8GB ⚡ almacenamiento portátil y confiable;;1
+010391          ;MEMORIA MICRO SD ECCO 32GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 32GB ⚡ almacenamiento portátil y confiable;;1
+01043           ;DDS KINGSTON A400 960GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 960GB ⚡ rendimiento rápido y estable;;1
+01046           ;DDS WESTERN DIGITAL 240GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 240GB ⚡ rendimiento rápido y estable;;1
+01049           ;DDS KINGSTON M2 500GB             ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 500GB ⚡ formato M.2 rápido y eficiente;;1
+01050           ;DDS KINGSTON M2  1TB              ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 1TB ⚡ formato M.2 rápido y eficiente;;1
+01053           ;DDS ADATA 240GB                   ;MICRO SD / PEN DRIVES / DISCOS DUROS;5;💽 240GB ⚡ rendimiento rápido y estable;;1
+01054           ;DDS ADATA 480GB                   ;MICRO SD / PEN DRIVES / DISCOS DUROS;2;💽 480GB ⚡ rendimiento rápido y estable;;1
+01056           ;DDS WESTERN DIGITAL 480GB         ;MICRO SD / PEN DRIVES / DISCOS DUROS;4;💽 480GB ⚡ rendimiento rápido y estable;;1
+010561          ;DDS WESTERN DIGITAL 1TB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💽 1TB ⚡ rendimiento rápido y estable;;1
+01057           ;FLASH MEMORY ECCO 32GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;3;💾 32GB ⚡ almacenamiento portátil y práctico;;1
+010632          ;FLASH MEMORY SANDISK UL FIT 16GB  ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 16GB ⚡ diseño compacto y rápido;;1
+01065           ;ENCLOSURE ARGOM 2.51nc SATA       ;MICRO SD / PEN DRIVES / DISCOS DUROS;4;💽 Enclosure SATA ⚡ convierte discos en almacenamiento externo;;1
+01075           ;FLASH MEMORY ADATA 32GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 32GB ⚡ almacenamiento portátil y práctico;;1
+01076           ;FLASH MEMORY ADATA 64GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;10;💾 64GB ⚡ almacenamiento portátil y práctico;;1
+01085           ;FLASH MEMORY SPEED 4GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;2;💾 4GB ⚡ almacenamiento portátil y práctico;;1
+01086           ;FLASH MEMORY SPEED 8GB            ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 8GB ⚡ almacenamiento portátil y práctico;;1
+01087           ;FLASH MEMORY SPEED 16GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;2;💾 16GB ⚡ almacenamiento portátil y práctico;;1
+01088           ;FLASH MEMORY SPEED 32GB           ;MICRO SD / PEN DRIVES / DISCOS DUROS;214;💾 32GB ⚡ almacenamiento portátil y práctico;;1
+01090           ;MEMORIA MICRO SD SPEED 4GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 4GB ⚡ almacenamiento portátil y confiable;;1
+01091           ;MEMORIA MICRO SD SPEED 8GB        ;MICRO SD / PEN DRIVES / DISCOS DUROS;18;📱 8GB ⚡ almacenamiento portátil y confiable;;1
+01092           ;MEMORIA MICRO SD SPEED 16GB       ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;📱 16GB ⚡ almacenamiento portátil y confiable;;1
+01093           ;MEMORIA MICRO SD SPEED 32GB       ;MICRO SD / PEN DRIVES / DISCOS DUROS;35;📱 32GB ⚡ almacenamiento portátil y confiable;;1
+01100           ;FLASH EXODIA K 3,2 256GB          ;MICRO SD / PEN DRIVES / DISCOS DUROS;0;💾 256GB ⚡ velocidad USB 3.2 y práctico;;1
+02001           ;CABLE LDNIO SY-03 BLANCO 1M V8    ;CABLES / ADAPTADORES;382;🔌 1m ⚡ carga práctica y resistente;;1
+02002           ;CABLE LDNIO SY-03 BLANCO 1M IOS   ;CABLES / ADAPTADORES;173;🔌 1m ⚡ carga estable para iPhone;;1
+02003           ;CABLE LDNIO XS-07 PLANO 1M TIPO C ;CABLES / ADAPTADORES;623;🔌 07 P ⚡ carga rápida Type-C;;1
+020100          ;CABLE LDNIO LC811C TIPO C A C     ;CABLES / ADAPTADORES;49;🔌 USB-C ⚡ carga rápida y estable;;1
+020101          ;CABLE LDNIO LC631 65W 1M TC A C   ;CABLES / ADAPTADORES;15;🔌 65W USB-C ⚡ carga rápida y estable;;1
+0201011         ;CABLE LDNIO LC631 30W 1M TC A IP  ;CABLES / ADAPTADORES;0;🔌 30W USB-C a iPhone ⚡ carga rápida;;1
+020102          ;CABLE LDNIO LC901 65W TC A C      ;CABLES / ADAPTADORES;40;🔌 65W USB-C ⚡ carga rápida y estable;;1
+0201021         ;CABLE LDNIO LC901 30W TC A IP     ;CABLES / ADAPTADORES;0;🔌 30W USB-C a iPhone ⚡ carga rápida;;1
+020103          ;CABLE LDNIO LC921 240W 1M TC A C  ;CABLES / ADAPTADORES;33;🔌 240W USB-C ⚡ carga rápida y estable;;1
+02012           ;CABLE LDNIO LS531 TELA 1M TIPO C  ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C;;1
+02024           ;CABLE LDNIO LS442 NYLON 2M IOS    ;CABLES / ADAPTADORES;64;🔌 2m ⚡ carga estable para iPhone;;1
+02025           ;CABLE LDNIO LS442 NYLON 2M TIPO C ;CABLES / ADAPTADORES;0;🔌 2m ⚡ carga rápida Type-C;;1
+02034           ;CABLE HDMI 3 MTS                  ;CABLES / ADAPTADORES;72;📺 3 m ⚡ imagen y sonido en alta calidad;;1
+02035           ;CABLE HDMI 5 MTS                  ;CABLES / ADAPTADORES;57;📺 5 m ⚡ imagen y sonido en alta calidad;;1
+02041           ;CABLE LDNIO LS441 NYLON 1M TIPO C ;CABLES / ADAPTADORES;124;🔌 1m ⚡ carga rápida Type-C;;1
+020411          ;CABLE LDNIO LC441 65W 1M TC A TC  ;CABLES / ADAPTADORES;0;🔌 65W 1m ⚡ carga rápida Type-C;;1
+020412          ;CABLE LDNIO LC441 30W 1M TC A IOS ;CABLES / ADAPTADORES;0;🔌 30W USB-C a iPhone ⚡ carga rápida;;1
+02042           ;CABLE LDNIO LS441 NYLON 1M IOS    ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone;;1
+02053           ;CABLE LDNIO XS-07 PLANO 1M V8     ;CABLES / ADAPTADORES;6;🔌 07 P ⚡ carga práctica y resistente;;1
+02057           ;CABLE LDNIO LC121 1M TC A TC      ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C;;1
+02058           ;CABLE LDNIO LC121 1M TC A IOS     ;CABLES / ADAPTADORES;0;🔌 USB-C a iPhone ⚡ carga rápida;;1
+02059           ;CABLE IP LIGHT 1M USB A IOS       ;CABLES / ADAPTADORES;16;🔌 1m ⚡ carga estable para iPhone;;1
+020591          ;CABLE IP LIGHT 1M TC A TC         ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C;;1
+020592          ;CABLE IP LIGHT 1M USB A IOS X     ;CABLES / ADAPTADORES;56;🔌 1m ⚡ carga estable para iPhone;;1
+020593          ;CABLE IP LIGHT 60W 1M TC A TC     ;CABLES / ADAPTADORES;178;🔌 60W 1m ⚡ carga rápida Type-C;;1
+02067           ;CABLE REALME USB TIPO C           ;CABLES / ADAPTADORES;22;🔌 1m ⚡ carga rápida Type-C;;1
+020671          ;CABLE ANSTY SUELTO V8             ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga práctica y resistente;;1
+020672          ;CABLE ANSTY SUELTO IP             ;CABLES / ADAPTADORES;20;🔌 1m ⚡ carga estable para iPhone;;1
+020701          ;CABLE LDNIO AUX LS-Y81A 1M        ;CABLES / ADAPTADORES;64;🎧 AUX 1m 🔊 sonido claro y estable;;1
+020702          ;CABLE LDNIO AUX LS-Y82A 2M        ;CABLES / ADAPTADORES;29;🎧 AUX 2m 🔊 sonido claro y estable;;1
+020703          ;CABLE LDNIO AUX LS-Y91A 1M        ;CABLES / ADAPTADORES;0;🎧 AUX 1m 🔊 sonido claro y estable;;1
+02072           ;CABLE IP 4                        ;CABLES / ADAPTADORES;105;🔌 30 pines 📱 carga y datos para iPhone antiguo;;1
+02073           ;CABLE HDMI 1.5 MTS                ;CABLES / ADAPTADORES;201;📺 1.5 m ⚡ imagen y sonido en alta calidad;;1
+02084           ;CABLE LDNIO LS561 EN L 1M TIPO C  ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C;;1
+02085           ;CABLE LDNIO LS561 EN L 1M IOS     ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone;;1
+02094           ;CABLE LDNIO LS631 1M V8           ;CABLES / ADAPTADORES;58;🔌 1m ⚡ carga práctica y resistente;;1
+02095           ;CABLE LDNIO LS631 1M IOS          ;CABLES / ADAPTADORES;77;🔌 1m ⚡ carga estable para iPhone;;1
+02096           ;CABLE LDNIO LS631 1M TIPO C       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C;;1
+02097           ;CABLE LDNIO LS632 2M V8           ;CABLES / ADAPTADORES;0;🔌 2m ⚡ carga práctica y resistente;;1
+02098           ;CABLE LDNIO LS632 2M IOS          ;CABLES / ADAPTADORES;120;🔌 2m ⚡ carga estable para iPhone;;1
+02099           ;CABLE LDNIO LS632 2M TIPO C       ;CABLES / ADAPTADORES;300;🔌 2m ⚡ carga rápida Type-C;;1
+02106           ;CABLE LDNIO LS801 1M V8           ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga práctica y resistente;;1
+02107           ;CABLE LDNIO LS801 1M IOS          ;CABLES / ADAPTADORES;131;🔌 1m ⚡ carga estable para iPhone;;1
+021071          ;CABLE LDNIO LS802 1M TIPO C       ;CABLES / ADAPTADORES;85;🔌 1m ⚡ carga rápida Type-C;;1
+02108           ;CABLE LDNIO LS801 1M TIPO C       ;CABLES / ADAPTADORES;194;🔌 1m ⚡ carga rápida Type-C;;1
+02109           ;CABLE LDNIO LS821 1M V8           ;CABLES / ADAPTADORES;18;🔌 1m ⚡ carga práctica y resistente;;1
+02114           ;CABLE LDNIO LS661 1M TIPO C       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C;;1
+02116           ;CABLE IP LIGHT TIPO C A IOS       ;CABLES / ADAPTADORES;245;🔌 USB-C a iPhone ⚡ carga rápida;;1
+021161          ;CABLE IP LIGHT 2M TIPO C A IOS    ;CABLES / ADAPTADORES;41;🔌 USB-C a iPhone ⚡ carga rápida;;1
+02117           ;CABLE HDMI 10 Mts                 ;CABLES / ADAPTADORES;14;📺 10 m ⚡ imagen y sonido en alta calidad;;1
+02121           ;CABLE LDNIO LS841 25W V8          ;CABLES / ADAPTADORES;162;🔌 25W 1m ⚡ carga práctica y resistente;;1
+02122           ;CABLE LDNIO LS841 25W TIPO C      ;CABLES / ADAPTADORES;751;🔌 25W 1m ⚡ carga rápida Type-C;;1
+02123           ;CABLE LDNIO LS841 25W IOS         ;CABLES / ADAPTADORES;128;🔌 25W 1m ⚡ carga estable para iPhone;;1
+02124           ;CABLE LDNIO LS641 COR 1M V8       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga práctica y resistente;;1
+02125           ;CABLE LDNIO LS641 COR 1M IP       ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone;;1
+02126           ;CABLE LDNIO LS641 COR 1M TIPO C   ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga rápida Type-C;;1
+02135           ;CABLE LDNIO LC651C 30W 1M TC A C  ;CABLES / ADAPTADORES;14;🔌 30W USB-C ⚡ carga rápida y estable;;1
+02137           ;CABLE LDNIO LC211 65W TC A C      ;CABLES / ADAPTADORES;39;🔌 65W USB-C ⚡ carga rápida y estable;;1
+02158           ;CABLE EARLDOM AUX 80 1M TC Y IP   ;CABLES / ADAPTADORES;87;🎧 AUX dual 🔌 compatible Type-C y iPhone;;1
+02159           ;CABLE EARLDOM AUX 81 1M RCA       ;CABLES / ADAPTADORES;23;🎧 AUX a RCA 🔊 audio estéreo claro y estable;;1
+02160           ;CABLE EARLDOM AUX 12 1M           ;CABLES / ADAPTADORES;124;🎧 AUX 1m 🔊 sonido claro y estable;;1
+02161           ;CABLE EARLDOM AUX 15 1M           ;CABLES / ADAPTADORES;44;🎧 AUX 1m 🔊 sonido claro y estable;;1
+02190           ;CABLE LDNIO LC-96U 100W 3 EN 1    ;CABLES / ADAPTADORES;15;🔌 100W multi cable ⚡ carga varios dispositivos;;1
+02191           ;CABLE LDNIO LC-97U 100W 3 EN 1    ;CABLES / ADAPTADORES;21;🔌 100W multi cable ⚡ carga varios dispositivos;;1
+02200           ;CABLE LDNIO LS851 25W V8          ;CABLES / ADAPTADORES;136;🔌 25W 1m ⚡ carga práctica y resistente;;1
+02201           ;CABLE LDNIO LS851 25W TIPO C      ;CABLES / ADAPTADORES;401;🔌 25W 1m ⚡ carga rápida Type-C;;1
+02202           ;CABLE LDNIO LS851 25W IOS         ;CABLES / ADAPTADORES;0;🔌 25W 1m ⚡ carga estable para iPhone;;1
+02206           ;CABLE LDNIO LS852 25W 2M V8       ;CABLES / ADAPTADORES;44;🔌 25W 2m ⚡ carga práctica y resistente;;1
+02208           ;CABLE LDNIO LS852 25W 2M TIPO C   ;CABLES / ADAPTADORES;365;🔌 25W 2m ⚡ carga rápida Type-C;;1
+02210           ;CABLE LDNIO LS902 25W 2M V8       ;CABLES / ADAPTADORES;37;🔌 25W 2m ⚡ carga práctica y resistente;;1
+02211           ;CABLE LDNIO LS902 25W 2M TC       ;CABLES / ADAPTADORES;0;🔌 25W 2m ⚡ carga rápida Type-C;;1
+02212           ;CABLE LDNIO LS902 25W 2M IP       ;CABLES / ADAPTADORES;66;🔌 25W 2m ⚡ carga estable para iPhone;;1
+02213           ;CABLE LDNIO LC902 30W TC A IP     ;CABLES / ADAPTADORES;44;🔌 30W USB-C a iPhone ⚡ carga rápida;;1
+022131          ;CABLE LDNIO LC902 65W TC A C      ;CABLES / ADAPTADORES;39;🔌 65W USB-C ⚡ carga rápida y estable;;1
+02220           ;CABLE LDNIO LS901 1M V8           ;CABLES / ADAPTADORES;237;🔌 1m ⚡ carga práctica y resistente;;1
+02221           ;CABLE LDNIO LS901 1M TIPO C       ;CABLES / ADAPTADORES;445;🔌 1m ⚡ carga rápida Type-C;;1
+02222           ;CABLE LDNIO LS901 1M IOS          ;CABLES / ADAPTADORES;0;🔌 1m ⚡ carga estable para iPhone;;1
+02230           ;CABLE LDNIO LC-16 65W 4 EN 1      ;CABLES / ADAPTADORES;19;🔌 65W multi cable ⚡ carga varios dispositivos;;1
+02231           ;CABLE LDNIO LS691 30W TIPO C      ;CABLES / ADAPTADORES;0;🔌 30W 1m ⚡ carga rápida Type-C;;1
+022311          ;CABLE LDNIO LS692 30W TIPO C      ;CABLES / ADAPTADORES;29;🔌 30W 1m ⚡ carga rápida Type-C;;1
+024101          ;JACK LDNIO LS-Y80C TC             ;CABLES / ADAPTADORES;111;🎧 Jack USB-C 🔊 audio claro y estable;;1
+024102          ;JACK LDNIO LS-Y80I IP             ;CABLES / ADAPTADORES;33;🎧 Jack Lightning 🔊 audio práctico para iPhone;;1
+024103          ;CABLE LDNIO AUX AD LS-Y81C 1M TC  ;CABLES / ADAPTADORES;16;🎧 AUX 1m 🔌 audio directo Type-C;;1
+024104          ;ADAPT LDNIO HUB DS-34U TC         ;CABLES / ADAPTADORES;23;🔌 HUB USB-C ⚡ múltiples conexiones rápidas;;1
+024105          ;ADAPT LDNIO HUB DS-44C USB        ;CABLES / ADAPTADORES;18;🔌 HUB USB ⚡ expande puertos fácilmente;;1
+024106          ;ADAPT LDNIO HUB DS-34C TC         ;CABLES / ADAPTADORES;26;🔌 HUB USB-C ⚡ múltiples conexiones rápidas;;1
+024107          ;ADAPT LDNIO HUB DS-44U USB        ;CABLES / ADAPTADORES;25;🔌 HUB USB ⚡ expande puertos fácilmente;;1
+024108          ;ADAPT LDNIO VARIAS PUNTAS Z7      ;CABLES / ADAPTADORES;12;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples;;1
+024109          ;CABLE LDNIO AUX AD LS-Y81I 1M TIP ;CABLES / ADAPTADORES;33;🎧 AUX dual 🔌 compatible Type-C y iPhone;;1
+024113          ;ADAP LDNIO HUB DS-64C 4 EN 1 TC   ;CABLES / ADAPTADORES;38;🔌 HUB 4 en 1 ⚡ conexiones rápidas y prácticas;;1
+024115          ;ADAP LDNIO HUB DS 25U 5 EN 1      ;CABLES / ADAPTADORES;25;🔌 HUB 5 en 1 ⚡ múltiples puertos en un dispositivo;;1
+02415           ;CABLE ANSTY Z09-T TIPO C          ;CABLES / ADAPTADORES;878;🔌 1m ⚡ carga rápida Type-C;;1
+02416           ;CABLE ANSTY Z09-A  V8             ;CABLES / ADAPTADORES;199;🔌 1m ⚡ carga práctica y resistente;;1
+02417           ;CABLE ANSTY Z09-I IP              ;CABLES / ADAPTADORES;166;🔌 1m ⚡ carga estable para iPhone;;1
+02418           ;CABLE ANSTY Z040 TIPO C           ;CABLES / ADAPTADORES;1804;🔌 1m ⚡ carga rápida Type-C;;1
+02550           ;CABLE DE ROUTER DE 5 A 12VL       ;CABLES / ADAPTADORES;417;🔌 Boost 5V→12V 🌐 ideal para router sin corriente;;1
+03002           ;AUDIF ECON ML FUNDA NEGRO         ;AUDIFONOS / MICROFONOS;0;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03015           ;AUDIF SAMSUNG ML AKG CORDON       ;AUDIFONOS / MICROFONOS;88;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03019           ;AUDIF SAMSUNG ML HS330 BLANCO     ;AUDIFONOS / MICROFONOS;62;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03063           ;AUDIF POP UP WIN ML IP PROMAX     ;AUDIFONOS / MICROFONOS;57;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03108           ;AUDIF AIRPODS 3RA GEN             ;AUDIFONOS / MICROFONOS;34;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+031081          ;AUDIF AIRPODS PRO 3RA GEN PANT    ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+031082          ;AUDIF AIRPODS 4TA GEN             ;AUDIFONOS / MICROFONOS;43;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+031083          ;AUDIF AIRPODS PRO 5TA GEN PANT    ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03130           ;AUDIF LDNIO ML HP03               ;AUDIFONOS / MICROFONOS;1;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03131           ;AUDIF LDNIO ML HP04               ;AUDIFONOS / MICROFONOS;0;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03132           ;AUDIF LDNIO ML HP05               ;AUDIFONOS / MICROFONOS;0;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03133           ;AUDIF LDNIO ML HP06               ;AUDIFONOS / MICROFONOS;3;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03148           ;AUDIF SAMSUNG ML HS330 NEGRO      ;AUDIFONOS / MICROFONOS;33;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03149           ;AUDIF LDNIO ML HP02               ;AUDIFONOS / MICROFONOS;10;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03183           ;AUDIF BT WIRELESS M90             ;AUDIFONOS / MICROFONOS;65;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03185           ;AUDIF P47 DI NEGRO                ;AUDIFONOS / MICROFONOS;88;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+031851          ;AUDIF P47 DI BLANCO               ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+031852          ;AUDIF P47 DI AZUL                 ;AUDIFONOS / MICROFONOS;9;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+031853          ;AUDIF P47 DI ROJO                 ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+031854          ;AUDIF P47 DI VERDE                ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03190           ;AUDIFONO AKG TIPO C               ;AUDIFONOS / MICROFONOS;51;🎧 USB-C 🎵 sonido claro y moderno;;1
+03200           ;AUDIF LDNIO BT T01 NEGRO          ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+032001          ;AUDIF LDNIO BT T01 DORADO / ROSADO;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03203           ;AUDIF BT WIRELESS M10             ;AUDIFONOS / MICROFONOS;82;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03206           ;AUDIF LDNIO BT T02 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+032061          ;AUDIF LDNIO BT T02 BLANCO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03207           ;AUDIF LDNIO BT T03 NEGRO          ;AUDIFONOS / MICROFONOS;10;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+032071          ;AUDIF LDNIO BT T03 BLANCO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03234           ;AUDIF AIRPODS PRO 2DA GEN         ;AUDIFONOS / MICROFONOS;35;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+032381          ;AUDIF BT DAMIX M25                ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03249           ;AUDIF LABUBU BT TWS003            ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03250           ;AUDIF ECCO ML EC-S8               ;AUDIFONOS / MICROFONOS;17;🎧 Manos libres 🎵 audio claro para uso diario;;1
+032721          ;AUDIF ECCO DI EC-237 BEIGE        ;AUDIFONOS / MICROFONOS;19;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+032723          ;AUDIF ECCO DI EC-237 VERDE        ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03273           ;AUDIF ECCO DI E35 NEGRO           ;AUDIFONOS / MICROFONOS;9;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03274           ;AUDIF ECCO DI E35 CAFE            ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03290           ;AUDIF BT WIRELESS M20             ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03291           ;AUDIF BT WIRELESS M30             ;AUDIFONOS / MICROFONOS;87;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03292           ;AUDIF BT WIRELESS PRO 5S BLANCO   ;AUDIFONOS / MICROFONOS;15;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+032921          ;AUDIF BT WIRELESS PRO 5S NEGRO    ;AUDIFONOS / MICROFONOS;62;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03360           ;AUDIF GAMER AKZ DI 020 GRIS       ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03363           ;AUDIF GAMER AKZ DI 020 ROJO       ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03364           ;AUDIF GAMER AKZ DI 020 AZUL       ;AUDIFONOS / MICROFONOS;3;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03365           ;AUDIF GAMER AKZ  DI 022 GRIS      ;AUDIFONOS / MICROFONOS;8;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03366           ;AUDIF GAMER AKZ DI 022 ROSADO     ;AUDIFONOS / MICROFONOS;4;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03367           ;AUDIF GAMER AKZ DI 022 VERDE      ;AUDIFONOS / MICROFONOS;4;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03400           ;AUDIF LDNIO ML HP08C              ;AUDIFONOS / MICROFONOS;7;🎧 Manos libres 🎵 audio claro para uso diario;;1
+034001          ;AUDIF LDNIO ML HP09C              ;AUDIFONOS / MICROFONOS;11;🎧 Manos libres 🎵 audio claro para uso diario;;1
+034002          ;AUDIF LDNIO ML HP09               ;AUDIFONOS / MICROFONOS;38;🎧 Manos libres 🎵 audio claro para uso diario;;1
+034003          ;AUDIF LDNIO ML HP08               ;AUDIFONOS / MICROFONOS;6;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03404           ;AUDIF EARLDOM ML E43 BLANCO       ;AUDIFONOS / MICROFONOS;81;🎧 Manos libres 🎵 audio claro para uso diario;;1
+034040          ;AUDIF EARLDOM ML E42 BLANCO       ;AUDIFONOS / MICROFONOS;39;🎧 Manos libres 🎵 audio claro para uso diario;;1
+034042          ;AUDIF EARLDOM ML E74C TIPO C      ;AUDIFONOS / MICROFONOS;40;🎧 USB-C 🎵 sonido claro y moderno;;1
+03506           ;MICROF EARLDOM ET-MC8 IP          ;AUDIFONOS / MICROFONOS;9;🎙️ Micrófono compacto 🎧 audio claro para grabar;;1
+035061          ;MICROF EARLDOM ET-MC81 C          ;AUDIFONOS / MICROFONOS;10;🎙️ Micrófono compacto 🎧 audio claro para grabar;;1
+03507           ;MICROF F11-2 C IP AUX             ;AUDIFONOS / MICROFONOS;15;🎧 AUX 1m 🔊 sonido claro y estable;;1
+03607           ;AUDIF ORAIMO ML E10 F             ;AUDIFONOS / MICROFONOS;29;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03631           ;AUDIF REALME ML X38 NEGRO         ;AUDIFONOS / MICROFONOS;30;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03632           ;AUDIF REALME ML X38 BLANCO        ;AUDIFONOS / MICROFONOS;29;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03638           ;AUDIF TECNO ML E18 F              ;AUDIFONOS / MICROFONOS;28;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03640           ;AUDIF STRONG BASS ML F            ;AUDIFONOS / MICROFONOS;76;🎧 Manos libres 🔊 bajos potentes y sonido fuerte;;1
+03642           ;AUDIF ECCO ML EC 62 TC NEGRO      ;AUDIFONOS / MICROFONOS;15;🎧 USB-C 🎵 sonido claro y moderno;;1
+03644           ;AUDIF ECCO ML ECON FUN BLANCO     ;AUDIFONOS / MICROFONOS;197;🎧 Manos libres 🎵 audio claro para uso diario;;1
+036441          ;AUDIF ECCO ML ECON FUN NEGRO      ;AUDIFONOS / MICROFONOS;173;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03645           ;AUDIF ANSTY ML E061 BLANCO        ;AUDIFONOS / MICROFONOS;100;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03646           ;AUDIF ANSTY ML E062 NEGRO         ;AUDIFONOS / MICROFONOS;58;🎧 Manos libres 🎵 audio claro para uso diario;;1
+036461          ;AUDIF ANSTY ML E062 BLANCO        ;AUDIFONOS / MICROFONOS;42;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03647           ;AUDIF ANSTY ML E002 BLANCO        ;AUDIFONOS / MICROFONOS;97;🎧 Manos libres 🎵 audio claro para uso diario;;1
+036471          ;AUDIF ANSTY ML E002 NEGRO         ;AUDIFONOS / MICROFONOS;97;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03648           ;AUDIF ANSTY ML E065 TIPO C        ;AUDIFONOS / MICROFONOS;200;🎧 USB-C 🎵 sonido claro y moderno;;1
+03801           ;AUDIF BT WIRELESS M100            ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03802           ;AUDIF BT WIRELESS M39             ;AUDIFONOS / MICROFONOS;72;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03809           ;AUDIF LDNIO BT T07 NEGRO          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03810           ;AUDIF LDNIO BT T07 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03811           ;AUDIF LDNIO BT T08 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03812           ;AUDIF LDNIO BT T08 BLANCO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03813           ;AUDIF LDNIO BT T05 NEGRO          ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03814           ;AUDIF LDNIO BT T05 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03815           ;AUDIF LDNIO BT T06 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03816           ;AUDIF LDNIO BT T06 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03817           ;AUDIF LDNIO BT T09 NEGRO          ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03818           ;AUDIF LDNIO BT T09 BLANCO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03822           ;AUDIF LDNIO NECK N01              ;AUDIFONOS / MICROFONOS;38;🎧 Neckband 🔋 cómodo y batería duradera;;1
+03823           ;AUDIF LDNIO NECK N02 BLANCO       ;AUDIFONOS / MICROFONOS;8;🎧 Neckband 🔋 cómodo y batería duradera;;1
+038231          ;AUDIF LDNIO NECK N02 NEGRO        ;AUDIFONOS / MICROFONOS;10;🎧 Neckband 🔋 cómodo y batería duradera;;1
+03828           ;AUDIF LELISU DI LS-239 BEIGE      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03829           ;AUDIF LELISU DI AUX LS-252 BEIGE  ;AUDIFONOS / MICROFONOS;2;🎧 AUX 1m 🔊 sonido claro y estable;;1
+03832           ;AUDIF LDNIO BT13 NEGRO            ;AUDIFONOS / MICROFONOS;22;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038321          ;AUDIF LDNIO BT13 BEIGE            ;AUDIFONOS / MICROFONOS;17;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03833           ;AUDIF LELISU DI LS-257 VERDE      ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+038332          ;AUDIF LELISU DI LS-257 ROSADO     ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+038333          ;AUDIF LELISU DI LS-257 CELESTE    ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03834           ;AUDIF LELISU DI LS-231 NEGRO      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03836           ;AUDIF MARIO BT + RELOJ ROJO       ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth ⌚ combo audífonos + reloj;;1
+03837           ;AUDIF CAPIBARA BT + RELOJ  CAFE   ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth ⌚ combo audífonos + reloj;;1
+038371          ;AUDIF CAPIBARA BT + RELOJ AZUL    ;AUDIFONOS / MICROFONOS;12;🎧 Bluetooth ⌚ combo audífonos + reloj;;1
+038372          ;AUDIF CAPIBARA BT + RELOJ ROSADO  ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth ⌚ combo audífonos + reloj;;1
+03838           ;AUDIF LABUBU BT TWS 505 + RELOJ CA;AUDIFONOS / MICROFONOS;5;🎧 Bluetooth ⌚ combo audífonos + reloj;;1
+038381          ;AUDIF LABUBU BT TWS 505 + RELOJ RO;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth ⌚ combo audífonos + reloj;;1
+038391          ;AUDIF SAMSUNG BT K93 ROSADO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038393          ;AUDIF SAMSUNG BT K93 NEGRO        ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03840           ;AUDIF SAMSUNG BT BUDS2 PRO BLANCO ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+038401          ;AUDIF SAMSUNG BT BUDS2 PRO NEGRO  ;AUDIFONOS / MICROFONOS;16;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+038402          ;AUDIF SAMSUNG BT BUDS2 PRO LILA   ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+038421          ;AUDIF  JBL BT K83 BLANCO          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+038422          ;AUDIF  JBL BT K83 NEGRO           ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038441          ;AUDIF JBL BT BUDS AIR2 NEGRO      ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038523          ;AUDIF ECCO DI EC-T21 ROSADO       ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03860           ;AUDIF ECCO BT K4 NEGRO/NARANJA    ;AUDIFONOS / MICROFONOS;93;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038601          ;AUDIF ECCO BT K4 AZUL/AMARILLO    ;AUDIFONOS / MICROFONOS;92;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038602          ;AUDIF ECCO BT K4 GRIS/TURQUEZA    ;AUDIFONOS / MICROFONOS;92;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038605          ;AUDIF ECCO K7 BLANCO              ;AUDIFONOS / MICROFONOS;187;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038606          ;AUDIF ECCO K7 NEGRO               ;AUDIFONOS / MICROFONOS;4;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038607          ;AUDIF ECCO K7 AZUL                ;AUDIFONOS / MICROFONOS;112;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038608          ;AUDIF ECCO EC-T37 BLANCO          ;AUDIFONOS / MICROFONOS;81;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038609          ;AUDIF ECCO EC-T37 NEGRO           ;AUDIFONOS / MICROFONOS;81;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038610          ;AUDIF ECCO EC-T36 BLANCO          ;AUDIFONOS / MICROFONOS;178;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038611          ;AUDIF ECCO EC-T36 NEGRO           ;AUDIFONOS / MICROFONOS;76;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038612          ;AUDIF ECCO EC-T24 BLANCO          ;AUDIFONOS / MICROFONOS;40;🎧 Manos libres 🎵 audio claro para uso diario;;1
+038613          ;AUDIF ECCO EC-T24 NEGRO           ;AUDIFONOS / MICROFONOS;36;🎧 Manos libres 🎵 audio claro para uso diario;;1
+03871           ;AUDIF JBL DI TUNE 360 NEGRO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+038711          ;AUDIF JBL DI TUNE 360 BEIGE       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+038721          ;AUDIF AIR A11 PRO BT CELESTE      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03874           ;AUDIF JBL BT TWS U331 BLANCO      ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+038741          ;AUDIF JBL BT TWS U331 NEGRO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03875           ;AUDIF SONY BT WF 805ANC BLANCO    ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+038751          ;AUDIF SONY BT WF 805ANC NEGRO     ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03876           ;AUDIF DI BST BT500 BT             ;AUDIFONOS / MICROFONOS;5;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03878           ;AUDIF LDNIO DI H01 BLANCO         ;AUDIFONOS / MICROFONOS;6;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03879           ;AUDIF LDNIO DI H01 NEGRO          ;AUDIFONOS / MICROFONOS;19;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03880           ;AUDIF JBL DI TOUR ONE M4 AZUL     ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+038801          ;AUDIF JBL DI TOUR ONE M4 BEIGE    ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+038802          ;AUDIF JBL DI TOUR ONE M4 BLANCO   ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+038803          ;AUDIF JBL DI TOUR ONE M4 NEGRO    ;AUDIFONOS / MICROFONOS;28;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03881           ;AUDIF JBL BT  TWS BT36 BLANCO     ;AUDIFONOS / MICROFONOS;2;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+038811          ;AUDIF JBL BT  TWS BT36 NEGRO      ;AUDIFONOS / MICROFONOS;8;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03890           ;AUDIF LDNIO BT T10 BEIGE          ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038901          ;AUDIF LDNIO BT T10 NEGRO          ;AUDIFONOS / MICROFONOS;25;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03891           ;AUDIF LDNIO BT T11 BEIGE          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+038911          ;AUDIF LDNIO BT T11 NEGRO          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03900           ;AUDIF SONY DI WH-XM65 NEGRO       ;AUDIFONOS / MICROFONOS;21;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03901           ;AUDIF JBL BT MINI 5S BLANCO       ;AUDIFONOS / MICROFONOS;8;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+039011          ;AUDIF JBL BT MINI 5S NEGRO        ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03902           ;AUDIF SAMSUNG BT GALAXI BUDS3 BLAN;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+039021          ;AUDIF SAMSUNG BT GALAXI BUDS3 NEGR;AUDIFONOS / MICROFONOS;16;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03903           ;AUDIF JBL BT K80 NEGRO            ;AUDIFONOS / MICROFONOS;19;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+039031          ;AUDIF JBL BT K80 NARANJA          ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03904           ;AUDIF SONY BT WF 806ANC BLANCO    ;AUDIFONOS / MICROFONOS;3;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+039041          ;AUDIF SONY BT WF 806ANC LILA      ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+039042          ;AUDIF SONY BT WF 806ANC NEGRO     ;AUDIFONOS / MICROFONOS;23;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+039051          ;AUDIF SAMSUNG DI LEVEL S32 NEGRO  ;AUDIFONOS / MICROFONOS;9;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03906           ;AUDIF JBL BT MG 831 AZUL          ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+039061          ;AUDIF JBL BT MG 831 BLANCO        ;AUDIFONOS / MICROFONOS;10;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+039062          ;AUDIF JBL BT MG 831 NEGRO         ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03907           ;AUDIF JBL BT TWS U39 NEGRO        ;AUDIFONOS / MICROFONOS;16;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+039071          ;AUDIF JBL BT TWS U39 BLANCO       ;AUDIFONOS / MICROFONOS;24;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+03908           ;AUDIF JBL BT TWS U53 BLANCO       ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+039081          ;AUDIF JBL BT TWS U53 NEGRO        ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03909           ;AUDIF SAMSUNG BT TWS A1 BLANCO    ;AUDIFONOS / MICROFONOS;7;🎧 Bluetooth 🔇 audio premium y cancelación de ruido;;1
+039091          ;AUDIF SAMSUNG BT TWS A1 NARANJA   ;AUDIFONOS / MICROFONOS;0;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+039092          ;AUDIF SAMSUNG BT TWS A1 NEGRO     ;AUDIFONOS / MICROFONOS;13;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03910           ;AUDIF MOVISUN BT TW-2 NEGRO       ;AUDIFONOS / MICROFONOS;30;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03911           ;AUDIF BT WIRELESS MI M10          ;AUDIFONOS / MICROFONOS;29;🎧 Bluetooth 🔋 sonido claro y batería práctica;;1
+03912           ;AUDIF SONY DI -1000XM20 AZUL      ;AUDIFONOS / MICROFONOS;11;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+039121          ;AUDIF SONY DI -1000XM20 BEIGE     ;AUDIFONOS / MICROFONOS;12;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+039122          ;AUDIF SONY DI -1000XM20 NEGRO     ;AUDIFONOS / MICROFONOS;41;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03914           ;AUDIF JBL DI TUNE A666 AZUL       ;AUDIFONOS / MICROFONOS;17;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+039141          ;AUDIF JBL DI TUNE A666 BLANCO     ;AUDIFONOS / MICROFONOS;26;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+039142          ;AUDIF JBL DI TUNE A666 NEGRO      ;AUDIFONOS / MICROFONOS;44;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+039143          ;AUDIF JBL DI TUNE A666 ROJO       ;AUDIFONOS / MICROFONOS;17;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03915           ;AUDIF JBL DI TUNE A16 NEGRO       ;AUDIFONOS / MICROFONOS;51;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03931           ;AUDIF SONY DI M30BT CAFE          ;AUDIFONOS / MICROFONOS;4;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+039311          ;AUDIF SONY DI M30BT NEGRO         ;AUDIFONOS / MICROFONOS;1;🎧 Bluetooth 🔊 diadema cómoda y buen sonido;;1
+03932           ;AUDIF GAMER KRMG 2000             ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03933           ;AUDIF GAMER KRMG 6000             ;AUDIFONOS / MICROFONOS;5;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+03934           ;AUDIF GAMER KRMG 9000             ;AUDIFONOS / MICROFONOS;1;🎧 Gamer 🔊 sonido envolvente y diseño cómodo;;1
+040121          ;PARL LDNIO WIRELESS BTS12 NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+040122          ;PARL LDNIO WIRELESS BTS12 GRIS    ;PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+040923          ;PARL LDNIO SPEAKER BTS13          ;PARLANTES / SMARTWATCH / TV BOX;17;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+040981          ;PARL BT MS-1753                   ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+041202          ;TV STICK ANDROID TV 4K            ;PARLANTES / SMARTWATCH / TV BOX;46;📺 TV Stick ⚡ convierte tu televisor en Smart TV;;1
+041203          ;TV BOX MXQPRO 5G                  ;PARLANTES / SMARTWATCH / TV BOX;6;📺 Android TV 📡 WiFi 5G streaming rápido y fluido;;1
+041204          ;TV STICK FIRE                     ;PARLANTES / SMARTWATCH / TV BOX;21;📺 TV Stick ⚡ convierte tu televisor en Smart TV;;1
+042501          ;PARL ES-300 NEGRO                 ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+0425012         ;PARL ES-300 ROJO                  ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+0425013         ;PARL ES-300 VERDE                 ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+042702          ;PARL BT MS-2031                   ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04306           ;PARL HONGFU HF-3303               ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04308           ;PARL ASTRON START LIGH MXS-003    ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04320           ;PARL HONGFU HF-626 5P X2          ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04334           ;PARL BT E8805                     ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04335           ;PARL MS 2032 BT                   ;PARLANTES / SMARTWATCH / TV BOX;6;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04336           ;PARL PORTABLE HF-885              ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04340           ;PARL ZQS-8308 SING-E              ;PARLANTES / SMARTWATCH / TV BOX;16;🔊 Parlante karaoke 🎤 potencia y diversión;;1
+043491          ;PARL KIMISO 1182 PORT AZUL        ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043492          ;PARL KIMISO 1182 PORT ROJO        ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04351           ;PARL KIMISO QS-1803 MED           ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04355           ;PARL ECCO T7 NEGRO                ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043551          ;PARL ECCO T7 VERDE                ;PARLANTES / SMARTWATCH / TV BOX;10;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043552          ;PARL ECCO T7 ROSA                 ;PARLANTES / SMARTWATCH / TV BOX;18;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043553          ;PARL ECCO T7 CAFE                 ;PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043554          ;PARL ECCO T7 AZUL                 ;PARLANTES / SMARTWATCH / TV BOX;6;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04360           ;PARL SOONBOX + MICROF S65 AZUL    ;PARLANTES / SMARTWATCH / TV BOX;8;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+043601          ;PARL SOONBOX + MICROF S65 NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+043602          ;PARL SOONBOX + MICROF S65 ROJO    ;PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+04361           ;PARL SOONBOX + MICROF S66 AZUL    ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+043611          ;PARL SOONBOX + MICROF S66 NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;8;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+043612          ;PARL SOONBOX + MICROF S66 ROJO    ;PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+04362           ;PARL COLORFUL + MICROF K12 BEIGE  ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+043621          ;PARL COLORFUL + MICROF K12 ROSA   ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+043622          ;PARL COLORFUL + MICROF K12 VERDE  ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎤 incluye micrófono para karaoke;;1
+04365           ;PARL LIDIMI MINI LD S703 NEGRO    ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043711          ;PARL P PRO 16 BEIGE               ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043712          ;PARL P PRO 16 CAMUFLAJE           ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04372           ;PARL BOMBOX P172 NEGRO            ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043721          ;PARL BOMBOX P172 AZUL             ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043722          ;PARL BOMBOX P172 CAMUFLAGE        ;PARLANTES / SMARTWATCH / TV BOX;17;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043723          ;PARL BOMBOX P172 ROJO             ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043725          ;PARL BOMBOX P172 GRIS             ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04373           ;PARL LIDIMI LD S820 NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043731          ;PARL LIDIMI LD S820 AZUL          ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04374           ;PARL LIDIMI LD S647 NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;2;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043741          ;PARL LIDIMI LD S647 AZUL          ;PARLANTES / SMARTWATCH / TV BOX;10;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04375           ;PARL LIDIMI LD 875 NEGRO          ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043751          ;PARL LIDIMI LD 875 AZUL           ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04376           ;PARL LIDIMI LD S648 NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;16;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043761          ;PARL LIDIMI LD S648 AZUL          ;PARLANTES / SMARTWATCH / TV BOX;18;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04377           ;PARL P PRO 9 NEGRO                ;PARLANTES / SMARTWATCH / TV BOX;10;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043771          ;PARL P PRO 9 AZUL                 ;PARLANTES / SMARTWATCH / TV BOX;16;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043772          ;PARL P PRO 9 BEIGE                ;PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043773          ;PARL P PRO 9 ROJO                 ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043774          ;PARL P PRO 9 CAMUFLAJE            ;PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04379           ;PARL BOSE SI PRO PLUS             ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04385           ;PARL CAFINI CN S6626 AC           ;PARLANTES / SMARTWATCH / TV BOX;4;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04386           ;"PARL CAFINI CN S6731AC 8""         ";PARLANTES / SMARTWATCH / TV BOX;13;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04387           ;"PARL CAFINI CN S11003AC W 8""      ";PARLANTES / SMARTWATCH / TV BOX;12;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04388           ;"PARL CAFINI CN S6852AC/Z 8""       ";PARLANTES / SMARTWATCH / TV BOX;7;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04389           ;"PARL CAFINI CN S6003AC W 8""       ";PARLANTES / SMARTWATCH / TV BOX;9;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04390           ;PARL CAFINI CN S6760AC            ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04391           ;PARL CAFINI CN S6761AC            ;PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04392           ;PARL CAFINI CN S6784              ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04393           ;"PARL CAFINI CN S6785 4""           ";PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04394           ;"PARL CAFINI CN S6706 4""           ";PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04395           ;PARL CAFINI CN 6714               ;PARLANTES / SMARTWATCH / TV BOX;14;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04396           ;PARL LIDIMI LD 878 AZUL           ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043961          ;PARL LIDIMI LD 878 NEGRO          ;PARLANTES / SMARTWATCH / TV BOX;14;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04397           ;PARL CAFINI  6783                 ;PARLANTES / SMARTWATCH / TV BOX;0;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04398           ;PARL LIDIMI LD 706 AZUL           ;PARLANTES / SMARTWATCH / TV BOX;6;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043981          ;PARL LIDIMI LD 706 NEGRO          ;PARLANTES / SMARTWATCH / TV BOX;15;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04399           ;PARL BOOM MS290 AZUL              ;PARLANTES / SMARTWATCH / TV BOX;13;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043991          ;PARL BOOM MS290 NEGRO             ;PARLANTES / SMARTWATCH / TV BOX;24;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+043992          ;PARL BOOM MS290 ROJO              ;PARLANTES / SMARTWATCH / TV BOX;8;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04400           ;PARL LIDIMI LD S12019 AZUL        ;PARLANTES / SMARTWATCH / TV BOX;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+044001          ;PARL LIDIMI LD S12019 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;3;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04401           ;"PARL LINY XY S6726 4""             ";PARLANTES / SMARTWATCH / TV BOX;22;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04402           ;"PARL LINY XY S6736 4""             ";PARLANTES / SMARTWATCH / TV BOX;29;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04403           ;PARL GREATNICE  GTS-1797          ;PARLANTES / SMARTWATCH / TV BOX;37;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04404           ;PARL LINY XY-6361 NEGRO           ;PARLANTES / SMARTWATCH / TV BOX;99;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04405           ;PARL LINY XY-6362 NEGRO           ;PARLANTES / SMARTWATCH / TV BOX;41;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04406           ;PARL CAFINI CN-Z5963 NEGRO        ;PARLANTES / SMARTWATCH / TV BOX;47;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04408           ;"PARL ZQS-2801 SING-E 8""x2         ";PARLANTES / SMARTWATCH / TV BOX;14;🔊 Parlante karaoke 🎤 potencia y diversión;;1
+04409           ;"PARL  QL 1529 15""x1               ";PARLANTES / SMARTWATCH / TV BOX;5;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+04945           ;SMARTWATCH LDNIO SW01 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049451          ;SMARTWATCH LDNIO SW01 GRIS        ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04946           ;SMARTWATCH LDNIO DAMA SW02 GRIS   ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049461          ;SMARTWATCH LDNIO DAMA SW02 DORADO ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04947           ;SMARTWATCH LDNIO DAMA SW03 GRIS   ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049471          ;SMARTWATCH LDNIO DAMA SW03 ROJO   ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04948           ;SMARTWATCH LDNIO SW05 BLANCO      ;PARLANTES / SMARTWATCH / TV BOX;1;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049481          ;SMARTWATCH LDNIO SW05 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04949           ;SMARTWATCH LDNIO SW04 GRIS        ;PARLANTES / SMARTWATCH / TV BOX;4;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049491          ;SMARTWATCH LDNIO SW04 NEGRO       ;PARLANTES / SMARTWATCH / TV BOX;1;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04971           ;SMARTWATCH D99 PLUS DORADO        ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049711          ;SMARTWATCH D99 PLUS PLATA         ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049712          ;SMARTWATCH D99 PLUS NEGRO         ;PARLANTES / SMARTWATCH / TV BOX;2;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049713          ;SMARTWATCH D99 PLUS ROSADO        ;PARLANTES / SMARTWATCH / TV BOX;5;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04972           ;SMARTWATCH ROCK 005 +BAT  NEGRO   ;PARLANTES / SMARTWATCH / TV BOX;11;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049721          ;SMARTWATCH ROCK 005 +BAT VERDE    ;PARLANTES / SMARTWATCH / TV BOX;11;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04973           ;SMARTWATCH ROCK 001 13 EN 1 NEGRO ;PARLANTES / SMARTWATCH / TV BOX;12;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049731          ;SMARTWATCH ROCK 001 13 EN 1 GRIS  ;PARLANTES / SMARTWATCH / TV BOX;10;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049732          ;SMARTWATCH ROCK 001 13 EN 1 NARANJ;PARLANTES / SMARTWATCH / TV BOX;10;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04975           ;SMARTWATCH GF68 NEGRO             ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049752          ;SMARTWATCH GF68 GRIS              ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+04976           ;SMARTWATCH DP9 NEGRO              ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049761          ;SMARTWATCH DP9 ROJO               ;PARLANTES / SMARTWATCH / TV BOX;1;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049763          ;SMARTWATCH DP9 GRIS               ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+049764          ;SMARTWATCH DP9 VERDE              ;PARLANTES / SMARTWATCH / TV BOX;0;⌚ Smartwatch 📱 funciones prácticas y diseño moderno;;1
+050003          ;CARG LDNIO 18W A1306Q 3.0 TIPO C  ;CARGADORES / POWERBANKS;8;🔌 18W ⚡ carga rápida y segura;;1
+05010           ;CARG LDNIO 12W A2201 2.4 V8       ;CARGADORES / POWERBANKS;0;🔌 12W ⚡ carga rápida y segura;;1
+05011           ;CARG LDNIO 12W A2201 2.4 IOS      ;CARGADORES / POWERBANKS;50;🔌 12W ⚡ carga rápida y segura;;1
+050116          ;POWER BANK LDNIO PQ18 20000 mAh   ;CARGADORES / POWERBANKS;0;🔋 20000 mAh ⚡ carga rápida y confiable;;1
+050117          ;POWER BANK LDNIO PQ16 10000 mAh   ;CARGADORES / POWERBANKS;9;🔋 10000 mAh ⚡ carga rápida y confiable;;1
+050118          ;POWER BANK LDNIO PQ17 10000 mAh   ;CARGADORES / POWERBANKS;7;🔋 10000 mAh ⚡ carga rápida y confiable;;1
+05012           ;CARG LDNIO 12W A2201 2.4 TIPO C   ;CARGADORES / POWERBANKS;42;🔌 12W ⚡ carga rápida y segura;;1
+05013           ;CARG LDNIO 18W A1204Q 3.0 V8      ;CARGADORES / POWERBANKS;106;🔌 18W ⚡ carga rápida y segura;;1
+05014           ;CARG LDNIO 18W A1204Q 3.0 TIPO C  ;CARGADORES / POWERBANKS;106;🔌 18W ⚡ carga rápida y segura;;1
+05026           ;AUTO CAR LDNIO DL-C29 3.4 TIPO C  ;CARGADORES / POWERBANKS;61;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+05027           ;AUTO CAR LDNIO DL-C17 2.0 V8      ;CARGADORES / POWERBANKS;5;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+05029           ;AUTO CAR LDNIO DL-C17 2.0 TIPO C  ;CARGADORES / POWERBANKS;2;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+050462          ;CARG IP 20W TC A IP               ;CARGADORES / POWERBANKS;181;🔌 20W ⚡ carga rápida y segura;;1
+050741          ;AUTO HOLDER LDNIO 15W MA02        ;CARGADORES / POWERBANKS;4;🚗 Soporte auto ⚡ carga inalámbrica 15W segura;;1
+050801          ;AUTO HOLDER LDNIO MW21 USB A C    ;CARGADORES / POWERBANKS;19;🚗 Soporte auto 📱 firme, práctico y resistente;;1
+0508011         ;AUTO HOLDER LDNIO MW21-1 USB A C  ;CARGADORES / POWERBANKS;40;🚗 Soporte auto 📱 firme, práctico y resistente;;1
+050805          ;AUTO HOLDER LDNIO MG03 METAL BLACK;CARGADORES / POWERBANKS;9;🚗 Soporte auto 📱 firme, práctico y resistente;;1
+050806          ;AUTO HOLDER LDNIO MG13 NEGRO      ;CARGADORES / POWERBANKS;31;🚗 Soporte auto 📱 firme, práctico y resistente;;1
+05084           ;CARG LDNIO 18W A1204Q 3.0 IOS     ;CARGADORES / POWERBANKS;75;🔌 18W ⚡ carga rápida y segura;;1
+050881          ;POWER BANK LDNIO PQ12 10000 MAGNET;CARGADORES / POWERBANKS;6;🔋 Magnético ⚡ carga portátil práctica para iPhone;;1
+050883          ;POWER BANK LDNIO PQ30 30000 mAh   ;CARGADORES / POWERBANKS;0;🔋 30000 mAh ⚡ carga rápida y confiable;;1
+050885          ;POWER BANK LDNIO PQ19 10000 mAh   ;CARGADORES / POWERBANKS;4;🔋 10000 mAh ⚡ carga rápida y confiable;;1
+050889          ;POWER BANK LDNIO PQ27 20000 mAh   ;CARGADORES / POWERBANKS;6;🔋 20000 mAh ⚡ carga rápida y confiable;;1
+050902          ;CORTAPICO LDNIO SC3604 2500W*3 + 6;CARGADORES / POWERBANKS;11;🔌 Regleta eléctrica ⚡ múltiples tomas y protección;;1
+050903          ;CORTAPICO LDNIO SU8440 3USB 1PD 8 ;CARGADORES / POWERBANKS;0;🔌 Regleta eléctrica ⚡ múltiples tomas y protección;;1
+050904          ;CORTAPICO LDNIO SC3412 2500W* 3USB;CARGADORES / POWERBANKS;7;🔌 Regleta eléctrica ⚡ múltiples tomas y protección;;1
+050906          ;REGLETA  LDNIO SC1418             ;CARGADORES / POWERBANKS;10;🔌 Regleta eléctrica ⚡ múltiples tomas y protección;;1
+05102           ;CARG LDNIO 12W A2218 2.4 V8       ;CARGADORES / POWERBANKS;4;🔌 12W ⚡ carga rápida y segura;;1
+05103           ;CARG LDNIO 12W A2218 2.4 TIPO C   ;CARGADORES / POWERBANKS;8;🔌 12W ⚡ carga rápida y segura;;1
+05104           ;OTG LDNIO LC150 USB A C           ;CARGADORES / POWERBANKS;19;🔌 USB-C a USB 📱 conecta pendrive y accesorios;;1
+051103          ;CUBO SAMSUNG 25W BLANCO           ;CARGADORES / POWERBANKS;0;🔌 25W ⚡ carga rápida y segura;;1
+051105          ;CUBO SAMSUNG 45W BLANCO           ;CARGADORES / POWERBANKS;12;🔌 45W ⚡ carga rápida y segura;;1
+051106          ;CUBO SAMSUNG 20W USB Y C BLANCO   ;CARGADORES / POWERBANKS;0;🔌 20W ⚡ carga rápida y segura;;1
+051107          ;CUBO SAMSUNG 25W NEGRO            ;CARGADORES / POWERBANKS;0;🔌 25W ⚡ carga rápida y segura;;1
+05112           ;AUTO CAR LDNIO BT 25W C706Q  TIPO ;CARGADORES / POWERBANKS;23;🚗 25W ⚡ carga rápida en el vehículo;;1
+051222          ;AUTO HOLDER LDNIO 15W MA30-1 NEGRO;CARGADORES / POWERBANKS;0;🚗 Soporte auto ⚡ carga inalámbrica 15W segura;;1
+05123           ;AUTO HOLDER LDNIO MG10 NEGRO      ;CARGADORES / POWERBANKS;26;🚗 Soporte auto 📱 firme, práctico y resistente;;1
+05132           ;CARG LDNIO ESCRITORIO 65W A4808Q  ;CARGADORES / POWERBANKS;3;🔌 65W ⚡ carga rápida y segura;;1
+051321          ;CARG LDNIO 100W ESCRIT  A4809C    ;CARGADORES / POWERBANKS;2;🔌 100W ⚡ carga rápida y segura;;1
+05133           ;BASE LDNIO CARGA INALAMBRICA 32W A;CARGADORES / POWERBANKS;1;⚡ Base inalámbrica 🔋 carga práctica para escritorio;;1
+05136           ;OTG LDNIO LC140 C A USB           ;CARGADORES / POWERBANKS;1;🔌 USB-C a USB 📱 conecta pendrive y accesorios;;1
+05139           ;CUBO IP 20W                       ;CARGADORES / POWERBANKS;97;🔌 20W ⚡ carga rápida y segura;;1
+05151           ;CARG LDNIO 30W A2527 3.0 TIPO C   ;CARGADORES / POWERBANKS;0;🔌 30W ⚡ carga rápida y segura;;1
+051651          ;CARG IP 25W TC A IP               ;CARGADORES / POWERBANKS;272;🔌 25W ⚡ carga rápida y segura;;1
+05171           ;CARG IP 35W T C A C               ;CARGADORES / POWERBANKS;109;🔌 35W ⚡ carga rápida y segura;;1
+05174           ;AUTO CAR LDNIO 36W C1 TIPO C A C  ;CARGADORES / POWERBANKS;31;🚗 36W ⚡ carga rápida en el vehículo;;1
+05177           ;AUTO CAR LDNIO 36W C2 TIPO C      ;CARGADORES / POWERBANKS;37;🚗 36W ⚡ carga rápida en el vehículo;;1
+05187           ;CARG LDNIO 30W A2527 3.0 IOS      ;CARGADORES / POWERBANKS;0;🔌 30W ⚡ carga rápida y segura;;1
+051971          ;CARG SAMSUNG 68W TIPO C           ;CARGADORES / POWERBANKS;14;🔌 68W ⚡ carga rápida y segura;;1
+052011          ;CARG SPARK 20PRO 67W TC A C       ;CARGADORES / POWERBANKS;0;🔌 67W ⚡ carga rápida y segura;;1
+052014          ;CARG SPARK 30C 33W USB A C        ;CARGADORES / POWERBANKS;47;🔌 33W ⚡ carga rápida y segura;;1
+052061          ;CARG MI GAN CARG NJ34 67W TC A C  ;CARGADORES / POWERBANKS;43;🔌 67W ⚡ carga rápida y segura;;1
+052081          ;CARG MI TRAV CH NJ35 33W TIPO C   ;CARGADORES / POWERBANKS;6;🔌 33W ⚡ carga rápida y segura;;1
+052102          ;CARG MI CH TU 120W TIPO C         ;CARGADORES / POWERBANKS;15;🔌 120W ⚡ carga rápida y segura;;1
+052111          ;CARG MI GAN POWER 67W PD TIPO C   ;CARGADORES / POWERBANKS;16;🔌 67W ⚡ carga rápida y segura;;1
+05216           ;POWER BANK MAGNETIC IP 5000       ;CARGADORES / POWERBANKS;139;🔋 Magnético ⚡ carga portátil práctica para iPhone;;1
+052161          ;POWER BANK MAGNETIC IP 10000      ;CARGADORES / POWERBANKS;81;🔋 Magnético ⚡ carga portátil práctica para iPhone;;1
+05220           ;CARG LDNIO 12W A2218 2.4 IOS      ;CARGADORES / POWERBANKS;50;🔌 12W ⚡ carga rápida y segura;;1
+05225           ;CARG SAMSUNG 65W TRIO USB A C Y C ;CARGADORES / POWERBANKS;0;🔌 65W ⚡ múltiples puertos de carga;;1
+05226           ;CUBO SAMSUNG TRIO USB A C Y C     ;CARGADORES / POWERBANKS;7;🔌 Trío ⚡ múltiples puertos de carga;;1
+05227           ;CARG SAMSUNG 120W TRIO USB A C Y C;CARGADORES / POWERBANKS;0;🔌 120W ⚡ múltiples puertos de carga;;1
+05240           ;OTG LDNIO LC 270 C A IP           ;CARGADORES / POWERBANKS;0;🔌 iPhone a USB-C 📱 conexión práctica y rápida;;1
+05241           ;OTG LDNIO LC 280 USB A C          ;CARGADORES / POWERBANKS;50;🔌 USB-C a USB 📱 conecta pendrive y accesorios;;1
+05242           ;OTG LDNIO LC 290 USB A IP         ;CARGADORES / POWERBANKS;6;🔌 iPhone a USB 📱 conecta memorias y accesorios;;1
+05251           ;CARG LDNIO 30W A2317C 3.0 TC A IOS;CARGADORES / POWERBANKS;28;🔌 30W ⚡ carga rápida y segura;;1
+05252           ;CARG LDNIO 30W A2317C 3.0 TIPO C  ;CARGADORES / POWERBANKS;64;🔌 30W ⚡ carga rápida y segura;;1
+05275           ;CARG LDNIO 30W A2527C TC A TC     ;CARGADORES / POWERBANKS;0;🔌 30W ⚡ carga rápida y segura;;1
+05276           ;CARG LDNIO 30W A2527C TC A IOS    ;CARGADORES / POWERBANKS;3;🔌 30W ⚡ carga rápida y segura;;1
+05277           ;CARG LDNIO 35W A2528C TC A IP     ;CARGADORES / POWERBANKS;0;🔌 35W ⚡ carga rápida y segura;;1
+052771          ;CARG LDNIO 35W A2528C TC A C      ;CARGADORES / POWERBANKS;0;🔌 35W ⚡ carga rápida y segura;;1
+05278           ;CARG LDNIO 140W A6140C USB/TC     ;CARGADORES / POWERBANKS;0;🔌 140W ⚡ carga rápida y segura;;1
+05280           ;CARG LDNIO 45W A2526 3.0 TC A C   ;CARGADORES / POWERBANKS;8;🔌 45W ⚡ carga rápida y segura;;1
+05281           ;CARG LDNIO 45W A2526 3.0 TC A IP  ;CARGADORES / POWERBANKS;9;🔌 45W ⚡ carga rápida y segura;;1
+05285           ;CARG LDNIO 20W Q1 USB A C NEGRO   ;CARGADORES / POWERBANKS;0;🔌 20W ⚡ carga rápida y segura;;1
+052851          ;CARG LDNIO 20W Q1 USB A C BLANCO  ;CARGADORES / POWERBANKS;41;🔌 20W ⚡ carga rápida y segura;;1
+052861          ;CARG LDNIO 65W Q4 C A C BLANCO    ;CARGADORES / POWERBANKS;12;🔌 65W ⚡ carga rápida y segura;;1
+05287           ;CARG LDNIO 27W Q122 TC A C        ;CARGADORES / POWERBANKS;1;🔌 27W ⚡ carga rápida y segura;;1
+05288           ;CARG LDNIO 33W Q2 TC A C          ;CARGADORES / POWERBANKS;55;🔌 33W ⚡ carga rápida y segura;;1
+05290           ;CARG LDNIO 120W Q605 ESCRI USB Y C;CARGADORES / POWERBANKS;4;🔌 120W ⚡ carga rápida y segura;;1
+05291           ;CARG LDNIO 25W AW005 RELOJ 5V     ;CARGADORES / POWERBANKS;0;⚡ Carga inalámbrica 🔋 práctica y segura;;1
+053002          ;JACK GN IPHONE                    ;CARGADORES / POWERBANKS;11;🎧 Jack Lightning 🔊 audio práctico para iPhone;;1
+05301           ;BLUETOOTH AUTO LV-B01             ;CARGADORES / POWERBANKS;65;🚗 Bluetooth auto 🎵 música y llamadas fácilmente;;1
+05310           ;CARG SAMSUNG FAST 45W TC A C      ;CARGADORES / POWERBANKS;0;🔌 45W ⚡ carga rápida y segura;;1
+05325           ;CARG LDNIO 20W Q111 TC A TC       ;CARGADORES / POWERBANKS;138;🔌 20W ⚡ carga rápida y segura;;1
+053251          ;CARG LDNIO 20W Q111 TC A IP       ;CARGADORES / POWERBANKS;63;🔌 20W ⚡ carga rápida y segura;;1
+05360           ;CARG LDNIO 30W  Q2319 TC A C      ;CARGADORES / POWERBANKS;14;🔌 30W ⚡ carga rápida y segura;;1
+05361           ;CARG LDNIO 30W  Q2319 TC A IP     ;CARGADORES / POWERBANKS;5;🔌 30W ⚡ carga rápida y segura;;1
+05362           ;CARG LDNIO 45W Q2420 TC A C       ;CARGADORES / POWERBANKS;0;🔌 45W ⚡ carga rápida y segura;;1
+05363           ;CARG LDNIO 45W Q2420 TC A IP      ;CARGADORES / POWERBANKS;5;🔌 45W ⚡ carga rápida y segura;;1
+05504           ;AUTO CAR ENJOY TOGETHER  V8       ;CARGADORES / POWERBANKS;24;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+05550           ;AUTO CAR LDNIO 30W C105 USB A C   ;CARGADORES / POWERBANKS;46;🚗 30W ⚡ carga rápida en el vehículo;;1
+055501          ;AUTO CAR LDNIO 30W C105 V8        ;CARGADORES / POWERBANKS;0;🚗 30W ⚡ carga rápida en el vehículo;;1
+05551           ;AUTO CAR LDNIO 30W C106 TC A C    ;CARGADORES / POWERBANKS;55;🚗 30W ⚡ carga rápida en el vehículo;;1
+05552           ;AUTO CAR LDNIO 30W C509Q TC A C   ;CARGADORES / POWERBANKS;65;🚗 30W ⚡ carga rápida en el vehículo;;1
+05553           ;MOTO CAR LDNIO 60W C108 TC A C    ;CARGADORES / POWERBANKS;0;🚗 60W ⚡ carga rápida en el vehículo;;1
+05554           ;AUTO CAR LDNIO 60W C103 TC A C    ;CARGADORES / POWERBANKS;28;🚗 60W ⚡ carga rápida en el vehículo;;1
+05555           ;CARG LDNIO 27W A1206C TC A C      ;CARGADORES / POWERBANKS;0;🔌 27W ⚡ carga rápida y segura;;1
+05557           ;AUTO CAR LDNIO 30W C107 RETRACTIL ;CARGADORES / POWERBANKS;11;🚗 30W ⚡ carga rápida en el vehículo;;1
+05558           ;CARG LDNIO 18W A1209 TIPO C       ;CARGADORES / POWERBANKS;0;🔌 18W ⚡ carga rápida y segura;;1
+05559           ;CARG LDNIO 12W A2221 V8           ;CARGADORES / POWERBANKS;1;🔌 12W ⚡ carga rápida y segura;;1
+05560           ;CARG LDNIO 12W A2221 TIPO C       ;CARGADORES / POWERBANKS;0;🔌 12W ⚡ carga rápida y segura;;1
+05561           ;AUTO CAR LDNIO 60W C3 TC A C      ;CARGADORES / POWERBANKS;49;🚗 60W ⚡ carga rápida en el vehículo;;1
+05566           ;AUTO CAR ECCO 38W EC-135 V8       ;CARGADORES / POWERBANKS;8;🚗 38W ⚡ carga rápida en el vehículo;;1
+05604           ;CARG ECCO EC-67W TC A TC          ;CARGADORES / POWERBANKS;85;🔌 67W ⚡ carga rápida y segura;;1
+056211          ;CUBO ECCO 18W EC-18 USB           ;CARGADORES / POWERBANKS;30;🔌 18W ⚡ carga rápida y segura;;1
+05623           ;CARG ECCO 12W 2A V8               ;CARGADORES / POWERBANKS;4;🔌 12W ⚡ carga rápida y segura;;1
+05625           ;CARG ECCO 18W FAST CHARGER TIPO C ;CARGADORES / POWERBANKS;253;🔌 18W ⚡ carga rápida y segura;;1
+05626           ;CARG ECCO 18W FAST CHARGER V8     ;CARGADORES / POWERBANKS;80;🔌 18W ⚡ carga rápida y segura;;1
+05627           ;CARG ECCO 20W FAST CHARGER TC A C ;CARGADORES / POWERBANKS;181;🔌 20W ⚡ carga rápida y segura;;1
+05628           ;CARG ECCO 45W FAST CHARGER TC A C ;CARGADORES / POWERBANKS;281;🔌 45W ⚡ carga rápida y segura;;1
+05651           ;CARG ANSTY 33W Q-045T TIPO C      ;CARGADORES / POWERBANKS;1;🔌 33W ⚡ carga rápida y segura;;1
+05665           ;AUTO CAR ANSTY CAR-012 ALIENS     ;CARGADORES / POWERBANKS;176;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+056651          ;AUTO CAR ANSTY CAR-026 P USB-C    ;CARGADORES / POWERBANKS;594;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+056652          ;AUTO CAR ANSTY CAR-021T TC        ;CARGADORES / POWERBANKS;79;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+05670           ;CARG ANSTY 66W AM01 SCH TIPO C    ;CARGADORES / POWERBANKS;0;🔌 66W ⚡ carga rápida y segura;;1
+05675           ;CARG ANSTY C-054T SCH TIPO C      ;CARGADORES / POWERBANKS;2757;🔌 Cargador ⚡ carga rápida y segura;;1
+05676           ;CARG ANSTY C-054A SCH V8          ;CARGADORES / POWERBANKS;645;🔌 Cargador ⚡ carga rápida y segura;;1
+056801          ;CARG ANSTY 45W Q047PT TIPO C      ;CARGADORES / POWERBANKS;6;🔌 45W ⚡ carga rápida y segura;;1
+056851          ;CARG ANSTY 45W Q-037A TIPO C      ;CARGADORES / POWERBANKS;18;🔌 45W ⚡ carga rápida y segura;;1
+05686           ;CARG ANSTY 22.5W Q049 TIPO C      ;CARGADORES / POWERBANKS;190;🔌 22.5W ⚡ carga rápida y segura;;1
+05687           ;CARG ANSTY 120W Q062 TIPO C       ;CARGADORES / POWERBANKS;106;🔌 120W ⚡ carga rápida y segura;;1
+05690           ;CARG ANSTY 45W Q039T USB-C TIPO C ;CARGADORES / POWERBANKS;4;🔌 45W ⚡ carga rápida y segura;;1
+05695           ;CARG ANSTY 18W Q-067 TIPO C       ;CARGADORES / POWERBANKS;108;🔌 18W ⚡ carga rápida y segura;;1
+05699           ;CARG ANSTY 50W Q-057 TC A C       ;CARGADORES / POWERBANKS;0;🔌 50W ⚡ carga rápida y segura;;1
+057001          ;POWER BANK ANSTY AP-039 10000     ;CARGADORES / POWERBANKS;49;🔋 alta capacidad ⚡ carga rápida y confiable;;1
+057002          ;POWER BANK ANSTY AP-038 10000     ;CARGADORES / POWERBANKS;47;🔋 alta capacidad ⚡ carga rápida y confiable;;1
+057003          ;POWER BANK ANSTY AP-075 20000     ;CARGADORES / POWERBANKS;35;🔋 alta capacidad ⚡ carga rápida y confiable;;1
+05701           ;CUBO LDNIO TRAVEL 12W H2221 2PD US;CARGADORES / POWERBANKS;16;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples;;1
+05705           ;CARG ANSTY 50W Q-059 TC           ;CARGADORES / POWERBANKS;72;🔌 50W ⚡ carga rápida y segura;;1
+05710           ;CUBO LDNIO TRAVEL 18W H1209Q 1PD U;CARGADORES / POWERBANKS;0;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples;;1
+05711           ;CUBO LDNIO TRAVEL 20W H1209C 1PD T;CARGADORES / POWERBANKS;2;🌍 Adaptador universal 🔌 ideal para viajes y enchufes múltiples;;1
+05712           ;CUBO ANSTY 12W                    ;CARGADORES / POWERBANKS;297;🔌 12W ⚡ carga rápida y segura;;1
+05720           ;AUTO CAR EARLDOM BT ET-M97 TIPO C ;CARGADORES / POWERBANKS;0;🚗 Cargador auto ⚡ carga rápida en el vehículo;;1
+05802           ;CARG INFINIX HOT 50 33W USB A C   ;CARGADORES / POWERBANKS;48;🔌 33W ⚡ carga rápida y segura;;1
+05803           ;CARG INFINIX NOTE 50 67W TC A C   ;CARGADORES / POWERBANKS;27;🔌 67W ⚡ carga rápida y segura;;1
+05885           ;POWER BANK LDNIO PQ25 10000 22.5W ;CARGADORES / POWERBANKS;9;🔋 22.5W ⚡ carga rápida y confiable;;1
+05889           ;POWER BANK LDNIO PQ20 20000 mAh   ;CARGADORES / POWERBANKS;4;🔋 20000 mAh ⚡ carga rápida y confiable;;1
+05890           ;POWER BANK LDNIO PQ24 20000 mAh   ;CARGADORES / POWERBANKS;0;🔋 20000 mAh ⚡ carga rápida y confiable;;1
+05900           ;AUTO HOLDER EARLDOM  ET-EH190     ;CARGADORES / POWERBANKS;22;🚗 Soporte auto 📱 firme, práctico y resistente;;1
+05901           ;AUTO HOLDER EARLDOM  ET-EH221     ;CARGADORES / POWERBANKS;30;🚗 Soporte auto 📱 firme, práctico y resistente;;1
+06001           ;BATERIA S3 MINI PREMIUM NORMAL    ;BATERIAS;5;🔋 Batería de repuesto 📱 energía confiable para celular;;1
+06003           ;BATERIA J5 PREMIUM                ;BATERIAS;1;🔋 Batería de repuesto 📱 energía confiable para celular;;1
+06011           ;BATERIA NOKIA BL5C                ;BATERIAS;4;🔋 Batería de repuesto 📱 energía confiable para celular;;1
+06017           ;BATERIA NOKIA BL4C                ;BATERIAS;1;🔋 Batería de repuesto 📱 energía confiable para celular;;1
+06018           ;BATERIA J1 ACE                    ;BATERIAS;11;🔋 Batería de repuesto 📱 energía confiable para celular;;1
+06019           ;BATERIA SAM J7                    ;BATERIAS;2;🔋 Batería de repuesto 📱 energía confiable para celular;;1
+06020           ;PILA RECARGABLE AA 1.5V No.5      ;BATERIAS;156;🔋 Pila recargable ⚡ reutilizable y práctica;;1
+06021           ;PILA RECARGABLE AAA 1.5V No.7     ;BATERIAS;155;🔋 Pila recargable ⚡ reutilizable y práctica;;1
+070011          ;MOUSE GENIUS DX-110 USB ROJO      ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070012          ;MOUSE GENIUS DX-110 USB AZUL      ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070013          ;MOUSE GENIUS DX-110 USB NEGRO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07003           ;MOUSE MICRO GENIUS TRAV NEGRO     ;PRODUCTOS DE COMPUTACIÓN;3;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070030          ;MOUSE GENIUS DX-MINI NEGRO        ;PRODUCTOS DE COMPUTACIÓN;35;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070031          ;MOUSE GENIUS DX-MINI CELESTE      ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070041          ;MOUSE GENIUS NX-7005 USB NEGRO    ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070042          ;MOUSE GENIUS NX-7005 USB AZUL     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070043          ;MOUSE GENIUS NX-7005 USB ROJO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07009           ;TECL QUASAD QK480U PLANO          ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo;;1
+070122          ;TECL NUMERICO 125 TIPO C          ;PRODUCTOS DE COMPUTACIÓN;0;🔢 Teclado numérico 💻 compacto y práctico;;1
+07021           ;TECL GENIUS SMART KB-100          ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo;;1
+070391          ;MOUSE ECCO CON CABLE CP72         ;PRODUCTOS DE COMPUTACIÓN;475;🖱️ Mouse USB 💻 cómodo y preciso;;1
+070402          ;TECL JEDEL RETROILU K510          ;PRODUCTOS DE COMPUTACIÓN;16;⌨️ Teclado iluminado 💡 cómodo y gamer;;1
+07047           ;CAM GENIUS Q6000 HD               ;PRODUCTOS DE COMPUTACIÓN;3;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+07049           ;TECLADO JEDEL GAMING K505+        ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado iluminado 💡 cómodo y gamer;;1
+070492          ;TECL JEDEL GAMING K505            ;PRODUCTOS DE COMPUTACIÓN;25;⌨️ Teclado iluminado 💡 cómodo y gamer;;1
+070621          ;CAM TP-LINK TAPO C202             ;PRODUCTOS DE COMPUTACIÓN;0;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+070622          ;CAM TP-LINK TAPO C212             ;PRODUCTOS DE COMPUTACIÓN;5;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+070623          ;CAM TP-LINK TAPO C120             ;PRODUCTOS DE COMPUTACIÓN;6;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+070626          ;CAM TP-LINK TAPO C320WS           ;PRODUCTOS DE COMPUTACIÓN;3;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+070628          ;CAM TP-LINK TAPO C530WS           ;PRODUCTOS DE COMPUTACIÓN;3;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+070629          ;CAM TP-LINK TAPO C246 DUAL LENTS  ;PRODUCTOS DE COMPUTACIÓN;2;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+070630          ;CAM MERCUSYS C510 WIFI 2K 360GR   ;PRODUCTOS DE COMPUTACIÓN;5;📷 Cámara 360° 📡 vigilancia amplia y WiFi;;1
+07064           ;MOUSE JEDEL GAMER CP77            ;PRODUCTOS DE COMPUTACIÓN;2;🖱️ Mouse gamer ⚡ precisión y respuesta rápida;;1
+07074           ;MOUSE GENIUS NX-7007 USB NEGRO    ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07077           ;MOUSE GENIUS NX-7007 USB AZUL     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07078           ;MOUSE GENIUS NX-7007 USB ROJO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07080           ;TECL GENIUS KB117 NEGRO           ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo;;1
+07094           ;CAM TP-LINK TAPO EXT C310         ;PRODUCTOS DE COMPUTACIÓN;8;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+07098           ;CAM LIVIN WI FI 1080P JW3120S     ;PRODUCTOS DE COMPUTACIÓN;0;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+07110           ;TECL GENIUS SLIM STAR 820 ILUMIN  ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo;;1
+07115           ;TECL QUASAD QC4400U COMBO BLACK   ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+07116           ;TECL QUASAD QC2500i COMBO BLACK   ;PRODUCTOS DE COMPUTACIÓN;3;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+07117           ;TECL LOGITECH K120 NEGRO          ;PRODUCTOS DE COMPUTACIÓN;16;⌨️ Teclado USB 💻 práctico y cómodo;;1
+07121           ;TECL JEDEL + MOUSE WIR WS681      ;PRODUCTOS DE COMPUTACIÓN;22;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+07122           ;TECL JEDEL+ MOUSE GK106 NEGRO     ;PRODUCTOS DE COMPUTACIÓN;39;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+071221          ;TECL JEDEL + MOUSE GK106 BLANCO   ;PRODUCTOS DE COMPUTACIÓN;19;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+07123           ;MOUSE JEDEL ERGONOMICO W925       ;PRODUCTOS DE COMPUTACIÓN;58;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07125           ;TECL JEDEL + MOUSE G18            ;PRODUCTOS DE COMPUTACIÓN;60;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+07130           ;CAM 360 2 CAMARAS C VERDE         ;PRODUCTOS DE COMPUTACIÓN;2;📷 Cámara 360° 📡 vigilancia amplia y WiFi;;1
+07131           ;CAM 360 3 CAMARAS C LILA          ;PRODUCTOS DE COMPUTACIÓN;6;📷 Cámara 360° 📡 vigilancia amplia y WiFi;;1
+07132           ;CAM SANCI MINI  ESPIA             ;PRODUCTOS DE COMPUTACIÓN;15;📷 Cámara mini 🔍 compacta y discreta;;1
+07151           ;TECL ECCO CON CABLE K15           ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo;;1
+07152           ;TECL ECCO CON CABLE K29           ;PRODUCTOS DE COMPUTACIÓN;183;⌨️ Teclado USB 💻 práctico y cómodo;;1
+07153           ;TECL ECCO CON CABLE EC K31        ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Teclado USB 💻 práctico y cómodo;;1
+07171           ;MOUSE ECCO WIRELESS EC-W690       ;PRODUCTOS DE COMPUTACIÓN;199;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07172           ;MOUSE ECCO WIRELESS EC-W930       ;PRODUCTOS DE COMPUTACIÓN;200;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07180           ;MOUSE QUASAD QM-703U CON CABLE NEG;PRODUCTOS DE COMPUTACIÓN;85;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07181           ;MOUSE QUASAD QM-703U CON CABLE GRI;PRODUCTOS DE COMPUTACIÓN;91;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07186           ;MOUSE QUASAD QM-610 WIRL NEGRO    ;PRODUCTOS DE COMPUTACIÓN;143;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07187           ;MOUSE QUASAD QM-610 WIRL GRIS     ;PRODUCTOS DE COMPUTACIÓN;121;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07188           ;MOUSE QUASAD WIRL QME-V10 GRIS    ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07211           ;MOUSE JEDEL WIRELESS WD100        ;PRODUCTOS DE COMPUTACIÓN;2;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07250           ;MOUSE EARLDOM KM2 CON CABLE NEGRO ;PRODUCTOS DE COMPUTACIÓN;43;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07251           ;MOUSE EARLDOM ERGO KM4            ;PRODUCTOS DE COMPUTACIÓN;16;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07252           ;MOUSE EARLDOM INALAM KM7          ;PRODUCTOS DE COMPUTACIÓN;29;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07253           ;MOUSE YELANDAR INALAM ERGON BW100 ;PRODUCTOS DE COMPUTACIÓN;16;🖱️ Mouse inalámbrico 🔋 cómodo y práctico;;1
+07301           ;ROUTER MERCUSYS INALAM MW302R 2 AN;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+073011          ;ROUTER MERCUSYS MW306R 3 ANT      ;PRODUCTOS DE COMPUTACIÓN;8;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+073012          ;ROUTER MERCUSYS 300MBPS MW301R 2 A;PRODUCTOS DE COMPUTACIÓN;4;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07302           ;EXTEN TP-LINK DE COBER 300MBP WA85;PRODUCTOS DE COMPUTACIÓN;17;📶 Extensor WiFi 🌐 mejora cobertura y señal;;1
+073021          ;EXTEN TP-LINK WI-FI EN MALLA  AC12;PRODUCTOS DE COMPUTACIÓN;7;📶 Extensor WiFi 🌐 mejora cobertura y señal;;1
+073022          ;EXTEN TP-LINK WI-FI MESH  AC750 30;PRODUCTOS DE COMPUTACIÓN;0;📶 Extensor WiFi 🌐 mejora cobertura y señal;;1
+07304           ;ROUTER TP-LINK INAL 300MPBS WR840N;PRODUCTOS DE COMPUTACIÓN;8;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07305           ;ROUTER TP-LINK DOBLE BANDA AC750 4;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07306           ;ROUTER TP-LINK AC1200 WI-FI 4 ANT ;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07307           ;EXTEN TP-LINK RANGO N300MBP TL-WA8;PRODUCTOS DE COMPUTACIÓN;26;📶 Extensor WiFi 🌐 mejora cobertura y señal;;1
+07308           ;ADAPT TP-LINK BLUETOOTH 5.0 UB500 ;PRODUCTOS DE COMPUTACIÓN;8;📡 Adaptador USB 🌐 conexión práctica y estable;;1
+07309           ;ADAPT TP-LINK MINI WLS TL-WN823N  ;PRODUCTOS DE COMPUTACIÓN;11;📡 Adaptador USB 🌐 conexión práctica y estable;;1
+07310           ;ADAPT TP-LINK 150MBPS TL-WN725N   ;PRODUCTOS DE COMPUTACIÓN;13;📡 Adaptador USB 🌐 conexión práctica y estable;;1
+07311           ;ROUTER TP-LINK AC1200 DOBLE BANDA ;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07312           ;EXTEN MERCUSYS DE RANGO MW300RE   ;PRODUCTOS DE COMPUTACIÓN;8;📶 Extensor WiFi 🌐 mejora cobertura y señal;;1
+07313           ;ADAPT TP-LINK MINI USB  ARCHER T2U;PRODUCTOS DE COMPUTACIÓN;4;📡 Adaptador USB 🌐 conexión práctica y estable;;1
+07314           ;ADAPT TP-LINK USB ARCHER T2U NANO ;PRODUCTOS DE COMPUTACIÓN;13;📡 Adaptador USB 🌐 conexión práctica y estable;;1
+07315           ;ROUTER MERCUSYS AX1500 MR62X 4 ANT;PRODUCTOS DE COMPUTACIÓN;0;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07316           ;ROUTER MERCUSYS AC1200 MR30G 4 ANT;PRODUCTOS DE COMPUTACIÓN;3;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07320           ;ROUTER TP-LINK AX1500 ARCHER AX12 ;PRODUCTOS DE COMPUTACIÓN;9;📡 Router WiFi 🌐 conexión estable para el hogar;;1
+07350           ;SWITCH MERCUSYS ESCRITORIO 5 POR  ;PRODUCTOS DE COMPUTACIÓN;0;🌐 Switch de red 🔌 expande conexiones Ethernet;;1
+07351           ;SWITCH MERCUSYS ESCRITORIO 8 POR  ;PRODUCTOS DE COMPUTACIÓN;3;🌐 Switch de red 🔌 expande conexiones Ethernet;;1
+07352           ;SWITCH TP LINK LS1008 8 POR       ;PRODUCTOS DE COMPUTACIÓN;0;🌐 Switch de red 🔌 expande conexiones Ethernet;;1
+07353           ;SWITCH TP LINK LS1005 5 POR       ;PRODUCTOS DE COMPUTACIÓN;0;🌐 Switch de red 🔌 expande conexiones Ethernet;;1
+07354           ;"ESTUCHE LDNIO PARA LAPTOP 13"" A 16";PRODUCTOS DE COMPUTACIÓN;1;💼 Estuche protector 💻 práctico y resistente;;1
+07500           ;MOUSEPAD COLORES                  ;PRODUCTOS DE COMPUTACIÓN;83;🖱️ Mouse USB 💻 cómodo y preciso;;1
+075001          ;TRIPODE JJ60                      ;PRODUCTOS DE COMPUTACIÓN;3;📸 Trípode ajustable 📱 ideal para fotos y videos;;1
+07502           ;CARG LAPTOP VARIAS ENTRADAS       ;PRODUCTOS DE COMPUTACIÓN;10;🔌 Cargador ⚡ carga rápida y segura;;1
+07560           ;TECL MINI KEYBOARD BACKLIT        ;PRODUCTOS DE COMPUTACIÓN;16;⌨️ Teclado iluminado 💡 cómodo y gamer;;1
+07604           ;PARL ECCO CPU EC-CK4              ;PRODUCTOS DE COMPUTACIÓN;200;🔊 Parlante para PC 💻 sonido claro y práctico;;1
+07605           ;PARL JEDEL CPU S-562 TIPO BARRA   ;PRODUCTOS DE COMPUTACIÓN;28;🔊 Parlante para PC 💻 sonido claro y práctico;;1
+07606           ;PARL JEDEL CPU S-576 x2           ;PRODUCTOS DE COMPUTACIÓN;98;🔊 Parlante para PC 💻 sonido claro y práctico;;1
+07607           ;PARL JEDEL CPU S-578x2            ;PRODUCTOS DE COMPUTACIÓN;50;🔊 Parlante para PC 💻 sonido claro y práctico;;1
+07610           ;PARL GENIUS CPU SP-HF 180 CAFE    ;PRODUCTOS DE COMPUTACIÓN;1;🔊 Parlante para PC 💻 sonido claro y práctico;;1
+07612           ;PARL JEDEL CPU S-550              ;PRODUCTOS DE COMPUTACIÓN;37;🔊 Parlante para PC 💻 sonido claro y práctico;;1
+07651           ;TECLADO + MOUSE JEDEL G10         ;PRODUCTOS DE COMPUTACIÓN;0;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+077001          ;CONTROL DSH WLS PS3 NEGRA         ;PRODUCTOS DE COMPUTACIÓN;26;📦 Producto práctico ✨ útil para uso diario;;1
+077002          ;CONTROL DSH WLS PS3 ROJA          ;PRODUCTOS DE COMPUTACIÓN;10;📦 Producto práctico ✨ útil para uso diario;;1
+077003          ;CONTROL DSH WLS PS3 BLANCA        ;PRODUCTOS DE COMPUTACIÓN;4;📦 Producto práctico ✨ útil para uso diario;;1
+077011          ;CONTROL DSH WLS PS4 ROJO          ;PRODUCTOS DE COMPUTACIÓN;6;📦 Producto práctico ✨ útil para uso diario;;1
+077012          ;CONTROL DSH WLS PS4 NEGRO         ;PRODUCTOS DE COMPUTACIÓN;5;📦 Producto práctico ✨ útil para uso diario;;1
+077014          ;CONTROL DSH WLS PS4 DISEÑO GRIS   ;PRODUCTOS DE COMPUTACIÓN;3;📦 Producto práctico ✨ útil para uso diario;;1
+077015          ;CONTROL DSH WLS PS4 DISEÑO ROJO   ;PRODUCTOS DE COMPUTACIÓN;0;📦 Producto práctico ✨ útil para uso diario;;1
+07750           ;TECL GENIUS + MOUSE OP KM8206S    ;PRODUCTOS DE COMPUTACIÓN;2;⌨️ Combo teclado y mouse 💻 práctico para oficina;;1
+077501          ;TECL GENIUS SLIMSTART 7250BT      ;PRODUCTOS DE COMPUTACIÓN;4;⌨️ Teclado USB 💻 práctico y cómodo;;1
+07751           ;MOUSE GENIUS ECO8100 RECAR NEGRO  ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07752           ;MOUSE GENIUS ECO8100 RECAR AZUL   ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+07760           ;MOUSE GENIUS DX-123 USB NEGRO     ;PRODUCTOS DE COMPUTACIÓN;0;🖱️ Mouse USB 💻 cómodo y preciso;;1
+08005           ;INSUMO 6640 BK                    ;TINTAS;197;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+080051          ;TINTA EPSON 544 JUEGO X 4 ORIG    ;TINTAS;2;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+080052          ;TINTA EPSON 504 JUEGO X 4 ORIG    ;TINTAS;0;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08006           ;INSUMO 6640 C                     ;TINTAS;150;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08007           ;INSUMO 6640 Y                     ;TINTAS;139;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08008           ;INSUMO 6640 M                     ;TINTAS;156;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08009           ;INSUMO 5440 BK                    ;TINTAS;262;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08010           ;INSUMO 5440 C                     ;TINTAS;218;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08011           ;INSUMO 5440 Y                     ;TINTAS;203;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08012           ;INSUMO 5440 M                     ;TINTAS;204;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08013           ;INSUMO 5040 BK                    ;TINTAS;80;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08014           ;INSUMO 5040 C                     ;TINTAS;111;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08015           ;INSUMO 5040 Y                     ;TINTAS;101;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08016           ;INSUMO 5040 M                     ;TINTAS;103;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08017           ;INSUMO HG530 BK                   ;TINTAS;57;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08018           ;INSUMO HG520 C                    ;TINTAS;43;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08019           ;INSUMO HG520 Y                    ;TINTAS;43;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08020           ;INSUMO HG520 M                    ;TINTAS;43;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08021           ;INSUMO 1900 BK                    ;TINTAS;72;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08022           ;INSUMO 1900 C                     ;TINTAS;63;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08023           ;INSUMO 1900 Y                     ;TINTAS;65;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08024           ;INSUMO 1900 M                     ;TINTAS;60;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08025           ;INSUMO IPR 0600 BK                ;TINTAS;39;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08026           ;INSUMO IPR 05000C                 ;TINTAS;32;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08027           ;INSUMO IPR 05000 Y                ;TINTAS;19;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08028           ;INSUMO IPR 05000 M                ;TINTAS;18;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08029           ;INSUMO 1 LT BK                    ;TINTAS;7;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+080291          ;INSUMO 1 LT CY                    ;TINTAS;9;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+080292          ;INSUMO 1 LT Y                     ;TINTAS;8;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+080293          ;INSUMO 1 LT MG                    ;TINTAS;9;🖨️ Tinta para impresora 🎨 color intenso y rendimiento;;1
+08038           ;LIQUIDO LIMPIEZA CABEZAL IMPRESORA;TINTAS;0;🧴 Limpieza cabezal 🖨️ mantenimiento seguro de impresora;;1
+09001           ;REGULADOR CDP RU-AVR604  4 NEMA   ;RICH;6;🔌 Regulador eléctrico ⚡ protege equipos de voltaje;;1
+09002           ;REGULADOR CDP R2C-AVR 1008 8 NEMA ;RICH;0;🔌 Regulador eléctrico ⚡ protege equipos de voltaje;;1
+09007           ;FUENTE DE PODER QUASAD 850W 4 PIN ;RICH;0;⚡ Fuente de poder 💻 energía estable para PC;;1
+09009           ;REGULADOR QUASAD QAVR-1050 1000VA ;RICH;0;🔌 Regulador eléctrico ⚡ protege equipos de voltaje;;1
+090121          ;MAQUINA RICH UV                   ;RICH;9;✂️ Máquina Rich ⚡ precisión profesional para láminas;;1
+090122          ;IMPRESORA RICH                    ;RICH;4;🖨️ Impresora Rich ⚡ trabajo práctico y profesional;;1
+090123          ;KIT ROLLO IMPRE RICH              ;RICH;2;📦 Kit de rollo 🖨️ repuesto práctico para impresión;;1
+090124          ;"MAQUINA RICH 13"" CUP 3 RODILLOS   ";RICH;0;✂️ Máquina Rich ⚡ precisión profesional para láminas;;1
+090125          ;"MAQUINA RICH 16"" CUP 4 RODILLOS   ";RICH;0;✂️ Máquina Rich ⚡ precisión profesional para láminas;;1
+090128          ;MAQUINA RICH MINI BLACK           ;RICH;9;✂️ Máquina Rich ⚡ precisión profesional para láminas;;1
+09015           ;FUENTE DE PODER ALTEK MINI ITX900W;RICH;0;⚡ Fuente de poder 💻 energía estable para PC;;1
+09016           ;FUENTE DE PODER ALTEK ATX 900W 24P;RICH;53;⚡ Fuente de poder 💻 energía estable para PC;;1
+09020           ;LAMINA RICH TRANSP HD             ;RICH;1374;📱 Lámina protectora 🛡️ alta claridad y resistencia;;1
+090201          ;LAMINA RICH UV HD                 ;RICH;697;📱 Lámina protectora 🛡️ alta claridad y resistencia;;1
+0902011         ;LAMINA RICH LAPTOP HD             ;RICH;100;📱 Lámina protectora 🛡️ alta claridad y resistencia;;1
+09021           ;LAMINA RICH MATE                  ;RICH;0;📱 Lámina mate 🛡️ acabado suave y resistente;;1
+090211          ;LAMINA RICH SUPER PREMIUN HD      ;RICH;136;📱 Lámina protectora 🛡️ alta claridad y resistencia;;1
+09022           ;LAMINA RICH ANTIESPIA MATE        ;RICH;595;📱 Lámina antiespía 🛡️ privacidad y protección;;1
+09023           ;LAMINA RICH TRANSP HD TABLET      ;RICH;0;📱 Lámina protectora 🛡️ alta claridad y resistencia;;1
+090231          ;LAMINA RICH MATE TABLET           ;RICH;0;📱 Lámina mate 🛡️ acabado suave y resistente;;1
+09025           ;SKIN DE DISEÑO ALTO RELIEVE SURTID;RICH;47;🎨 Skin diseño 🔥 estilo y protección con relieve;;1
+09030           ;REGULADOR CDP R2CU-AVR1008 4USB FR;RICH;0;🔌 Regulador eléctrico ⚡ protege equipos de voltaje;;1
+09035           ;LAMINA RICH ANTI-BLUE             ;RICH;1;📱 Lámina anti-blue 🛡️ protección visual diaria;;1
+09038           ;LAMINA RICH ANTIESPIA HD          ;RICH;301;📱 Lámina antiespía 🛡️ privacidad y protección;;1
+09039           ;LAMINA DISEÑO MATE                ;RICH;552;📱 Lámina mate 🛡️ acabado suave y resistente;;1
+09040           ;LAMINA RICH EPU PRO TRANS HD      ;RICH;500;📱 Lámina protectora 🛡️ alta claridad y resistencia;;1
+09041           ;LAMINA RICH EPU PRO ANTIESPIA MATE;RICH;700;📱 Lámina antiespía 🛡️ privacidad y protección;;1
+09043           ;LAMINA RICH EPU PRO ANTIESPIA HD  ;RICH;246;📱 Lámina antiespía 🛡️ privacidad y protección;;1
+09045           ;LAMINA RICH LITE ANTIESPIA MATE   ;RICH;648;📱 Lámina antiespía 🛡️ privacidad y protección;;1
+09046           ;LAMINA RICH LITE MATE             ;RICH;699;📱 Lámina mate 🛡️ acabado suave y resistente;;1
+09047           ;LAMINA RICH LITE TRANS HD         ;RICH;0;📱 Lámina protectora 🛡️ alta claridad y resistencia;;1
+09101           ;LAPIZ PARA LAMINAS RICH           ;RICH;1;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09102           ;PAÑO LIMPIEZA                     ;RICH;303;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09103           ;AGUJA DE REEMPLAZO                ;RICH;36;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09106           ;ALFOMBRA RICH ANTI SLIP           ;RICH;39;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09107           ;CALIBRADOR RICH                   ;RICH;3;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09109           ;CARGADOR MAQUINA RICH             ;RICH;2;🔌 Cargador ⚡ carga rápida y segura;;1
+09300           ;PALETA RICH PEQUEÑA               ;RICH;112.99;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09301           ;PALETA RICH GRANDE                ;RICH;19;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09302           ;PALETA AZUL GRANDE                ;RICH;2;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+09304           ;PALETA RICH EPU DOBLE             ;RICH;14;🛠️ Accesorio técnico ✨ práctico para trabajo profesional;;1
+098029          ;PARLANTE DPUS SZ-6565             ;RICH;1;🔊 Parlante Bluetooth 🎵 sonido potente y portátil;;1
+99001;FUNDA PEQ LDNIO REG               ;VARIOS PRODUCTOS;650;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+990012;KIT NAVIDEÑO                      ;VARIOS PRODUCTOS;300;🎄 Kit navideño 🎁 detalle práctico y festivo;;1
+99002;CAMISETA PROMO                    ;VARIOS PRODUCTOS;4;📷 Cámara WiFi 📡 vigilancia clara y segura;;1
+99003;ESFERO PROMO                      ;VARIOS PRODUCTOS;573;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+990033;COLAGENO                          ;VARIOS PRODUCTOS;1;✨ Colágeno 💪 complemento práctico de bienestar;;1
+99004;ENVIO                             ;VARIOS PRODUCTOS;99999929;🚚 Servicio de envío 📦 entrega práctica y segura;;1
+99005;GORRAS PROMO                      ;VARIOS PRODUCTOS;24;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99006;CORDONES DE ID PROMO              ;VARIOS PRODUCTOS;221;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99007;AFICHES PROMO                     ;VARIOS PRODUCTOS;96;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99008;EXHIBIDOR LDNIO GRANDE            ;VARIOS PRODUCTOS;7;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+990081;EXHIBIDOR LDNIO PEQUEÑO           ;VARIOS PRODUCTOS;24;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99010;FUNDA DE PAPEL LDNIO REGALO       ;VARIOS PRODUCTOS;28;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99011;AGENDA PROMO                      ;VARIOS PRODUCTOS;5;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99012;TOMATODO PROMO                    ;VARIOS PRODUCTOS;18;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99013;TAZA PROMO                        ;VARIOS PRODUCTOS;10;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99014;TERMO PARLANTE RICH               ;VARIOS PRODUCTOS;11;🔊 Producto con parlante 🎵 práctico y llamativo;;1
+99015;VARIOS PRODUCTOS                  ;VARIOS PRODUCTOS;33;📦 Producto práctico ✨ útil para uso diario;;1
+99016;VARIOS MASAJEADORA                ;VARIOS PRODUCTOS;30;💆 Masajeadora portátil ⚡ relajación práctica y cómoda;;1
+99017;EXHIBIDOR ANSTY GRANDE            ;VARIOS PRODUCTOS;2;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99018;BANNER PEQ RICH                   ;VARIOS PRODUCTOS;32;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99019;EXHIBIDOR ANSTY PEQUEÑO           ;VARIOS PRODUCTOS;5;🎁 Material promocional ✨ ideal para marca y exhibición;;1
+99100;ESTUCHE                           ;VARIOS PRODUCTOS;0;💼 Estuche protector 💻 práctico y resistente;;1

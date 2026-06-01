@@ -9,9 +9,14 @@ export default async function Home() {
     include: {
       category: true,
     },
-    orderBy: {
-      name: "asc",
-    },
+    orderBy: [
+      {
+        displayOrder: "asc",
+      },
+      {
+        name: "asc",
+      },
+    ],
   })
 
   return <ProductCatalog products={products} />
