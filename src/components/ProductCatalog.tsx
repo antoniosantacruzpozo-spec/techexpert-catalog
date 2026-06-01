@@ -13,7 +13,7 @@ type Product = {
   } | null
 }
 
-const WHATSAPP_NUMBER = "593984615551"
+const WHATSAPP_NUMBER = "593999153775"
 
 export function ProductCatalog({ products }: { products: Product[] }) {
   const [search, setSearch] = useState("")
