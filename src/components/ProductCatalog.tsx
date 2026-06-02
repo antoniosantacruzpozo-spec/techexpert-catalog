@@ -176,10 +176,10 @@ export function ProductCatalog({ products }: { products: Product[] }) {
                   className="group overflow-hidden rounded-3xl bg-white shadow-sm ring-1 ring-gray-200 transition hover:-translate-y-1 hover:shadow-xl"
                 >
                   <div className="relative bg-gray-100">
-                    <img
-                      src={`/products/${product.code}.JPG`}
-                      alt={product.name}
-                      className="aspect-[4/3] w-full object-cover transition duration-300 group-hover:scale-105 sm:aspect-square"
+                  <img
+                    src={`/products/${product.code}.JPG`}
+                    alt={product.name}
+                    className="aspect-[4/3] w-full bg-white object-contain p-3 transition duration-300 group-hover:scale-105 sm:aspect-square"
                     />
 
                     <span
